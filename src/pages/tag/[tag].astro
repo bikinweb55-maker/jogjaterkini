@@ -1,0 +1,24 @@
+---
+import ArchiveLayout from '@/layouts/ArchiveLayout.astro';
+import { getAllBerita, getTags, type Berita } from '@/lib/berita';
+import { SITE } from '@/site.config';
+
+export async function getStaticPaths() {
+  const tags = getTags(await getAllBerita());
+  return [...tags].map(([slug, tag]) => ({ params: { tag: slug }, props: tag }));
+}
+
+interface Props { name: string; items: Berita[]; indexable: boolean; }
+const { name, items, indexable } = Astro.props;
+const description = `Kumpulan berita tentang ${name} di Yogyakarta dari ${SITE.name}.`;
+---
+
+<ArchiveLayout
+  title={`Berita ${name}`}
+  description={description}
+  heading={`Tag: ${name}`}
+  intro={description}
+  items={items}
+  breadcrumb={[{ name: 'Beranda', href: '/' }, { name: `Tag: ${name}` }]}
+  noindex={!indexable}
+/>

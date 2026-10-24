@@ -1,0 +1,38 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+
+<PageLayout
+  title="Pedoman Media Siber"
+  description={`Pedoman Pemberitaan Media Siber yang menjadi acuan redaksi ${SITE.name}, sesuai Peraturan Dewan Pers.`}
+>
+  <p>
+    {SITE.name} mengacu pada Pedoman Pemberitaan Media Siber yang ditetapkan Dewan Pers. Ringkasan pokok-pokoknya:
+  </p>
+  <h2>1. Verifikasi dan Keberimbangan Berita</h2>
+  <p>
+    Setiap berita harus melalui verifikasi. Berita yang dapat merugikan pihak lain memerlukan verifikasi pada berita
+    yang sama untuk memenuhi prinsip akurasi dan keberimbangan.
+  </p>
+  <h2>2. Isi Buatan Pengguna</h2>
+  <p>
+    Isi buatan pengguna (misalnya komentar) yang memuat kebohongan, fitnah, SARA, pornografi, atau kekerasan tidak akan
+    dipublikasikan dan dapat dihapus.
+  </p>
+  <h2>3. Ralat, Koreksi, dan Hak Jawab</h2>
+  <p>
+    Ralat, koreksi, dan hak jawab mengacu pada Undang-Undang Pers, Kode Etik Jurnalistik, dan Pedoman Hak Jawab yang
+    ditetapkan Dewan Pers, serta ditautkan pada berita yang diralat.
+  </p>
+  <h2>4. Pencabutan Berita</h2>
+  <p>
+    Berita yang sudah dipublikasikan tidak dapat dicabut karena alasan penyensoran dari pihak luar redaksi, kecuali terkait
+    masalah SARA, kesusilaan, masa depan anak, pengalaman traumatik korban, atau pertimbangan khusus lain yang ditetapkan Dewan Pers.
+  </p>
+  <h2>5. Iklan</h2>
+  <p>Setiap berita berbayar atau konten iklan wajib diberi keterangan yang jelas sebagai iklan atau advertorial.</p>
+  <h2>6. Hak Cipta</h2>
+  <p>Media siber wajib menghormati hak cipta sebagaimana diatur dalam peraturan perundang-undangan.</p>
+  <p>Teks lengkap pedoman dapat dibaca di situs resmi Dewan Pers.</p>
+</PageLayout>

@@ -1,0 +1,23 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+
+<PageLayout title="Redaksi" description={`Susunan redaksi dan informasi penerbit ${SITE.name}.`}>
+  <!-- CONTOH: semua nama, badan hukum, dan alamat di bawah ini hanya contoh. Ganti dengan data asli sebelum situs dipromosikan. -->
+  <table>
+    <tbody>
+      <tr><th scope="row">Penerbit</th><td>PT Contoh Media Jogja</td></tr>
+      <tr><th scope="row">Pemimpin Redaksi</th><td>Budi Santoso</td></tr>
+      <tr><th scope="row">Redaktur</th><td>Sari Wulandari</td></tr>
+      <tr><th scope="row">Reporter</th><td>Rudi Hartono, Dewi Lestari</td></tr>
+      <tr><th scope="row">Alamat Redaksi</th><td>Jl. Contoh Raya No. 10, {SITE.address.locality}, {SITE.address.region}</td></tr>
+      <tr><th scope="row">Surel</th><td><a href={`mailto:${SITE.email}`}>{SITE.email}</a></td></tr>
+    </tbody>
+  </table>
+  <h2>Koreksi dan Hak Jawab</h2>
+  <p>
+    Pihak yang merasa dirugikan oleh pemberitaan dapat mengajukan hak jawab atau koreksi melalui surel redaksi.
+    Ketentuan selengkapnya ada di <a href="/pedoman-media-siber/">Pedoman Pemberitaan Media Siber</a>.
+  </p>
+</PageLayout>

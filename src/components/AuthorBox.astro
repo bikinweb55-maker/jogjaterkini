@@ -1,0 +1,26 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { authorUrl } from '@/lib/berita';
+export interface Props { author: CollectionEntry<'penulis'>; }
+const { author } = Astro.props;
+const initials = author.data.name.split(' ').map((w) => w.charAt(0)).slice(0, 2).join('');
+---
+
+<aside class="author-box" aria-label="Tentang penulis">
+  <span class="avatar" aria-hidden="true">{initials}</span>
+  <div>
+    <p class="author-name"><a href={authorUrl(author.id)}>{author.data.name}</a></p>
+    <p class="meta">{author.data.role}</p>
+    <p class="author-bio">{author.data.bio}</p>
+  </div>
+</aside>
+
+<style>
+  .author-box { display: flex; gap: 16px; padding: 20px; border-radius: var(--radius); background: var(--color-surface); }
+  .avatar {
+    flex: 0 0 56px; height: 56px; display: grid; place-items: center; border-radius: 50%;
+    background: var(--color-accent); color: var(--color-on-accent); font: 700 1.1rem/1 var(--font-serif);
+  }
+  .author-name { font-family: var(--font-serif); font-weight: 700; font-size: 1.0625rem; }
+  .author-bio { margin-top: 8px; font-size: 0.9375rem; }
+</style>

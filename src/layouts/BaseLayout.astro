@@ -1,0 +1,56 @@
+---
+import BaseHead, { type Props as HeadProps } from '@/components/BaseHead.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import { SITE } from '@/site.config';
+import { breadcrumbList, graph, organization, webPage, website, type Crumb, type PageType } from '@/lib/schema';
+
+export interface Props extends Omit<HeadProps, 'jsonLd'> {
+  /** Breadcrumb halaman ini; juga dipakai untuk schema BreadcrumbList. */
+  breadcrumb?: Crumb[];
+  pageType?: PageType;
+  /** Node schema tambahan khusus halaman (NewsArticle, ItemList, dll). */
+  schema?: Record<string, unknown>[];
+  /** Field tambahan untuk node WebPage (mis. mainEntity). */
+  pageExtra?: Record<string, unknown>;
+  hasPrimaryImage?: boolean;
+}
+
+const { breadcrumb, pageType, schema = [], pageExtra, hasPrimaryImage, ...head } = Astro.props;
+const path = Astro.url.pathname;
+const name = head.title === SITE.name ? `${SITE.name} — ${SITE.tagline}` : head.title;
+
+// Halaman tanpa canonical (mis. 404) bukan URL nyata → cukup entitas situs, tanpa WebPage.
+const jsonLd = graph(head.canonical === false ? [organization(), website()] : [
+  organization(),
+  website(),
+  webPage({
+    path,
+    name,
+    description: head.description,
+    type: pageType,
+    hasBreadcrumb: !!breadcrumb,
+    primaryImage: hasPrimaryImage ? path : undefined,
+    extra: pageExtra,
+  }),
+  ...(breadcrumb ? [breadcrumbList(path, breadcrumb)] : []),
+  ...schema,
+]);
+---
+
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <BaseHead {...head} jsonLd={jsonLd}>
+      <slot name="head" />
+    </BaseHead>
+  </head>
+  <body>
+    <a href="#main-content" class="skip-link">Lewati ke konten utama</a>
+    <Header />
+    <main id="main-content">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

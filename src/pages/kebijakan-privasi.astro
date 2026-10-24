@@ -1,0 +1,25 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+
+<PageLayout
+  title="Kebijakan Privasi"
+  description={`Kebijakan privasi ${SITE.name}: data apa yang dikumpulkan saat Anda membaca situs ini dan bagaimana data tersebut digunakan.`}
+  updated="14 Oktober 2026"
+>
+  <h2>Data yang Kami Kumpulkan</h2>
+  <p>
+    {SITE.name} tidak mewajibkan pendaftaran akun untuk membaca berita. Kami dapat mengumpulkan data teknis anonim
+    seperti jenis peramban, halaman yang dikunjungi, dan waktu kunjungan untuk keperluan statistik.
+  </p>
+  <h2>Cookie dan Layanan Pihak Ketiga</h2>
+  <p>
+    Situs ini dapat menggunakan layanan pihak ketiga (misalnya analitik atau iklan) yang memakai cookie. Anda dapat
+    menonaktifkan cookie melalui pengaturan peramban.
+  </p>
+  <h2>Penggunaan Data</h2>
+  <p>Data digunakan untuk memahami minat pembaca dan meningkatkan kualitas layanan. Kami tidak menjual data pribadi pembaca.</p>
+  <h2>Kontak</h2>
+  <p>Pertanyaan mengenai kebijakan ini dapat dikirim ke <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+</PageLayout>

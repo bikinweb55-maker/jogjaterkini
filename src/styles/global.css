@@ -1,0 +1,150 @@
+/* ==========================================================================
+   Jogja Terkini — Website kategori news Jogja Sebagai catatan pengingat
+   Palet: hijau keraton + emas di atas gading. Font sistem (tanpa unduhan font)
+   demi performa.
+   ========================================================================== */
+
+:root {
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+
+  --color-bg: #fbf9f4;
+  --color-surface: #f3efe6;
+  --color-text: #17211d;
+  --color-muted: #5d6963;
+  --color-border: #e4ddcf;
+  --color-accent: #1f4a3d;
+  --color-accent-hover: #123226;
+  --color-accent-soft: #e6eee9;
+  --color-on-accent: #ffffff;
+  --color-gold: #b8923a;       /* dekoratif: garis & ornamen */
+  --color-gold-ink: #7d5f17;   /* teks emas yang lolos kontras */
+  --color-ink: #10231c;        /* latar gelap (footer, overlay) */
+  --color-on-ink: #f3efe6;
+
+  --radius: 4px;
+  --container: 1240px;
+  --gutter: 16px;
+  --shadow: 0 1px 2px rgb(16 35 28 / 0.05), 0 8px 24px rgb(16 35 28 / 0.06);
+
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #0e1411;
+    --color-surface: #151e19;
+    --color-text: #ece7da;
+    --color-muted: #9aa8a0;
+    --color-border: #25312b;
+    --color-accent: #8cc7ad;
+    --color-accent-hover: #a9dac4;
+    --color-accent-soft: #1a2a23;
+    --color-on-accent: #0e1411;
+    --color-gold: #cfae5e;
+    --color-gold-ink: #d9bb70;
+    --color-ink: #0a100d;
+    --color-on-ink: #ece7da;
+  }
+}
+
+@media (min-width: 768px) {
+  :root { --gutter: 28px; }
+}
+
+/* ---------- Reset ringan ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: 80px; }
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+}
+img, svg { display: block; max-width: 100%; height: auto; }
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--color-accent); }
+:focus-visible { outline: 2px solid var(--color-gold); outline-offset: 2px; border-radius: 2px; }
+h1, h2, h3, h4 { font-family: var(--font-serif); line-height: 1.22; margin: 0; text-wrap: balance; font-weight: 600; }
+p { margin: 0; }
+ul, ol { margin: 0; padding: 0; }
+
+/* ---------- Utilitas ---------- */
+.container { width: 100%; max-width: var(--container); margin-inline: auto; padding-inline: var(--gutter); }
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+.skip-link {
+  position: absolute; left: var(--gutter); top: -100px; z-index: 100;
+  padding: 8px 16px; background: var(--color-accent); color: var(--color-on-accent); border-radius: var(--radius);
+}
+.skip-link:focus { top: 8px; color: var(--color-on-accent); }
+
+.kicker {
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--color-gold-ink);
+}
+.meta { font-size: 0.8125rem; color: var(--color-muted); }
+
+/* ---------- Judul section ---------- */
+.section { margin-block: 56px; }
+.section-head {
+  position: relative;
+  display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+  border-bottom: 1px solid var(--color-border); padding-bottom: 12px; margin-bottom: 24px;
+}
+.section-head::after {
+  content: ''; position: absolute; left: 0; bottom: -1px; width: 56px; height: 2px; background: var(--color-gold);
+}
+.section-title { font-size: 1.5rem; letter-spacing: -0.005em; }
+.section-more {
+  font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--color-accent); white-space: nowrap;
+}
+.section-more:hover { color: var(--color-gold-ink); }
+
+/* ---------- Grid ---------- */
+.grid { display: grid; gap: 28px; grid-template-columns: 1fr; }
+@media (min-width: 640px) { .grid-2, .grid-3 { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1024px) { .grid-3 { grid-template-columns: repeat(3, 1fr); } }
+
+.layout-sidebar { display: grid; gap: 48px; grid-template-columns: 1fr; }
+@media (min-width: 1024px) { .layout-sidebar { grid-template-columns: minmax(0, 1fr) 320px; } }
+
+/* ---------- Header halaman arsip ---------- */
+.page-header { padding-block: 40px 12px; }
+.page-header h1 { font-size: clamp(1.875rem, 4vw, 2.75rem); letter-spacing: -0.01em; }
+.page-header p { margin-top: 10px; color: var(--color-muted); max-width: 65ch; }
+
+/* ---------- Prose (isi artikel & halaman statis) ---------- */
+.prose { font-size: 1.0625rem; line-height: 1.85; max-width: 70ch; }
+.prose > * + * { margin-top: 1.1em; }
+.prose h2 { font-size: 1.55rem; margin-top: 1.9em; }
+.prose h3 { font-size: 1.25rem; margin-top: 1.5em; }
+.prose a { color: var(--color-accent); text-decoration: underline; text-decoration-color: var(--color-gold); text-underline-offset: 3px; }
+.prose ul, .prose ol { padding-left: 1.4em; }
+.prose li + li { margin-top: 0.4em; }
+.prose blockquote {
+  margin-inline: 0; padding: 4px 0 4px 22px;
+  border-left: 3px solid var(--color-gold); font-family: var(--font-serif); font-size: 1.15em; font-style: italic;
+}
+.prose img { border-radius: var(--radius); }
+.prose table { width: 100%; border-collapse: collapse; font-size: 0.95em; display: block; overflow-x: auto; }
+.prose th, .prose td { border: 1px solid var(--color-border); padding: 8px 12px; text-align: left; }
+.prose th { background: var(--color-surface); }
+.prose hr { border: 0; border-top: 1px solid var(--color-border); }
+
+/* ---------- Tombol ---------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 44px; padding: 10px 24px; border: 0; border-radius: var(--radius);
+  background: var(--color-accent); color: var(--color-on-accent);
+  font: 600 0.875rem/1 var(--font-sans); letter-spacing: 0.04em; cursor: pointer;
+}
+.btn:hover { background: var(--color-accent-hover); color: var(--color-on-accent); }

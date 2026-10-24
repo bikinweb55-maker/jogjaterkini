@@ -1,0 +1,37 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import type { Crumb, PageType } from '@/lib/schema';
+
+export interface Props {
+  title: string;
+  description: string;
+  updated?: string;
+  pageType?: PageType;
+}
+const { title, description, updated, pageType } = Astro.props;
+const crumbs: Crumb[] = [{ name: 'Beranda', href: '/' }, { name: title }];
+---
+
+<BaseLayout title={title} description={description} breadcrumb={crumbs} pageType={pageType}>
+  <slot name="head" slot="head" />
+  <div class="container">
+    <Breadcrumb items={crumbs} />
+    <article class="static-page">
+      <header class="page-header">
+        <h1>{title}</h1>
+        <p>{description}</p>
+      </header>
+      <div class="prose">
+        <slot />
+      </div>
+      {updated && <p class="meta updated">Terakhir diperbarui: {updated}</p>}
+    </article>
+  </div>
+</BaseLayout>
+
+<style>
+  .static-page { padding-bottom: 24px; }
+  .page-header { margin-bottom: 24px; }
+  .updated { margin-top: 32px; }
+</style>

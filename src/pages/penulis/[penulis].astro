@@ -1,0 +1,38 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import ArchiveLayout from '@/layouts/ArchiveLayout.astro';
+import { getAllBerita, type Berita } from '@/lib/berita';
+import { authorNode, ids } from '@/lib/schema';
+
+export async function getStaticPaths() {
+  const [authors, all] = await Promise.all([getCollection('penulis'), getAllBerita()]);
+  return authors.map((author) => ({
+    params: { penulis: author.id },
+    props: { author, items: all.filter((b) => b.data.author.id === author.id) },
+  }));
+}
+
+interface Props { author: CollectionEntry<'penulis'>; items: Berita[]; }
+const { author, items } = Astro.props;
+const { name, role, bio } = author.data;
+---
+
+<ArchiveLayout
+  title={`${name} — ${role}`}
+  description={bio}
+  heading={name}
+  items={items}
+  breadcrumb={[{ name: 'Beranda', href: '/' }, { name: 'Redaksi', href: '/redaksi/' }, { name }]}
+  pageType="ProfilePage"
+  mainEntityId={ids.author(author.id)}
+  schema={[authorNode(author)]}
+>
+  <div slot="intro" class="author-intro">
+    <p class="kicker">{role}</p>
+    <p>{bio}</p>
+  </div>
+</ArchiveLayout>
+
+<style>
+  .author-intro { margin-top: 12px; display: grid; gap: 6px; max-width: 65ch; }
+</style>

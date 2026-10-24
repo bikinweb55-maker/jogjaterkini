@@ -1,0 +1,92 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { SITE } from '@/site.config';
+import type { Crumb } from '@/lib/schema';
+const crumbs: Crumb[] = [{ name: 'Beranda', href: '/' }, { name: 'Cari Berita' }];
+---
+
+<BaseLayout title="Cari Berita" description={`Cari berita seputar Yogyakarta di ${SITE.name}.`} noindex breadcrumb={crumbs} pageType="SearchResultsPage">
+  <div class="container">
+    <Breadcrumb items={crumbs} />
+    <header class="page-header">
+      <h1>Cari Berita</h1>
+    </header>
+    <form id="search-form" class="search-form" action="/cari/" method="get" role="search">
+      <label for="search-input" class="sr-only">Kata kunci</label>
+      <input id="search-input" name="q" type="search" placeholder="Ketik kata kunci, misalnya: Malioboro" autocomplete="off" required />
+      <button type="submit" class="btn">Cari</button>
+    </form>
+    <p id="search-status" class="meta" aria-live="polite"></p>
+    <ol id="search-results" class="search-results"></ol>
+  </div>
+</BaseLayout>
+
+<script>
+  type Item = { t: string; d: string; u: string; c: string; g: string; p: string };
+
+  const form = document.getElementById('search-form') as HTMLFormElement;
+  const input = document.getElementById('search-input') as HTMLInputElement;
+  const status = document.getElementById('search-status')!;
+  const list = document.getElementById('search-results')!;
+  let index: Item[] | null = null;
+
+  const norm = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+
+  async function search(q: string) {
+    const query = q.trim();
+    list.replaceChildren();
+    if (!query) { status.textContent = ''; return; }
+    index ??= await fetch('/search.json').then((r) => r.json());
+    const terms = norm(query).split(/\s+/);
+    const hits = index!.filter((it) => {
+      const hay = norm(`${it.t} ${it.d} ${it.c} ${it.g}`);
+      return terms.every((t) => hay.includes(t));
+    });
+    status.textContent = `${hits.length} hasil untuk "${query}"`;
+    for (const it of hits) {
+      const li = document.createElement('li');
+      const kicker = document.createElement('span');
+      kicker.className = 'kicker';
+      kicker.textContent = it.c;
+      const h2 = document.createElement('h2');
+      const a = document.createElement('a');
+      a.href = it.u;
+      a.textContent = it.t;
+      h2.append(a);
+      const p = document.createElement('p');
+      p.textContent = it.d;
+      const date = document.createElement('span');
+      date.className = 'meta';
+      date.textContent = it.p;
+      li.append(kicker, h2, p, date);
+      list.append(li);
+    }
+  }
+
+  const initial = new URLSearchParams(location.search).get('q') ?? '';
+  input.value = initial;
+  search(initial);
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const q = input.value;
+    history.replaceState(null, '', `/cari/?q=${encodeURIComponent(q)}`);
+    search(q);
+  });
+</script>
+
+<style>
+  .search-form { display: flex; gap: 8px; max-width: 640px; }
+  .search-form input {
+    flex: 1; min-width: 0; min-height: 48px; padding: 0 16px;
+    border: 1px solid var(--color-border); border-radius: var(--radius);
+    background: var(--color-bg); color: var(--color-text); font-size: 1rem;
+  }
+  .search-form input:focus { outline: 2px solid var(--color-accent); border-color: transparent; }
+  #search-status { margin-top: 16px; }
+  .search-results { list-style: none; margin-top: 16px; display: grid; gap: 24px; max-width: 760px; }
+  .search-results :global(li) { display: grid; gap: 4px; padding-bottom: 24px; border-bottom: 1px solid var(--color-border); }
+  .search-results :global(h2) { font-size: 1.25rem; }
+  .search-results :global(p) { color: var(--color-muted); }
+</style>

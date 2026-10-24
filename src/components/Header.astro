@@ -1,0 +1,108 @@
+---
+import { CATEGORIES, SITE } from '@/site.config';
+import { categoryUrl } from '@/lib/berita';
+
+const path = Astro.url.pathname;
+const links = [
+  { href: '/', label: 'Beranda' },
+  { href: '/berita/', label: 'Terbaru' },
+  ...CATEGORIES.map((c) => ({ href: categoryUrl(c.slug), label: c.name })),
+];
+const isActive = (href: string) => {
+  if (href === '/') return path === '/';
+  // /berita/ juga awalan URL artikel, jadi hanya aktif di halaman indeks.
+  if (href === '/berita/') return path === '/berita/' || path.startsWith('/berita/halaman/');
+  return path.startsWith(href);
+};
+---
+
+<header id="site-header" class="site-header">
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <time id="today" class="topbar-date" datetime="">Yogyakarta</time>
+      <a href="/rss.xml" class="topbar-link">RSS</a>
+    </div>
+  </div>
+
+  <div class="container masthead">
+    <a href="/" class="logo" aria-label={`${SITE.name} — Beranda`}>
+      <span class="logo-name">Jogja<em>Terkini</em></span>
+      <span class="logo-tag">{SITE.tagline}</span>
+    </a>
+    <a href="/cari/" class="search-btn" aria-label="Cari berita">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+    </a>
+  </div>
+
+  <nav id="site-navigation" class="site-nav" aria-label="Navigasi utama">
+    <ul class="container nav-list">
+      {links.map((l) => (
+        <li><a href={l.href} aria-current={isActive(l.href) ? 'page' : undefined}>{l.label}</a></li>
+      ))}
+    </ul>
+  </nav>
+</header>
+
+<script is:inline>
+  (function () {
+    var el = document.getElementById('today');
+    if (!el) return;
+    try {
+      var now = new Date();
+      el.textContent = new Intl.DateTimeFormat('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }).format(now);
+      el.setAttribute('datetime', now.toISOString());
+    } catch (e) {}
+  })();
+</script>
+
+<style>
+  .site-header { background: var(--color-bg); }
+
+  .topbar { background: var(--color-ink); color: var(--color-on-ink); font-size: 0.75rem; letter-spacing: 0.04em; }
+  .topbar-inner { display: flex; align-items: center; justify-content: space-between; min-height: 34px; }
+  .topbar-date { opacity: 0.85; }
+  .topbar-link { text-transform: uppercase; letter-spacing: 0.12em; font-weight: 600; font-size: 0.6875rem; opacity: 0.85; }
+  .topbar-link:hover { color: var(--color-gold); opacity: 1; }
+
+  .masthead {
+    position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    padding-block: 26px 22px; text-align: center;
+  }
+  .logo { display: inline-flex; flex-direction: column; align-items: center; gap: 6px; }
+  .logo:hover { color: inherit; }
+  .logo-name {
+    font: 500 clamp(2rem, 5.5vw, 3.25rem)/1 var(--font-serif); letter-spacing: -0.02em;
+  }
+  .logo-name em { font-style: italic; font-weight: 600; color: var(--color-accent); margin-left: 0.08em; }
+  .logo-tag {
+    display: flex; align-items: center; gap: 12px;
+    font-size: 0.6875rem; letter-spacing: 0.32em; text-transform: uppercase; color: var(--color-gold-ink);
+  }
+  .logo-tag::before, .logo-tag::after { content: ''; width: 28px; height: 1px; background: var(--color-gold); }
+  @media (max-width: 480px) { .logo-tag { letter-spacing: 0.2em; } .logo-tag::before, .logo-tag::after { width: 14px; } }
+
+  .search-btn {
+    position: absolute; right: var(--gutter); top: 50%; transform: translateY(-50%);
+    display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%;
+    border: 1px solid var(--color-border);
+  }
+  .search-btn:hover { border-color: var(--color-gold); color: var(--color-accent); }
+
+  .site-nav { border-block: 1px solid var(--color-border); position: relative; }
+  .site-nav::after {
+    content: ''; position: absolute; inset-inline: 0; bottom: -4px; height: 1px; background: var(--color-border);
+  }
+  .nav-list {
+    display: flex; gap: 2px; list-style: none; overflow-x: auto; scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  @media (min-width: 900px) { .nav-list { justify-content: center; gap: 8px; } }
+  .nav-list::-webkit-scrollbar { display: none; }
+  .nav-list a {
+    display: block; padding: 14px 12px; white-space: nowrap;
+    font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase;
+    border-bottom: 2px solid transparent; margin-bottom: -1px;
+  }
+  .nav-list a:hover { color: var(--color-accent); border-bottom-color: var(--color-border); }
+  .nav-list a[aria-current='page'] { color: var(--color-accent); border-bottom-color: var(--color-gold); }
+</style>

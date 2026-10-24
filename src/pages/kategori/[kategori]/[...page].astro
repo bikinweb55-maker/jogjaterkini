@@ -1,0 +1,48 @@
+---
+import ArchiveLayout from '@/layouts/ArchiveLayout.astro';
+import { getAllBerita, type Berita } from '@/lib/berita';
+import { categoryPageUrl, paginateItems } from '@/lib/pagination';
+import type { Crumb } from '@/lib/schema';
+import { CATEGORIES, SITE } from '@/site.config';
+
+export async function getStaticPaths() {
+  const all = await getAllBerita();
+  return CATEGORIES.flatMap((category) => {
+    const inCat = all.filter((b) => b.data.category === category.slug);
+    const { total } = paginateItems(inCat, 1);
+    return Array.from({ length: total }, (_, i) => {
+      const page = i + 1;
+      return {
+        params: { kategori: category.slug, page: page === 1 ? undefined : String(page) },
+        props: { category, page, ...paginateItems(inCat, page) },
+      };
+    });
+  });
+}
+
+interface Props {
+  category: (typeof CATEGORIES)[number];
+  page: number;
+  items: Berita[];
+  total: number;
+}
+const { category, page, items, total } = Astro.props;
+const heading = `Berita ${category.name} Jogja`;
+const title = page > 1 ? `${heading} — Halaman ${page}` : heading;
+const description = page > 1 ? `${category.description} Halaman ${page} — ${SITE.name}.` : category.description;
+const crumbs: Crumb[] = [{ name: 'Beranda', href: '/' }, { name: category.name, href: categoryPageUrl(category.slug)(1) }];
+if (page > 1) crumbs.push({ name: `Halaman ${page}` });
+---
+
+<ArchiveLayout
+  title={title}
+  description={description}
+  heading={heading}
+  intro={category.description}
+  items={items}
+  breadcrumb={crumbs}
+  noindex={items.length === 0}
+  current={page}
+  total={total}
+  urlFor={categoryPageUrl(category.slug)}
+/>

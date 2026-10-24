@@ -1,0 +1,27 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { CATEGORIES, SITE } from '@/site.config';
+---
+
+<PageLayout
+  title="Tentang Kami"
+  pageType="AboutPage"
+  description={`${SITE.name} adalah media daring yang menyajikan kabar terkini dan informasi seputar Daerah Istimewa Yogyakarta.`}
+>
+  <p>
+    <strong>{SITE.name}</strong> ({SITE.url.replace('https://', '')}) adalah media daring yang berfokus pada kabar
+    dan informasi seputar Daerah Istimewa Yogyakarta, meliputi Kota Yogyakarta, Kabupaten Sleman, Bantul, Kulon Progo,
+    dan Gunungkidul.
+  </p>
+  <h2>Apa yang Kami Liput</h2>
+  <ul>
+    {CATEGORIES.map((c) => <li><strong>{c.name}</strong>: {c.description}</li>)}
+  </ul>
+  <h2>Prinsip Redaksi</h2>
+  <p>
+    Kami mengutamakan akurasi, verifikasi, dan keberimbangan. Setiap berita disusun berdasarkan sumber yang dapat
+    dipertanggungjawabkan dan mengacu pada Kode Etik Jurnalistik serta <a href="/pedoman-media-siber/">Pedoman Pemberitaan Media Siber</a>.
+  </p>
+  <h2>Hubungi Kami</h2>
+  <p>Kirim informasi, koreksi, atau kerja sama melalui halaman <a href="/kontak/">Kontak</a> atau surel <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+</PageLayout>

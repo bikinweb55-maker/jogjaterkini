@@ -1,0 +1,60 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import ArticleGrid from '@/components/ArticleGrid.astro';
+import Pagination from '@/components/Pagination.astro';
+import { beritaUrl, type Berita } from '@/lib/berita';
+import { itemList, type Crumb, type PageType } from '@/lib/schema';
+
+export interface Props {
+  title: string;
+  description: string;
+  heading: string;
+  intro?: string;
+  items: Berita[];
+  breadcrumb: Crumb[];
+  noindex?: boolean;
+  pageType?: PageType;
+  /** Node schema tambahan (mis. Person untuk halaman penulis). */
+  schema?: Record<string, unknown>[];
+  /** Override mainEntity WebPage (default: ItemList artikel). */
+  mainEntityId?: string;
+  current?: number;
+  total?: number;
+  urlFor?: (page: number) => string;
+}
+
+const {
+  title, description, heading, intro, items, breadcrumb, noindex, pageType = 'CollectionPage',
+  schema = [], mainEntityId, current = 1, total = 1, urlFor = () => '',
+} = Astro.props;
+
+const list = itemList(Astro.url.pathname, items.map((b) => ({ url: beritaUrl(b.id), name: b.data.title })));
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  noindex={noindex}
+  breadcrumb={breadcrumb}
+  pageType={pageType}
+  pageExtra={{ mainEntity: { '@id': mainEntityId ?? list['@id'] } }}
+  schema={[list, ...schema]}
+>
+  <div class="container">
+    <Breadcrumb items={breadcrumb} />
+    <header class="page-header">
+      <h1>{heading}{current > 1 && <span class="page-num"> — Halaman {current}</span>}</h1>
+      {intro && <p>{intro}</p>}
+      <slot name="intro" />
+    </header>
+    <section class="section" aria-label={`Daftar ${heading}`}>
+      <ArticleGrid items={items} />
+      <Pagination current={current} total={total} urlFor={urlFor} />
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-num { font-weight: 400; color: var(--color-muted); font-size: 0.7em; }
+</style>

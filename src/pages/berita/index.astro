@@ -1,0 +1,21 @@
+---
+import ArchiveLayout from '@/layouts/ArchiveLayout.astro';
+import { getAllBerita } from '@/lib/berita';
+import { indexPageUrl, paginateItems } from '@/lib/pagination';
+import { SITE } from '@/site.config';
+
+const { items, total } = paginateItems(await getAllBerita(), 1);
+const description = `Indeks berita terbaru seputar Yogyakarta dari ${SITE.name}: peristiwa, pemerintahan, ekonomi, wisata, budaya, dan pendidikan.`;
+---
+
+<ArchiveLayout
+  title="Indeks Berita Terbaru"
+  description={description}
+  heading="Indeks Berita Terbaru"
+  intro={description}
+  items={items}
+  breadcrumb={[{ name: 'Beranda', href: '/' }, { name: 'Indeks Berita' }]}
+  current={1}
+  total={total}
+  urlFor={indexPageUrl}
+/>

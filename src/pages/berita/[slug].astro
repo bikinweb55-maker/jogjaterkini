@@ -1,0 +1,168 @@
+---
+import { Image, getImage } from 'astro:assets';
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import ShareButtons from '@/components/ShareButtons.astro';
+import AuthorBox from '@/components/AuthorBox.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import SidebarLatest from '@/components/SidebarLatest.astro';
+import {
+  absoluteUrl, authorUrl, beritaUrl, categoryUrl, formatDate, getAllBerita, getCategory,
+  readingTime, tagUrl, type Berita,
+} from '@/lib/berita';
+import { authorNode, newsArticle, type Crumb } from '@/lib/schema';
+import { getCover } from '@/lib/cover';
+import { SITE } from '@/site.config';
+
+export async function getStaticPaths() {
+  const all = await getAllBerita();
+  return all.map((item) => ({ params: { slug: item.id }, props: { item, all } }));
+}
+
+interface Props { item: Berita; all: Berita[]; }
+const { item, all } = Astro.props;
+const { title, description, pubDate, updatedDate, category, tags, location, coverCaption } = item.data;
+const cover = getCover(item);
+
+const { Content } = await render(item);
+const author = await getEntry(item.data.author);
+if (!author) throw new Error(`Penulis tidak ditemukan untuk berita "${item.id}"`);
+
+const cat = getCategory(category)!;
+const url = absoluteUrl(beritaUrl(item.id));
+const minutes = readingTime(item.body);
+const related = all.filter((b) => b.id !== item.id && b.data.category === category).slice(0, 3);
+const latest = all.filter((b) => b.id !== item.id).slice(0, 5);
+const path = beritaUrl(item.id);
+const crumbs: Crumb[] = [{ name: 'Beranda', href: '/' }, { name: cat.name, href: categoryUrl(cat.slug) }, { name: title }];
+
+// Gambar untuk OG & schema: Google menyarankan rasio 16:9, 4:3, dan 1:1 dengan lebar ≥ 1200px.
+const ratios = [[1200, 675], [1200, 900], [1200, 1200]] as const;
+const images = await Promise.all(
+  ratios.map(async ([width, height]) => {
+    const img = await getImage({ src: cover.src, width, height, fit: 'cover', format: 'jpg', quality: 80 });
+    return { url: img.src, width, height };
+  }),
+);
+const wordCount = (item.body ?? '').trim().split(/\s+/).length;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  type="article"
+  image={images[0].url}
+  imageAlt={cover.alt}
+  imageWidth={images[0].width}
+  imageHeight={images[0].height}
+  article={{ publishedTime: pubDate, modifiedTime: updatedDate, section: cat.name, tags, authorUrl: absoluteUrl(authorUrl(author.id)) }}
+  breadcrumb={crumbs}
+  hasPrimaryImage
+  schema={[
+    ...newsArticle({
+      path,
+      headline: title,
+      description,
+      images,
+      imageAlt: cover.alt,
+      datePublished: pubDate,
+      dateModified: updatedDate,
+      authorId: author.id,
+      section: cat.name,
+      keywords: tags,
+      wordCount,
+      location,
+    }),
+    authorNode(author),
+  ]}
+>
+  <div class="container">
+    <Breadcrumb items={crumbs} />
+
+    <div class="layout-sidebar article-layout">
+      <article id="article-content" class="article">
+        <header class="article-header">
+          <a href={categoryUrl(cat.slug)} class="kicker">{cat.name}</a>
+          <h1 class="article-title">{title}</h1>
+          <p class="article-lead">{description}</p>
+          <div class="article-meta meta">
+            <span>Oleh <a href={authorUrl(author.id)} rel="author">{author.data.name}</a></span>
+            <span aria-hidden="true">·</span>
+            <time datetime={pubDate.toISOString()}>{formatDate(pubDate, true)}</time>
+            <span aria-hidden="true">·</span>
+            <span>{minutes} menit baca</span>
+            {updatedDate && (
+              <span class="updated">Diperbarui <time datetime={updatedDate.toISOString()}>{formatDate(updatedDate, true)}</time></span>
+            )}
+          </div>
+        </header>
+
+        <figure class="article-figure">
+          <Image
+            src={cover.src}
+            alt={cover.alt}
+            widths={[480, 800, 1200, 1600]}
+            sizes="(min-width: 1024px) 800px, 100vw"
+            loading="eager"
+            fetchpriority="high"
+          />
+          {coverCaption && !cover.isDefault && <figcaption class="meta">{coverCaption}</figcaption>}
+        </figure>
+
+        <div class="prose article-body">
+          {location && <p class="dateline"><strong>{location.toUpperCase()}</strong> — {SITE.name}</p>}
+          <Content />
+        </div>
+
+        {tags.length > 0 && (
+          <div class="article-tags">
+            <span class="share-label">Tag:</span>
+            <ul>
+              {tags.map((t) => <li><a href={tagUrl(t)} rel="tag">{t}</a></li>)}
+            </ul>
+          </div>
+        )}
+
+        <ShareButtons url={url} title={title} />
+        <AuthorBox author={author} />
+      </article>
+
+      <SidebarLatest items={latest} />
+    </div>
+
+    {related.length > 0 && (
+      <section id="related-section" class="section" aria-labelledby="related-title">
+        <div class="section-head">
+          <h2 id="related-title" class="section-title">Berita Terkait</h2>
+          <a href={categoryUrl(cat.slug)} class="section-more">Lainnya di {cat.name} →</a>
+        </div>
+        <div class="grid grid-3">
+          {related.map((r) => <ArticleCard item={r} />)}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .article-layout { padding-top: 20px; }
+  .article { display: flex; flex-direction: column; gap: 28px; min-width: 0; }
+  .article-header { display: flex; flex-direction: column; gap: 12px; }
+  .article-title { font-size: clamp(1.75rem, 4.5vw, 2.75rem); line-height: 1.2; }
+  .article-lead { font-size: 1.1875rem; color: var(--color-muted); line-height: 1.6; }
+  .article-meta { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; }
+  .article-meta a { color: var(--color-text); font-weight: 600; }
+  .updated { flex-basis: 100%; }
+  .article-figure { margin: 0; }
+  .article-figure img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: var(--radius); }
+  .article-figure figcaption { margin-top: 8px; }
+  .dateline { font-size: 0.95em; }
+  .article-tags { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+  .article-tags .share-label { font-size: 0.875rem; font-weight: 600; }
+  .article-tags ul { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; }
+  .article-tags a {
+    display: inline-block; padding: 4px 12px; border-radius: 999px;
+    background: var(--color-accent-soft); color: var(--color-accent); font-size: 0.8125rem; font-weight: 600;
+  }
+</style>

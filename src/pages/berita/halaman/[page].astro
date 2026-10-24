@@ -1,0 +1,31 @@
+---
+import ArchiveLayout from '@/layouts/ArchiveLayout.astro';
+import { getAllBerita, type Berita } from '@/lib/berita';
+import { indexPageUrl, paginateItems } from '@/lib/pagination';
+import { SITE } from '@/site.config';
+
+export async function getStaticPaths() {
+  const all = await getAllBerita();
+  const { total } = paginateItems(all, 1);
+  // Halaman 1 ada di /berita/, jadi mulai dari halaman 2.
+  return Array.from({ length: total - 1 }, (_, i) => {
+    const page = i + 2;
+    return { params: { page: String(page) }, props: { page, ...paginateItems(all, page) } };
+  });
+}
+
+interface Props { page: number; items: Berita[]; total: number; }
+const { page, items, total } = Astro.props;
+const description = `Indeks berita ${SITE.name} halaman ${page}: arsip kabar terkini seputar Yogyakarta.`;
+---
+
+<ArchiveLayout
+  title={`Indeks Berita — Halaman ${page}`}
+  description={description}
+  heading="Indeks Berita Terbaru"
+  items={items}
+  breadcrumb={[{ name: 'Beranda', href: '/' }, { name: 'Indeks Berita', href: '/berita/' }, { name: `Halaman ${page}` }]}
+  current={page}
+  total={total}
+  urlFor={indexPageUrl}
+/>

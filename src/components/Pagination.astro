@@ -1,0 +1,39 @@
+---
+export interface Props {
+  current: number;
+  total: number;
+  /** Membuat URL untuk nomor halaman tertentu. */
+  urlFor: (page: number) => string;
+}
+const { current, total, urlFor } = Astro.props;
+
+const pages: (number | 'gap')[] = [];
+for (let p = 1; p <= total; p++) {
+  if (p === 1 || p === total || Math.abs(p - current) <= 1) pages.push(p);
+  else if (pages[pages.length - 1] !== 'gap') pages.push('gap');
+}
+---
+
+{total > 1 && (
+  <nav class="pagination" aria-label="Navigasi halaman">
+    {current > 1 ? <a href={urlFor(current - 1)} rel="prev">‹ Sebelumnya</a> : <span class="disabled">‹ Sebelumnya</span>}
+    <ol>
+      {pages.map((p) => (
+        <li>
+          {p === 'gap' ? <span class="gap">…</span> : p === current ? <span aria-current="page">{p}</span> : <a href={urlFor(p)}>{p}</a>}
+        </li>
+      ))}
+    </ol>
+    {current < total ? <a href={urlFor(current + 1)} rel="next">Berikutnya ›</a> : <span class="disabled">Berikutnya ›</span>}
+  </nav>
+)}
+
+<style>
+  .pagination { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px; margin-top: 40px; font-size: 0.9375rem; }
+  ol { display: flex; gap: 4px; list-style: none; }
+  a, span { display: inline-grid; place-items: center; min-width: 44px; min-height: 44px; padding: 0 12px; border-radius: var(--radius); }
+  a { border: 1px solid var(--color-border); }
+  a:hover { border-color: var(--color-accent); }
+  [aria-current='page'] { background: var(--color-accent); color: var(--color-on-accent); font-weight: 700; }
+  .disabled { color: var(--color-muted); opacity: 0.5; }
+</style>

@@ -1,0 +1,19 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import type { Berita } from '@/lib/berita';
+export interface Props { items: Berita[]; title?: string; }
+const { items, title = 'Berita Terbaru' } = Astro.props;
+---
+
+<aside class="sidebar" aria-labelledby="sidebar-latest-title">
+  <div class="section-head"><h2 id="sidebar-latest-title" class="section-title">{title}</h2></div>
+  <ol class="sidebar-list">
+    {items.map((item) => <li><ArticleCard item={item} variant="compact" /></li>)}
+  </ol>
+</aside>
+
+<style>
+  .sidebar { position: sticky; top: 24px; align-self: start; }
+  .sidebar-list { list-style: none; display: grid; gap: 18px; }
+  .sidebar-list li + li { padding-top: 18px; border-top: 1px solid var(--color-border); }
+</style>

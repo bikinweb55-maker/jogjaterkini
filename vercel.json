@@ -1,0 +1,109 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.jogjaterkini.net"
+        }
+      ],
+      "destination": "https://jogjaterkini.net/:path",
+      "permanent": true
+    },
+    {
+      "source": "/berita/panduan-jalan-kaki-malioboro/",
+      "destination": "/berita/itinerary-wisata-jogja-3-hari-2-malam/",
+      "permanent": true
+    },
+    {
+      "source": "/berita/sumbu-filosofi-yogyakarta-warisan-dunia/",
+      "destination": "/berita/daftar-tempat-wisata-di-jogja/",
+      "permanent": true
+    },
+    {
+      "source": "/berita/umkm-gudeg-bakpia-batik-ekonomi-jogja/",
+      "destination": "/berita/peluang-usaha-di-jogja/",
+      "permanent": true
+    },
+    {
+      "source": "/berita/lima-kabupaten-kota-di-diy/",
+      "destination": "/berita/daftar-tempat-wisata-di-jogja/",
+      "permanent": true
+    },
+    {
+      "source": "/berita/tips-aman-berkendara-musim-hujan-jogja/",
+      "destination": "/berita/penyebab-udara-panas-di-yogyakarta/",
+      "permanent": true
+    },
+    {
+      "source": "/berita/mengenal-tradisi-sekaten-keraton-yogyakarta/",
+      "destination": "/berita/kalender-kegiatan-budaya-di-diy/",
+      "permanent": true
+    },
+    {
+      "source": "/berita/mengapa-jogja-disebut-kota-pelajar/",
+      "destination": "/berita/daftar-perguruan-tinggi-di-yogyakarta/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        }
+      ]
+    },
+    {
+      "source": "/_astro/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(sitemap.xml|sitemap-berita.xml|sitemap-halaman.xml|sitemap-news.xml|rss.xml)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ]
+}

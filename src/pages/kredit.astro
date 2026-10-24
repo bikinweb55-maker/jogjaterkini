@@ -1,0 +1,23 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { CREDIT, SITE } from '@/site.config';
+
+const nameUrl = CREDIT.url || CREDIT.linkedin;
+---
+
+<PageLayout
+  title="Kredit"
+  pageType="AboutPage"
+  description={`Pembuat dan teknologi di balik situs ${SITE.name}.`}
+>
+  <p>
+    Situs ini dibangun dari template yang dikembangkan oleh
+    {nameUrl ? <a href={nameUrl} rel="noopener">{CREDIT.name}</a> : CREDIT.name}
+    menggunakan Astro untuk performa maksimal dan CSS murni yang ringan untuk tampilan modern tanpa beban tambahan,
+    serta dioptimasi dengan technical SEO yang lengkap: data terstruktur schema.org, sitemap, RSS, dan struktur
+    halaman yang mudah dibaca mesin pencari maupun AI. Template ini bebas digunakan untuk membuat situs berita atau
+    jenis situs apa pun, termasuk untuk keperluan komersial, dan boleh diubah sesuai kebutuhan. Tautan kredit di
+    footer cukup dipertahankan sebagai bentuk apresiasi bila memungkinkan.
+    {CREDIT.github && <>Kode sumbernya tersedia di <a href={CREDIT.github} rel="noopener">GitHub</a>.</>}
+  </p>
+</PageLayout>

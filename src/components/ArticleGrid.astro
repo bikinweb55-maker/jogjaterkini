@@ -1,0 +1,18 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import type { Berita } from '@/lib/berita';
+export interface Props { items: Berita[]; headingLevel?: 'h2' | 'h3'; }
+const { items, headingLevel = 'h2' } = Astro.props;
+---
+
+{items.length > 0 ? (
+  <div class="grid grid-3">
+    {items.map((item, i) => <ArticleCard item={item} headingLevel={headingLevel} eager={i < 3} />)}
+  </div>
+) : (
+  <p class="empty">Belum ada berita di halaman ini.</p>
+)}
+
+<style>
+  .empty { padding: 40px 0; color: var(--color-muted); }
+</style>

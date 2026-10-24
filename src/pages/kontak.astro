@@ -1,0 +1,17 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import { SITE } from '@/site.config';
+---
+
+<PageLayout title="Kontak" pageType="ContactPage" description={`Hubungi redaksi ${SITE.name} untuk informasi, koreksi berita, hak jawab, atau kerja sama.`}>
+  <h2>Redaksi</h2>
+  <p>Surel: <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+  <p>Wilayah liputan: {SITE.address.locality}, {SITE.address.region}, Indonesia.</p>
+  <h2>Kirim Informasi atau Koreksi</h2>
+  <p>
+    Sertakan nama, kontak yang dapat dihubungi, tautan berita (jika terkait koreksi), serta penjelasan singkat.
+    Redaksi akan memverifikasi setiap informasi sebelum ditindaklanjuti.
+  </p>
+  <h2>Kerja Sama</h2>
+  <p>Untuk iklan, publikasi, dan kemitraan media, kirim surel dengan subjek <em>Kerja Sama</em>.</p>
+</PageLayout>
