@@ -26,6 +26,8 @@ Menanggapi aduan masyarakat yang kian masif di media sosial maupun kanal keluhan
 
 Kepala Kepolisian Daerah (Kapolda) DIY secara terbuka memberikan instruksi keras terkait penindakan jukir liar dan pematok harga sepihak tersebut. Kepolisian menegaskan bahwa tindakan menarik uang parkir di luar kesepakatan atau aturan Perda bukan sekadar pelanggaran administratif, melainkan sudah masuk dalam kategori praktik premanisme.
 
+Baca: [Resah Premanisme Parkir di Jogja: Kapolda DIY Tegas, Jukir Nuthuk Ditangkap](https://jogjaterkini.net/berita/premanisme_parkir_jogja/)
+
 Tindakan tegas ini diambil untuk memberikan efek jera (*deterrent effect*) sekaligus menjamin rasa aman serta kenyamanan bagi warga lokal maupun wisatawan yang melintas dan beraktivitas di titik-titik krusial Kota Jogja.
 
 ## Rentetan Kasus "Nuthuk" dan Pungli di Kawasan Wisata

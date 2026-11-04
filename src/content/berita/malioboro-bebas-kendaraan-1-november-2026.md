@@ -24,7 +24,9 @@ Dishub DIY memasang 20 unit portal di 13 ruas jalan sirip Malioboro dengan angga
 
 Portal itu bukan penutupan permanen, kata Erni, melainkan pengganti pagar pengaman lama dengan sistem buka-tutup terjadwal. Ambulans, mobil pemadam kebakaran, dan kendaraan pelayanan publik dikecualikan.
 
-Wali Kota Yogyakarta Hasto Wardoyo mengatakan Pemkot menurunkan satu tim untuk setiap sirip karena masalahnya berbeda, mulai dari pedagang kaki lima, titik putar balik, sampai kantong parkir. Pembahasan dilakukan bertahap, dimulai dari empat ruas.
+Wali Kota Yogyakarta Hasto Wardoyo mengatakan Pemkot menurunkan satu tim untuk setiap sirip karena masalahnya berbeda, mulai dari pedagang kaki lima, titik putar balik, sampai [kantong parkir](http://localhost:4321/berita/7_kantong_parkir_resmi_malioboro/). Pembahasan dilakukan bertahap, dimulai dari empat ruas.
+
+Baca: [Resah Premanisme Parkir di Jogja: Kapolda DIY Tegas, Jukir Nuthuk Ditangkap](https://jogjaterkini.net/berita/premanisme_parkir_jogja/)
 
 Hasto juga menyebut portal pada masa uji coba berpotensi menyulitkan lansia dan penyandang disabilitas. Pemkot berkoordinasi dengan Dishub DIY agar penutupan portal tidak kaku.
 
