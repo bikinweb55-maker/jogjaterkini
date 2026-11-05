@@ -4,8 +4,8 @@ description: "Panduan cafe hits sekitar Malioboro 2026: Loko Coffee 24 jam view 
 pubDate: 2026-11-04T17:50:00+07:00
 category: "wisata"
 tags: ["Kafe Malioboro", "Tempat Nongkrong Jogja", "Wisata Malioboro", "Kuliner Jogja", "Wisata Jogja"]
-author: "Redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Jalan Malioboro tidak pernah kehabisan daya pikat bagi wisatawan maupun warga lokal Yogyakarta. Selain menjadi pusat belanja dan jalan-jalan, kawasan ikonik ini menyimpan deretan tempat nongkrong menarik yang pas untuk melepas lelah, mengobrol santai, hingga menikmati atmosfer pusat kota dari sore hingga dini hari.

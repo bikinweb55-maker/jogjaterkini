@@ -4,8 +4,8 @@ description: "Transformasi belanja oleh-oleh di Teras Malioboro 1 Jogja: pusat b
 pubDate: 2026-11-04T05:40:00+07:00
 category: "wisata"
 tags: ["Teras Malioboro 1", "Oleh-oleh Jogja", "Wisata Belanja", "Malioboro", "Wisata Jogja"]
-author: "Redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Sejak diresmikan oleh Pemerintah Daerah DIY pada 26 Januari 2022, pergerakan belanja di pusat Kota Yogyakarta mengalami transformasi besar[cite: 10]. Relokasi ribuan Pedagang Kaki Lima (PKL) dari trotoar sepanjang Jalan Malioboro menuju Teras Malioboro 1 dan Teras Malioboro 2 berhasil menciptakan area pedestrian yang makin tertata sekaligus menghadirkan ruang belanja berkonsep modern tanpa menghilangkan keramahan khas pedagang lokal[cite: 10].

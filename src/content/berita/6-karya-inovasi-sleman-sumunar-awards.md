@@ -4,8 +4,8 @@ description: "Komitmen Pemkab Sleman dalam menumbuhkan budaya riset dan inovasi 
 pubDate: 2026-11-04T14:40:00+07:00
 category: "pemerintahan"
 tags: ["Sumunar Awards", "Pemkab Sleman", "Inovasi Sleman", "Pemerintahan Jogja", "Bappeda Sleman"]
-author: "Redaksi Jogja Terkini"
-location: "Sleman"
+author: "Redaksi"
+location: "Yogyakarta"
 ---
 
 Komitmen Pemerintah Kabupaten (Pemkab) Sleman dalam menumbuhkan budaya riset dan inovasi di tingkat lokal kembali membuahkan hasil manis. Sebanyak 6 karya inovasi terbaik asal Kabupaten Sleman dipastikan berhasil melenggang masuk sebagai nominator dalam ajang penghargaan tahunan bergengsi Sumunar Awards DIY 2026.

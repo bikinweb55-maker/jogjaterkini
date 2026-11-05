@@ -4,8 +4,8 @@ description: "Kuliner jumbo viral di Kulon Progo: Bakso Mie Ayam Pakde Wonogiri 
 pubDate: 2026-11-04T17:30:00+07:00
 category: "wisata"
 tags: ["Kuliner Kulon Progo", "Mie Ayam Viral", "Wisata Kuliner Jogja", "Kulon Progo", "Mie Ayam Wonogiri"]
-author: "Redaksi"
-location: "Kulon Progo"
+author: redaksi
+location: Yogyakarta
 ---
 
 Dunia kuliner Kabupaten Kulon Progo kembali dihebohkan dengan kehadiran warung makan berporsi 'raksasa' yang sukses menyita perhatian warganet. Menghadirkan porsi makan yang luar biasa melimpah hingga tumpah-tumpah, Bakso Mie Ayam Pakde Wonogiri BAR BAR yang berlokasi di Jalan Polres dekat perlintasan rel kereta api kini mendadak viral dan diserbu pembeli[cite: 4].

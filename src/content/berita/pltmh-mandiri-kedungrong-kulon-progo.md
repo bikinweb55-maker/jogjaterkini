@@ -4,8 +4,8 @@ description: "Warga Kedungrong, Samigaluh, Kulon Progo sukses kelola PLTMH mandi
 pubDate: 2026-11-04T17:35:00+07:00
 category: "pemerintahan"
 tags: ["PLTMH Kedungrong", "Samigaluh Kulon Progo", "Energi Terbarukan", "Kulon Progo", "Inovasi Desa"]
-author: "Redaksi"
-location: "Kulon Progo"
+author: redaksi
+location: Yogyakarta
 ---
 
 Di saat masyarakat kota kerap mengeluhkan pemadaman listrik atau kenaikan tarif energi, warga Padukuhan Kedungrong, Kalurahan Purwosari, Kapanewon Samigaluh, Kabupaten Kulon Progo justru menikmati kemandirian energi yang luar biasa. Sejak tahun 2012, warga setempat telah mengoperasikan Pembangkit Listrik Tenaga Mikrohidro (PLTMH) secara mandiri yang dikelola oleh kelompok perempuan dan ibu-ibu lokal[cite: 4].

@@ -4,8 +4,8 @@ description: "Daftar estimasi tarif penginapan dan hotel dekat Malioboro Jogja m
 pubDate: 2026-11-04T10:24:00+07:00
 category: "wisata"
 tags: ["Hotel Malioboro", "Penginapan Jogja", "Wisata Jogja", "Hotel Murah Jogja", "Info Hotel"]
-author: "Redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Memilih penginapan yang tepat merupakan salah satu kunci utama kenyamanan berlibur di Daerah Istimewa Yogyakarta. Bagi para pelancong, kawasan pusat cagar budaya dan pedestrian Malioboro tetap menjadi lokasi favorit karena aksesnya yang sangat dekat dengan berbagai destinasi populer, tempat kuliner, hingga pusat oleh-oleh.

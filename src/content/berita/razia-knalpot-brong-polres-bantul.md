@@ -4,8 +4,8 @@ description: "Polres Bantul gempur knalpot brong dalam Operasi Patuh Progo 2026.
 pubDate: 2026-11-04T15:00:00+07:00
 category: "peristiwa"
 tags: ["Razia Knalpot Brong", "Polres Bantul", "Operasi Patuh Progo", "Peristiwa Jogja", "Polresta Bantul"]
-author: "Redaksi"
-location: "Bantul"
+author: redaksi
+location: Yogyakarta
 ---
 
 Jajaran Polres Bantul meningkatkan pengawasan dan penindakan terhadap maraknya penggunaan knalpot tidak sesuai standar (knalpot brong)[cite: 7]. Langkah tegas ini diambil merespons gelombang keluhan masyarakat yang merasa terganggu oleh aksi bising pengendara motor—khususnya anak muda—yang kerap menggeber kendaraannya hingga dini hari[cite: 7].

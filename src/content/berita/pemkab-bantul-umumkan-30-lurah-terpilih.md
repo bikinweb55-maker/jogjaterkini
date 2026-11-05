@@ -4,8 +4,8 @@ description: "Pemkab Bantul resmi umumkan 30 lurah terpilih hasil Pilur Serentak
 pubDate: 2026-11-04T14:55:00+07:00
 category: "pemerintahan"
 tags: ["Pilur Bantul 2026", "Pemkab Bantul", "Lurah Terpilih Bantul", "Pemerintahan Jogja", "UU Desa"]
-author: "Redaksi"
-location: "Bantul"
+author: redaksi
+location: Yogyakarta
 ---
 
 Pemerintah Kabupaten (Pemkab) Bantul secara resmi mengumumkan hasil penetapan 30 lurah terpilih hasil Pemilihan Lurah (Pilur) Serentak 2026[cite: 6]. Pengumuman resmi yang dirilis melalui berbagai kanal media sosial, termasuk akun Instagram resmi @pemkabbantul, langsung memicu respons hangat dan ramai dibagikan oleh warga masyarakat di Bumi Projotamansari[cite: 6].

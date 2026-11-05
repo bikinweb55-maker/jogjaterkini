@@ -4,8 +4,8 @@ description: "Rekomendasi tempat nongkrong dan kafe viral di Jogja 2026: dari sp
 pubDate: 2026-11-05T08:00:00+07:00
 category: "wisata"
 tags: ["Tempat Nongkrong Jogja", "Kafe Jogja", "Wisata Jogja", "WFC Jogja", "Kuliner Jogja"]
-author: "redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Yogyakarta tidak pernah kehabisan ruang untuk bersantai dan menikmati suasana. Mulai dari kawasan utara yang dipenuhi kafe estetik berkonsep *work-from-cafe* (WFC), jantung kota dengan nuansa klasik yang tak pernah lekang oleh waktu, hingga perbukitan selatan yang menawarkan pemandangan senja (*sunset*), berikut adalah rangkuman destinasi paling hits yang sedang viral di Jogja.
