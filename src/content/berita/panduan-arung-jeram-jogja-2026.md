@@ -8,7 +8,7 @@ author: redaksi
 location: Yogyakarta
 ---
 
-Bagi pencinta kegiatan luar ruang (*outdoor adventure*), menjelajahi keindahan alam tidak selalu harus dengan mendaki gunung atau berjalan kaki. Aktivitas menyusuri aliran sungai melalui arung jeram (*rafting*) maupun *river tubing* menawarkan kombinasi sempurna antara kesegaran alam, panorama tebing yang asri, serta sensasi pacuan adrenalin.
+Bagi pencinta kegiatan luar ruang (*outdoor adventure*), [menjelajahi keindahan alam](https://jogjaterkini.net/berita/wisata-alam-hits-jogja-2026/) tidak selalu harus dengan mendaki gunung atau berjalan kaki. Aktivitas menyusuri aliran sungai melalui arung jeram (*rafting*) maupun *river tubing* menawarkan kombinasi sempurna antara kesegaran alam, panorama tebing yang asri, serta sensasi pacuan adrenalin.
 
 Oleh Redaksi Jogja Terkini
 
