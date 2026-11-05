@@ -48,7 +48,7 @@ Bagi pencari tantangan petualangan yang lebih memicu adrenalin, Sungai Progo yan
 
 Jika Anda mendambakan petualangan basah-basahan yang lebih santai sambil menikmati lanskap alam unik, kawasan perbukitan karst Gunungkidul menawarkan petualangan *tubing* menyusuri gua dan sungai:
 
-* **Cave Tubing Pindul:** Pengalaman unik mengapung di atas ban dalam melintasi gua sepanjang 750 meter yang dihiasi stalaktit dan stalagmit megah.
+* **Cave Tubing Pindul:** Pengalaman unik [mengapung di atas ban dalam melintasi gua](https://jogjaterkini.net/berita/wisata-gua-pindul-gunungkidul/) sepanjang 750 meter yang dihiasi stalaktit dan stalagmit megah.
 
   * *Biaya:* Rp80.000 per orang.
 
