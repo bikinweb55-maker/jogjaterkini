@@ -38,13 +38,13 @@ Kabupaten Gunungkidul yang terkenal dengan topografi kawasan karst menyimpan kea
 
 * **Gua Jomblang (*Caving Vertical*):** Gua vertikal dengan kedalaman puluhan meter yang menyuguhkan pemandangan spektakuler berupa *Ray of Light* ("Cahaya Surga"), yaitu pancaran sinar matahari yang menembus vegetasi hutan purba di dasar gua pada pukul 10.00–12.00 WIB. Kuota kunjungan harian dibatasi demi menjaga kelestarian ekosistem gua.
 
-* **Gua Pindul (*Cave Tubing*):** Pengalaman [menyusuri aliran sungai di dalam gua](src/content/berita/wisata-gua-pindul-gunungkidul.md) menggunakan ban pelampung. Menyajikan pemandangan stalaktit dan stalagmit aktif yang masih terus bertumbuh alami.
+* **Gua Pindul (*Cave Tubing*):** Pengalaman [menyusuri aliran sungai di dalam gua](https://jogjaterkini.net/berita/wisata-gua-pindul-gunungkidul/) menggunakan ban pelampung. Menyajikan pemandangan stalaktit dan stalagmit aktif yang masih terus bertumbuh alami.
 
 * **Estimasi Biaya:** *Cave tubing* Gua Pindul berkisar Rp50.000–Rp100.000/orang, sedangkan *caving* profesional Gua Jomblang berkisar Rp500.000/orang (termasuk pendaftaran awal, peralatan keselamatan penjelajahan, pemandu, dan makan siang).
 
 ## 3. Arung Jeram Surga Tersembunyi (*Underrated River Rafting*)
 
-Selain kawasan wisata populer, Jogja memiliki beberapa aliran sungai jernih yang belum banyak terekspos namun [menawarkan sensasi arung jeram (*rafting*)](src/content/berita/wisata-alam-hits-jogja-2026.md) serta *river tubing* yang menyegarkan:
+Selain kawasan wisata populer, Jogja memiliki beberapa aliran sungai jernih yang belum banyak terekspos namun [menawarkan sensasi arung jeram (*rafting*)](https://jogjaterkini.net/berita/panduan-arung-jeram-jogja-2026/) serta *river tubing* yang menyegarkan:
 
 * **Rafting Sungai Progo & Elo (Perbatasan Sleman/Kulon Progo):** Menawarkan jeram-jeram menantang kelas II hingga IV dengan pemandangan tebing rindang yang cocok bagi pencari pengalaman *rafting* sungguhan.
 

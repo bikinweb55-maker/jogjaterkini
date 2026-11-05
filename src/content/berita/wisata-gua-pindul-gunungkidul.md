@@ -20,7 +20,7 @@ YOGYAKARTA — Jogja Terkini
 
 Bagi penikmat petualangan alam yang menginginkan pengalaman tak biasa saat berlibur di Yogyakarta, menyusuri Gua Pindul di Kabupaten Gunungkidul adalah aktivitas yang tidak boleh dilewatkan. Berbeda dengan eksplorasi gua (*caving*) konvensional yang membutuhkan peralatan khusus pendakian tebing, Gua Pindul menawarkan konsep *cave tubing*—aktivitas menyusuri aliran sungai bawah tanah menggunakan ban pelampung dan pelampung badan yang aman serta menyenangkan bagi seluruh anggota keluarga.
 
-Terletak di Desa Bejiharjo, Kecamatan Karangmojo, destinasi ini selalu menjadi magnet wisatawan dan kerap menempati posisi teratas dalam [daftar tempat wisata alam di Jogja](src/content/berita/wisata-alam-hits-jogja-2026.md) untuk kategori wisata petualangan air dan alam terbuka.
+Terletak di Desa Bejiharjo, Kecamatan Karangmojo, destinasi ini selalu menjadi magnet wisatawan dan kerap menempati posisi teratas dalam [daftar tempat wisata alam di Jogja](https://jogjaterkini.net/berita/wisata-alam-hits-jogja-2026/) untuk kategori wisata petualangan air dan alam terbuka.
 
 ## Keunikan dan Tiga Zona Eksplorasi Gua Pindul
 
