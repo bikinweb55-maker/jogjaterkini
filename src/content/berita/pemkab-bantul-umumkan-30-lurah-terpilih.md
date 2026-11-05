@@ -2,7 +2,7 @@
 title: "Pemkab Bantul Umumkan 30 Lurah Terpilih Masa Jabatan 2026–2034, Ini Hasilnya"
 description: "Pemkab Bantul resmi umumkan 30 lurah terpilih hasil Pilur Serentak 2026 dengan masa jabatan 8 tahun (2026–2034). Beberapa kalurahan catat kemenangan telak."
 pubDate: 2026-11-04T14:55:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["Pilur Bantul 2026", "Pemkab Bantul", "Lurah Terpilih Bantul", "Pemerintahan Jogja", "UU Desa"]
 author: redaksi
 location: Yogyakarta

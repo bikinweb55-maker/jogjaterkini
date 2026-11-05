@@ -2,10 +2,10 @@
 title: "Ramah Lingkungan dan Sarat Nilai Budaya, Program Becak Listrik Gratis Dishub DIY Tuai Respons Positif"
 description: "Program layanan becak listrik gratis dari Dishub DIY di kawasan Malioboro sukses menarik perhatian wisatawan dan memberikan kenyamanan bagi para pengayuh."
 pubDate: 2026-11-04T16:00:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["Becak Listrik", "Dishub DIY", "Malioboro", "Transportasi Ramah Lingkungan", "Pemerintahan Jogja"]
-author: "Redaksi Jogja Terkini"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Inovasi transportasi ramah lingkungan di kawasan sumbu filosofis Yogyakarta kembali menunjukkan tren positif. Program layanan becak listrik gratis yang diinisiasi oleh Dinas Perhubungan (Dishub) Daerah Istimewa Yogyakarta (DIY) di kawasan Malioboro mendapat sambutan hangat serta apresiasi luas dari masyarakat maupun wisatawan.

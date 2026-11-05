@@ -2,7 +2,7 @@
 title: "Bikin Iri Saat PLN Padam! Ibu-Ibu Kedungrong Sukses Kelola PLTMH Sejak 2012"
 description: "Warga Kedungrong, Samigaluh, Kulon Progo sukses kelola PLTMH mandiri sejak 2012. Bebas padam dengan iuran hanya Rp12 ribu per selapan untuk 53 KK."
 pubDate: 2026-11-04T17:35:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["PLTMH Kedungrong", "Samigaluh Kulon Progo", "Energi Terbarukan", "Kulon Progo", "Inovasi Desa"]
 author: redaksi
 location: Yogyakarta

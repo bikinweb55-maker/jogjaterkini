@@ -2,10 +2,10 @@
 title: "Kebakaran Hutan Landa Perbukitan Kediwung Mangunan Dlingo, Api Masih Diselidiki"
 description: "Kebakaran hutan terjadi di perbukitan Kediwung, Mangunan, Dlingo, Bantul. Tim BPBD dan relawan dikerahkan untuk padamkan titik api di medan curam."
 pubDate: 2026-11-04T14:50:00+07:00
-category: "peristiwa"
+category: peristiwa
 tags: ["Kebakaran Hutan", "Dlingo Bantul", "BPBD Bantul", "Mangunan", "Peristiwa Jogja"]
-author: "Redaksi"
-location: "Bantul"
+author: redaksi
+location: Yogyakarta
 ---
 
 Peristiwa kebakaran hutan melanda kawasan perbukitan Kediwung, Kalurahan Mangunan, Kapanewon Dlingo, Kabupaten Bantul pada Selasa malam (3/11/2026). Kobaran api yang membakar area vegetasi di kawasan dataran tinggi tersebut sempat memicu kewaspadaan warga sekitar serta pengelola kawasan wisata pinus Dlingo.

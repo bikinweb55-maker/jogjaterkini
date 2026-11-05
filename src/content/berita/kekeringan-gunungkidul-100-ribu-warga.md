@@ -2,10 +2,10 @@
 title: "Hujan Belum Cukup Penuhi Stok Air, 100 Ribu Warga Gunungkidul Masih Kekeringan"
 description: "Sebanyak 108.511 jiwa warga Gunungkidul masih terdampak krisis air bersih dan andalkan pasokan tangki meski hujan ringan mulai turun di wilayah DIY."
 pubDate: 2026-11-04T10:50:00+07:00
-category: "peristiwa"
+category: peristiwa
 tags: ["Kekeringan Gunungkidul", "Krisis Air Bersih", "BPBD Gunungkidul", "Peristiwa Jogja", "Bantuan Tangki Air"]
-author: "Redaksi"
-location: "Gunungkidul"
+author: redaksi
+location: Yogyakarta
 ---
 
 Kendati hujan dengan intensitas ringan hingga gerimis sudah mulai mengguyur sejumlah wilayah di Daerah Istimewa Yogyakarta, bencana krisis air bersih di Kabupaten Gunungkidul belum sepenuhnya teratasi[cite: 12]. Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Gunungkidul mencatat sebanyak 108.511 jiwa warga masih menggantungkan kebutuhan air harian pada pasokan bantuan armada tangki[cite: 12].

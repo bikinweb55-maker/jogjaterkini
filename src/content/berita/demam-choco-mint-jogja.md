@@ -2,10 +2,10 @@
 title: "Demam Choco Mint Melanda Jogja! Ini Peta Lokasi Berburu yang Lagi Viral"
 description: "Tren kuliner choco mint mewabahi Jogja. Dari minuman segar, cake, hingga donat ubi, simak panduan dan peta lokasi hunting choco mint terbaik di DIY."
 pubDate: 2026-11-04T11:15:00+07:00
-category: "wisata"
+category: wisata
 tags: ["Kuliner Jogja", "Choco Mint Jogja", "Wisata Kuliner", "Kuliner Viral Jogja", "Wisata Jogja"]
-author: "Redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Fenomena *food trend* di Daerah Istimewa Yogyakarta seolah tak pernah kehabisan amunisi[cite: 11]. Setelah sempat dihebohkan oleh tren sajian matcha, olahan cokelat Dubai kunafa, hingga serba-serbi ketela ungu (*ube*), kini giliran *mint chocolate* yang sukses menduduki tahta sebagai *The Next Obsession* di kalangan pencinta kuliner Jogja.

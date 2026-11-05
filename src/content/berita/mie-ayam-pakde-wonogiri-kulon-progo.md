@@ -2,7 +2,7 @@
 title: "Porsi Tumpah-Tumpah! Bakso Mie Ayam Pakde Wonogiri BAR BAR Viral di Kulon Progo"
 description: "Kuliner jumbo viral di Kulon Progo: Bakso Mie Ayam Pakde Wonogiri BAR BAR porsi raksasa melimpah di Wates. Cek lokasi dan jam operasionalnya."
 pubDate: 2026-11-04T17:30:00+07:00
-category: "wisata"
+category: wisata
 tags: ["Kuliner Kulon Progo", "Mie Ayam Viral", "Wisata Kuliner Jogja", "Kulon Progo", "Mie Ayam Wonogiri"]
 author: redaksi
 location: Yogyakarta

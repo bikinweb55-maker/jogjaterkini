@@ -2,7 +2,7 @@
 title: "Razia Knalpot Brong Jadi Sasaran Utama Operasi Patuh Progo Polres Bantul"
 description: "Polres Bantul gempur knalpot brong dalam Operasi Patuh Progo 2026. Simak 3 titik razia utama, sanksi tilang, hingga kewajiban ganti knalpot standar."
 pubDate: 2026-11-04T15:00:00+07:00
-category: "peristiwa"
+category: peristiwa
 tags: ["Razia Knalpot Brong", "Polres Bantul", "Operasi Patuh Progo", "Peristiwa Jogja", "Polresta Bantul"]
 author: redaksi
 location: Yogyakarta

@@ -2,10 +2,10 @@
 title: "6 Inovasi Unggulan Kabupaten Sleman Tembus Nominated Sumunar Awards DIY 2026"
 description: "Komitmen Pemkab Sleman dalam menumbuhkan budaya riset dan inovasi membuahkan hasil. 6 karya inovasi Sleman masuk nominasi Sumunar Awards 2026."
 pubDate: 2026-11-04T14:40:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["Sumunar Awards", "Pemkab Sleman", "Inovasi Sleman", "Pemerintahan Jogja", "Bappeda Sleman"]
-author: "Redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Komitmen Pemerintah Kabupaten (Pemkab) Sleman dalam menumbuhkan budaya riset dan inovasi di tingkat lokal kembali membuahkan hasil manis. Sebanyak 6 karya inovasi terbaik asal Kabupaten Sleman dipastikan berhasil melenggang masuk sebagai nominator dalam ajang penghargaan tahunan bergengsi Sumunar Awards DIY 2026.

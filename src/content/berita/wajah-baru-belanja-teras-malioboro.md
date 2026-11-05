@@ -2,7 +2,7 @@
 title: "Wajah Baru Belanja di Malioboro: Menikmati Kenyamanan Teras Malioboro 1"
 description: "Transformasi belanja oleh-oleh di Teras Malioboro 1 Jogja: pusat batik, suvenir terjangkau, food court transparan, hingga fasilitas ramah wisatawan."
 pubDate: 2026-11-04T05:40:00+07:00
-category: "wisata"
+category: wisata
 tags: ["Teras Malioboro 1", "Oleh-oleh Jogja", "Wisata Belanja", "Malioboro", "Wisata Jogja"]
 author: redaksi
 location: Yogyakarta

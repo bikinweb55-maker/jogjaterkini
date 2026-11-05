@@ -2,7 +2,7 @@
 title: "Tempat Nongkrong Paling Hits di Jogja 2026: Pilihan Terbaik di Kota, Sleman, hingga Bantul"
 description: "Rekomendasi tempat nongkrong dan kafe viral di Jogja 2026: dari spot WFC di Sleman, ikon klasik kota, hingga pemandangan city light di Bantul."
 pubDate: 2026-11-05T08:00:00+07:00
-category: "wisata"
+category: wisata
 tags: ["Tempat Nongkrong Jogja", "Kafe Jogja", "Wisata Jogja", "WFC Jogja", "Kuliner Jogja"]
 author: redaksi
 location: Yogyakarta

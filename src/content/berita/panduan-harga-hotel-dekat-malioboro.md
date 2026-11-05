@@ -2,7 +2,7 @@
 title: "Panduan Lengkap Harga Hotel Dekat Malioboro Jogja: Dari Hostel Hingga Bintang 5"
 description: "Daftar estimasi tarif penginapan dan hotel dekat Malioboro Jogja mulai dari hostel Rp130 ribuan hingga hotel mewah bintang 5 untuk persiapan liburan."
 pubDate: 2026-11-04T10:24:00+07:00
-category: "wisata"
+category: wisata
 tags: ["Hotel Malioboro", "Penginapan Jogja", "Wisata Jogja", "Hotel Murah Jogja", "Info Hotel"]
 author: redaksi
 location: Yogyakarta

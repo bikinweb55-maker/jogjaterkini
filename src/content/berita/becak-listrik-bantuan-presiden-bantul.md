@@ -2,10 +2,10 @@
 title: "Pemkab Bantul Bersiap Terima 400 Unit Becak Listrik Bantuan Presiden"
 description: "Pemkab Bantul siapkan pendataan penerima 400 unit becak listrik bantuan Presiden tahap 2 untuk tingkatkan kesejahteraan pengayuh dan pariwisata hijau."
 pubDate: 2026-11-04T16:45:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["Becak Listrik Bantul", "Pemkab Bantul", "Pariwisata Bantul", "Pemerintahan Jogja", "Bantuan Presiden"]
-author: "Redaksi"
-location: "Bantul"
+author: redaksi
+location: Yogyakarta
 ---
 
 Upaya modernisasi moda transportasi tradisional tanpa menghilangkan nilai kearifan lokal terus diperluas di Daerah Istimewa Yogyakarta[cite: 9]. Pemerintah Kabupaten (Pemkab) Bantul bersiap menerima alokasi 400 unit becak listrik tahap kedua yang merupakan bantuan langsung dari Presiden Republik Indonesia[cite: 9].

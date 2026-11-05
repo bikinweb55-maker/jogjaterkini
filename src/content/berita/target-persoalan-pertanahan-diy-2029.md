@@ -2,7 +2,7 @@
 title: "Target 1.554 Persoalan Pertanahan Tuntas 2029, Dispertaru DIY Pembenahan SG/PAG"
 description: "Dispertaru DIY bersama BPN targetkan penuntasan 1.554 sengketa tanah Kas Desa, Sultan Ground, dan PAG hingga 2029. Cek hotline WA pengaduan BPN."
 pubDate: 2026-11-04T17:15:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["Pertanahan DIY", "Dispertaru DIY", "Tanah Kas Desa", "Sultan Ground", "Pemerintahan Jogja"]
 author: redaksi
 location: Yogyakarta

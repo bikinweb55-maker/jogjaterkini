@@ -2,7 +2,7 @@
 title: "Rekomendasi Tempat Nongkrong Hits Sekitar Malioboro 2026: Dari Balkon Hingga Rel"
 description: "Panduan cafe hits sekitar Malioboro 2026: Loko Coffee 24 jam view rel kereta, Sellie Coffee balkon, hingga spot Titik Nol. Cek lokasi & estimasi harganya."
 pubDate: 2026-11-04T17:50:00+07:00
-category: "wisata"
+category: wisata
 tags: ["Kafe Malioboro", "Tempat Nongkrong Jogja", "Wisata Malioboro", "Kuliner Jogja", "Wisata Jogja"]
 author: redaksi
 location: Yogyakarta

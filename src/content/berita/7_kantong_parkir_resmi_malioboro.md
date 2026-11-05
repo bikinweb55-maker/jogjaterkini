@@ -2,10 +2,10 @@
 title: "Pemkot Jogja Optimalkan 7 Kantong Parkir Resmi di Kawasan Malioboro"
 description: "Pemkot Yogyakarta dan Dishub optimalkan 7 kantong parkir resmi (Park and Ride) sekitar Malioboro untuk cegah kemacetan dan gempur jukir liar nuthuk."
 pubDate: 2026-11-03T22:15:00+07:00
-category: "pemerintahan"
+category: pemerintahan
 tags: ["Malioboro", "Parkir Resmi Jogja", "Pemkot Yogyakarta", "Dishub Jogja", "Pemerintahan Jogja"]
-author: "Redaksi"
-location: "Yogyakarta"
+author: redaksi
+location: Yogyakarta
 ---
 
 Pemerintah Kota (Pemkot) Yogyakarta bersama Dinas Perhubungan (Dishub) mengoptimalkan pemanfaatan dan pengawasan di seluruh kantong parkir resmi (*Park and Ride*) sekitar kawasan cagar budaya dan pedestrian Malioboro[cite: 13]. Langkah ini diambil guna meningkatkan kenyamanan wisatawan, mengurai potensi kemacetan di koridor utama, serta mengikis habis praktik penentuan tarif sepihak (nuthuk) oleh oknum juru parkir liar[cite: 13].
