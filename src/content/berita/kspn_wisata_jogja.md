@@ -30,7 +30,6 @@ Menggunakan kendaraan yang bersih dan nyaman, angkutan ini menjadi opsi terbaik 
 
 Layanan angkutan KSPN menghubungkan jantung kota Yogyakarta—khususnya kawasan Malioboro dan Stasiun Tugu—ke berbagai titik pariwisata unggulan dengan rincian tarif terbaru sebagai berikut:
 
-* **Malioboro – Borobudur:** Rp20.000 sekali jalan
 * [**Malioboro – Parangtritis / Obelix Sea View:** Rp12.000 sekali jalan](https://jogjaterkini.net/berita/kspn_parangtritis_obelix_sea_view/)
 * [**Malioboro – Pantai Baron / Pantai Drini:** Rp26.000 hingga Rp36.000 sekali jalan (tergantung titik akhir kawasan pantai Gunungkidul)](https://jogjaterkini.net/berita/kspn_malioboro_pantai_baron/)
 * [**Stasiun Tugu – Borobudur (via Prambanan):** Rp35.000 sekali jalan](https://jogjaterkini.net/berita/kspn_malioboro_borobudur/)
