@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-Candi Borobudur sebagai salah satu destinasi pariwisata super prioritas kini semakin mudah dijangkau dari pusat Kota Yogyakarta. Wisatawan tidak perlu lagi repot berpindah-pindah moda transportasi umum atau menyewa kendaraan pribadi dengan biaya mahal. Layanan Angkutan Kawasan Strategis Pariwisata Nasional (KSPN) menyediakan rute langsung dari kawasan Malioboro menuju Candi Borobudur dengan tarif yang sangat ekonomis.
+Candi Borobudur sebagai salah satu destinasi pariwisata super prioritas kini semakin mudah dijangkau dari pusat Kota Yogyakarta. Wisatawan tidak perlu lagi repot berpindah-pindah moda transportasi umum atau menyewa kendaraan pribadi dengan biaya mahal. [Layanan Angkutan Kawasan Strategis Pariwisata Nasional (KSPN)](https://jogjaterkini.net/berita/kspn_wisata_jogja/) menyediakan rute langsung dari kawasan Malioboro menuju Candi Borobudur dengan tarif yang sangat ekonomis.
 
 Oleh Redaksi Jogja Terkini
 
