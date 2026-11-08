@@ -501,3 +501,6 @@ Melalui lembar latihan ini, siswa dapat mengasah pemahaman mulai dari operasi bi
   $$
   3 \times 30^\circ = 90^\circ
   $$
+Berikut adalah format tautan Markdown untuk judul dan URL yang Anda minta:
+
+Baca juga: [Kumpulan Soal Latihan Matematika Kelas 4 SD Semester 2](https://jogjaterkini.net/berita/soal-latihan-matematika-kelas-4-sd-semester-2/)
