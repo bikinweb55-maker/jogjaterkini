@@ -1,11 +1,12 @@
-## title: "Tata Kawasan Wisata, Pemkot Yogyakarta Tinjau Parkir hingga Lapak Pasar Kotagede"
-
-description: "Pemkot Yogyakarta mematangkan rencana penataan Pasar Kotagede untuk mengurai kemacetan dan menertibkan lapak tanpa merugikan pendapatan pedagang."
+---
+title: "Tata Kawasan Wisata, Pemkot Yogyakarta Tinjau Parkir hingga Lapak Pasar Kotagede"
+description: "Pemkot Yogyakarta mematangkan rencana penataan Pasar Kotagede untuk mengurai kemacetan dan menertibkan lapak."
 pubDate: 2026-11-08T17:00:00+07:00
 category: pemerintahan
-tags: \["Pasar Kotagede", "Pemkot Yogyakarta", "Penataan Pasar", "Parkir Kotagede", "Wisata Jogja", "Yogyakarta"\]
+tags: ["Pasar Kotagede", "Pemkot Yogyakarta", "Penataan Pasar", "Parkir Kotagede", "Wisata Jogja", "Yogyakarta"]
 author: redaksi
 location: Yogyakarta
+---
 
 **YOGYAKARTA** — Pemerintah Kota (Pemkot) Yogyakarta mulai mematangkan rencana penataan kawasan Pasar Kotagede. Langkah ini diambil untuk mengurai kepadatan lalu lintas serta membuat kawasan bersejarah tersebut lebih tertib dan nyaman sebagai destinasi wisata, tanpa mengurangi pendapatan pedagang.
 

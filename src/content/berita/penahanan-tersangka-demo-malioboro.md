@@ -1,11 +1,12 @@
-## title: "Pembawa Sajam Demo Malioboro Ditahan, Netizen Masih Pertanyakan Identitas Kelompok Berpentungan"
-
-description: "Polresta Yogyakarta resmi menahan tersangka pembawa sajam saat kericuhan demo Malioboro, sementara Polda DIY membantah keterlibatan kelompok Jaga Warga."
+---
+title: "Pembawa Sajam Demo Malioboro Ditahan, Netizen Masih Pertanyakan Identitas Kelompok Berpentungan"
+description: "Polresta Yogyakarta resmi menahan tersangka pembawa sajam saat kericuhan demo Malioboro, dan membantah keterlibatan kelompok Jaga Warga."
 pubDate: 2026-11-08T17:30:00+07:00
 category: peristiwa
-tags: \["Demo Malioboro", "Polresta Yogyakarta", "Polda DIY", "Jaga Warga", "Kericuhan", "Yogyakarta"\]
+tags: ["Demo Malioboro", "Polresta Yogyakarta", "Polda DIY", "Jaga Warga", "Kericuhan", "Yogyakarta"]
 author: redaksi
 location: Yogyakarta
+---
 
 **YOGYAKARTA** — Polresta Yogyakarta resmi menahan pria berinisial W, pelaku yang viral membawa senjata tajam (sajam) saat kericuhan aksi Sumpah Pemuda di Malioboro, 28 Oktober lalu.
 

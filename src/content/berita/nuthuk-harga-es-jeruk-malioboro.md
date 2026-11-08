@@ -1,11 +1,12 @@
-## title: "Segelas Es Jeruk Seharga Dua Puluh Ribu di Jantung Malioboro"
-
-description: "Keluhan wisatawan terkait harga es jeruk Rp20.000 per gelas di Malioboro viral di media sosial, memicu penertiban pedagang nuthuk oleh Pemkot Yogyakarta."
+---
+title: "Segelas Es Jeruk Seharga Dua Puluh Ribu di Jantung Malioboro"
+description: "Keluhan wisatawan terkait harga es jeruk Rp20.000 per gelas di Malioboro viral di media sosial."
 pubDate: 2026-11-08T15:00:00+07:00
 category: peristiwa
-tags: \["Malioboro", "Nuthuk Harga", "Pemkot Yogyakarta", "Satpol PP", "Kuliner Jogja", "Pariwisata"\]
+tags: ["Malioboro", "Nuthuk Harga", "Pemkot Yogyakarta", "Satpol PP", "Kuliner Jogja", "Pariwisata"]
 author: redaksi
 location: Yogyakarta
+---
 
 **YOGYAKARTA** — Geliat wisata di kawasan Malioboro kembali tercoreng oleh ulah pedagang yang mematok harga selangit. Kali ini, keluhan seorang pelancong soal harga segelas es jeruk yang mencapai Rp20.000 memicu keriuhan di media sosial dan memaksa Pemerintah Kota Yogyakarta turun tangan.
 

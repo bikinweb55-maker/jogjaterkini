@@ -1,11 +1,12 @@
-## title: "Cuaca Terik Melanda Yogyakarta, Warga Mengeluh dan BMKG Ungkap Musim Hujan Mundur ke Akhir November"
-
-description: "BMKG memprediksi awal musim hujan di DIY mundur hingga akhir November 2026 akibat fenomena El Nino dan suhu udara ekstrem yang mencapai 35,2 derajat Celsius."
+---
+title: "Cuaca Terik Melanda Yogyakarta, Warga Mengeluh dan BMKG Ungkap Musim Hujan Mundur ke Akhir November"
+description: "BMKG memprediksi awal musim hujan di DIY mundur hingga akhir November 2026 akibat fenomena El Nino."
 pubDate: 2026-11-08T16:30:00+07:00
-category: bencana
-tags: \["Cuaca Terik", "BMKG Jogja", "Musim Hujan", "Kekeringan", "Yogyakarta", "El Nino"\]
+category: peristiwa
+tags: ["Cuaca Terik", "BMKG Jogja", "Musim Hujan", "Kekeringan", "Yogyakarta", "El Nino"]
 author: redaksi
 location: Yogyakarta
+---
 
 **YOGYAKARTA** — Cuaca panas ekstrem yang melanda Daerah Istimewa Yogyakarta (DIY) dalam beberapa pekan terakhir menuai banyak keluhan dari warga setempat. Teriknya sinar matahari pada siang hari membuat aktivitas luar ruangan terasa semakin menyengat dan tidak nyaman, terutama di kawasan perkotaan yang padat kendaraan.
 

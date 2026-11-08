@@ -1,11 +1,12 @@
-## title: "Gelar Razia Akhir Pekan, Polda DIY Sita 140 Botol Miras Ilegal dan 124,4 Gram Tembakau Sintetis"
-
-description: "Polda DIY menyita 140 botol miras ilegal dan 124,4 gram tembakau sintetis dalam operasi KRYD akhir pekan guna menekan kriminalitas dan menjaga kamtibmas."
+---
+title: "Gelar Razia Akhir Pekan, Polda DIY Sita 140 Botol Miras Ilegal dan 124,4 Gram Tembakau Sintetis"
+description: "Polda DIY menyita 140 botol miras ilegal dan 124,4 gram tembakau sintetis."
 pubDate: 2026-11-08T18:00:00+07:00
 category: peristiwa
-tags: \["Polda DIY", "Razia Miras", "Tembakau Sintetis", "KRYD", "Kamtibmas", "Yogyakarta"\]
+tags: ["Polda DIY", "Razia Miras", "Tembakau Sintetis", "KRYD", "Kamtibmas", "Yogyakarta"]
 author: redaksi
 location: Yogyakarta
+---
 
 **YOGYAKARTA** — Kepolisian Daerah Istimewa Yogyakarta (Polda DIY) terus menggencarkan upaya pemberantasan penyakit masyarakat dan peredaran narkotika di wilayah hukumnya. Melalui Kegiatan Rutin yang Ditingkatkan (KRYD) yang digelar sepanjang akhir pekan, Sabtu hingga Minggu (7–8/11/2026), petugas berhasil mengamankan ratusan botol minuman keras (miras) ilegal serta puluhan paket tembakau sintetis siap edar.
 
