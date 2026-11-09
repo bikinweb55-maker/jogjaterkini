@@ -1,7 +1,7 @@
 ---
 title: "Gerakan Sego Gudangan Deklarasikan Aksi Damai di Malioboro, Serukan Pemeliharaan Kedamaian Kawasan Wisata"
 description: "Lebih dari 25 elemen masyarakat mendeklarasikan gerakan Sego Gudangan di Malioboro untuk menjaga keamanan, kebersihan, dan kenyamanan ikon Jogja."
-pubDate: 2026-11-08T11:00:00+07:00
+pubDate: 2026-11-09T12:00:00+07:00
 category: "peristiwa"
 tags: ["Sego Gudangan", "Malioboro", "Kadin DIY", "Wisata Jogja", "Aksi Damai", "Berita Jogja"]
 author: "redaksi"
