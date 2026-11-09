@@ -8,9 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-Geliat pertumbuhan ekonomi di Daerah Istimewa Yogyakarta (DIY) dalam beberapa tahun terakhir menunjukkan tren yang sangat dinamis. Mulai dari menjamurnya kafe estetik di kawasan Sleman, penginapan unik di Bantul, hingga berbagai layanan jasa lokal di pusat kota, persaingan antar pelaku usaha kini terasa semakin ketat.
-
-Namun, di balik ramainya pelaku bisnis baru yang bermunculan, ada satu perubahan mendasar yang sering luput dari perhatian pemilik usaha: cara konsumen mencari dan memutuskan pembelian.
+Geliat pertumbuhan ekonomi di Daerah Istimewa Yogyakarta (DIY) dalam beberapa tahun terakhir menunjukkan tren yang sangat dinamis. Berbagai bidang usaha, khususny yang terkait dengan pariwisata dan kuliner, tumbuh dengan pesat. Hal ini membuat persaingan antar pelaku usaha terasa semakin ketat, bahkan hingga masuk ke ranah digital.
 
 Oleh Redaksi Jogja Terkini
 
