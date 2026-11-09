@@ -1,35 +1,55 @@
 ---
-title: "Operasi Patuh Progo 2026: Angka Kecelakaan di DIY Turun 23 Persen, Tilang Merosot Tajam"
-description: "Ditlantas Polda DIY catat tren positif pekan pertama Operasi Patuh Progo 2026: kecelakaan turun 23% dan tilang merosot 81% lewat pendekatan humanis."
-pubDate: 2026-11-09T10:00:00+07:00
+title: "Gerakan Sego Gudangan Deklarasikan Aksi Damai di Malioboro, Serukan Pemeliharaan Kedamaian Kawasan Wisata"
+description: "Lebih dari 25 elemen masyarakat mendeklarasikan gerakan Sego Gudangan di Malioboro untuk menjaga keamanan, kebersihan, dan kenyamanan ikon Jogja."
+pubDate: 2026-11-08T14:00:00+07:00
 category: "peristiwa"
-tags: ["Operasi Patuh Progo 2026", "Polda DIY", "Ditlantas Polda DIY", "Lalu Lintas Jogja", "Berita Jogja"]
+tags: ["Sego Gudangan", "Malioboro", "Kadin DIY", "Wisata Jogja", "Aksi Damai", "Berita Jogja"]
 author: "redaksi"
 location: "Yogyakarta"
 ---
 
-Direktorat Lalu Lintas Kepolisian Daerah Istimewa Yogyakarta (Ditlantas Polda DIY) mencatat tren positif pada pekan pertama pelaksanaan Operasi Patuh Progo 2026 yang berlangsung sejak 26 Oktober hingga 1 November 2026. 
-
-Berdasarkan data evaluasi terbaru, angka kecelakaan lalu lintas di wilayah DIY berhasil ditekan hingga 23 persen menjadi 170 kejadian dibandingkan dengan pekan sebelum operasi dimulai.
+Sejumlah pelaku usaha, pedagang, seniman, mahasiswa, dan komunitas masyarakat mendeklarasikan gerakan kebudayaan bertajuk **Sego Gudangan** di kawasan Malioboro, Yogyakarta, pada Minggu (8/11/2026). Gerakan tersebut mengajak seluruh elemen masyarakat untuk menjaga keamanan, ketertiban, dan kedamaian di kawasan Tugu–Malioboro–Titik Nol Kilometer.
 
 Oleh Redaksi Jogja Terkini
 
-9 November 2026 pukul 10.00 WIB
+8 November 2026 pukul 14.00 WIB
 
-3 menit baca
+4 menit baca
 
 YOGYAKARTA — Jogja Terkini
 
-## Penurunan Angka Tilang dan Pendekatan Humanis
+Lebih dari 25 elemen masyarakat terlibat dalam deklarasi yang digelar di depan Teras Malioboro I. Mereka menyatukan semangat gotong royong guna merawat budaya, perekonomian rakyat, kebersihan, serta kenyamanan kawasan yang menjadi wajah Yogyakarta. Di antara elemen yang terlibat adalah Kadin DIY, pelaku usaha, pemilik hotel, pedagang, seniman, budayawan, mahasiswa, serta komunitas masyarakat setempat.
 
-Selain penurunan angka kecelakaan, penindakan hukum berupa tilang juga merosot tajam hingga 81 persen. Polda DIY tercatat hanya mengeluarkan 1.127 tilang pada pekan pertama tahun ini, berbanding terbalik dengan periode yang sama pada tahun sebelumnya yang mencapai 5.865 tilang.
+## Inisiatif Bersama Merawat Kenyamanan Jogja
 
-Sebagai gantinya, pihak kepolisian lebih mengedepankan pendekatan humanis melalui tindakan preemtif dan preventif. 
+Pegiat Sego Gudangan sekaligus Wakil Ketua Umum Kadin DIY, Rommy Heryanto, menjelaskan bahwa gerakan ini lahir dari inisiatif bersama para pelaku ekonomi, seni, budaya, dan pariwisata di sepanjang kawasan tersebut.
 
-Jumlah teguran edukatif di jalan raya dilaporkan meningkat menjadi 5.284 tindakan. Langkah intervensi ini dinilai efektif dalam menekan tingkat fatalitas korban luka serta meminimalkan nilai kerugian materiil hingga lebih dari separuhnya.
+“Jogja itu milik kita, Jogja itu potensi kita, kekuatan kita, mari kita jaga. Kami ingin menunjukkan kepada dunia luar bahwa Jogja masih nyaman dan aman. Siapa lagi yang akan menjaga kalau bukan kita,” ujar Rommy saat deklarasi.
 
-## Imbauan Kesadaran Kolektif Pengguna Jalan
+Ia menegaskan bahwa gerakan ini tidak bertujuan membatasi kebebasan berpendapat maupun berdemonstrasi. Aksi unjuk rasa tetap dihormati selama dilaksanakan secara damai, bertanggung jawab, dan tidak mengganggu ketertiban ruang publik.
 
-Pihak Ditlantas Polda DIY mengimbau seluruh lapisan masyarakat untuk tetap menjaga ketertiban dan mematuhi rambu-rambu berkendara di manapun berada. 
+Selain Rommy Heryanto, tokoh lain yang mendukung gerakan ini adalah Widihasto Wasana Putro (Ketua Sekber Keistimewaan DIY) yang memberikan keterangan tertulis terkait gagasan gerakan, serta mantan Walikota Yogyakarta Herry Zudianto.
 
-Mengingat operasi kepolisian ini masih terus berjalan, kesadaran kolektif dari para pengguna jalan diharapkan dapat mewujudkan situasi lalu lintas yang aman, tertib, dan kondusif secara berkelanjutan di wilayah Yogyakarta.
+## Makna di Balik Nama Sego Gudangan
+
+Nama **Sego Gudangan** merupakan akronim dari *Semangat Gotong Royong, Guyub Damai Anggone Ngupakara Sandang Pangan*. Nama tersebut diambil dari makanan tradisional Jawa yang terdiri atas nasi, berbagai jenis sayuran, dan lauk-pauk. Meskipun berbeda-beda, seluruh unsur tersebut menyatu menjadi satu sajian yang harmonis.
+
+Menurut Rommy, filosofi ini menggambarkan semangat persatuan di tengah perbedaan. “Sego Gudangan itu persatuan dari banyak perbedaan. Ada nasi, ada lauk, ada sayur. Gabungan sesuatu yang berbeda ini menjadi sebuah harmoni,” katanya.
+
+## Lima Seruan Utama Gerakan
+
+Dalam deklarasinya, komunitas Sego Gudangan menyampaikan lima seruan utama:
+
+1. **Menjaga Ruang Publik:** Menjaga kawasan Tugu–Malioboro–Titik Nol sebagai ruang publik yang aman, terbuka, ramah, dan inklusif.
+
+2. **Mengedepankan Dialog:** Mengedepankan sikap guyub serta menyelesaikan perbedaan melalui dialog secara damai.
+
+3. **Merawat Ekonomi Rakyat:** Merawat budaya sekaligus kehidupan ekonomi rakyat, termasuk pedagang, UMKM, seniman, dan pekerja pariwisata.
+
+4. **Pelayanan Jujur dan Beradab:** Membangun kawasan yang tertib, bersih, dan beradab dengan pelayanan yang jujur.
+
+5. **Menjaga Wajah Yogyakarta:** Menjaga kawasan tersebut sebagai wajah Yogyakarta di mata nasional maupun internasional.
+
+Deklarasi dilangsungkan dalam suasana aksi damai sambil menikmati sego gudangan bersama. Warga setempat dan wisatawan yang berada di lokasi turut membaur dalam kegiatan tersebut.
+
+Gerakan Sego Gudangan diharapkan tidak berhenti sebagai kegiatan seremonial semata, melainkan terus dikembangkan menjadi berbagai program kebudayaan dan kolaboratif di wilayah lain di Yogyakarta.
