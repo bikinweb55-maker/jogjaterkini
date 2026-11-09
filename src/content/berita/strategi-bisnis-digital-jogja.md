@@ -24,9 +24,11 @@ Jika dulu lokasi fisik yang strategis di pinggir jalan utama atau promosi dari m
 
 Perubahan perilaku konsumen ini menciptakan medan persaingan baru. Saat ini, konsumen cenderung lebih selektif dan mengandalkan informasi instan sebelum mengeluarkan uang.
 
-Ketika seseorang membutuhkan layanan tertentu, mereka akan langsung mengetikkan kata kunci spesifik di mesin pencari. Misalnya, calon wisatawan dari Jakarta yang mengetik *"paket wisata keluarga Jogja 3 hari 2 malam"* jauh sebelum hari keberangkatan, atau pelancong yang sudah tiba di Malioboro dan mencari *"sewa motor terdekat dari Stasiun Tugu"*.
+Ketika seseorang membutuhkan layanan tertentu, mereka akan langsung mengetikkan kata kunci spesifik di mesin pencari. 
 
-Fenomena ini membawa konsekuensi besar bagi bisnis lokal. Usaha yang tidak muncul di halaman pertama hasil pencarian Google—atau tidak terlihat di peta pencarian (Google Maps)—secara otomatis akan kehilangan potensi pelanggan, meskipun kualitas produk atau layanan mereka sebenarnya jauh lebih unggul dibandingkan kompetitor.
+Misalnya, calon wisatawan dari Jakarta yang mengetik *"paket wisata keluarga Jogja 3 hari 2 malam"* jauh sebelum hari keberangkatan, atau pelancong yang sudah tiba di Malioboro dan mencari *"sewa motor terdekat dari Stasiun Tugu"*.
+
+Fenomena ini membawa konsekuensi besar bagi bisnis lokal. Usaha yang tidak muncul di halaman pertama hasil pencarian Google—atau tidak terlihat di peta pencarian (Google Maps), secara otomatis akan kehilangan potensi pelanggan, meskipun kualitas produk atau layanan mereka sebenarnya jauh lebih unggul dibandingkan kompetitor.
 
 ## Jebakan Biaya Iklan dan Paradigma "Tanpa Iklan, Tanpa Pemasukan"
 
