@@ -2,7 +2,7 @@
 title: "Waspada Penipuan Modus Pemalsuan Nomor Reservasi Warung Makan di Google Maps Marak di DIY"
 description: "Marak penipuan pemalsuan nomor kontak di Google Maps warung makan Jogja. Pelajari modus operandi, langkah pencegahan pelanggan & pemilik usaha."
 pubDate: 2026-11-10T12:15:00+07:00
-category: "ekonomi"
+category: "peristiwa"
 tags: ["Google Maps", "Wisata Jogja", "Kuliner Jogja", "Keamanan Digital", "UMKM Jogja", "Berita Jogja"]
 author: "redaksi"
 location: "Yogyakarta"
