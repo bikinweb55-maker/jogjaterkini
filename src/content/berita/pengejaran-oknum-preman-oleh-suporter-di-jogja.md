@@ -1,5 +1,5 @@
 ---
-title: "Aksi Pengejaran Oknum Preman Penyerang Mahasiswa, Suporter Lintas Klub di Jogja Turun Tangan"
+title: "Aksi Pengejaran Oknum Preman Penyerang Demonstran di Malioboro oleh Suporter Sepakbola Lintas Klub di Jogja"
 description: "Solidaritas suporter (BCS, Brajamusti, Paser Bumi) buru oknum preman terduga penyerang demo mahasiswa di Jogja."
 pubDate: 2026-11-11T02:00:00+07:00
 category: "peristiwa"
