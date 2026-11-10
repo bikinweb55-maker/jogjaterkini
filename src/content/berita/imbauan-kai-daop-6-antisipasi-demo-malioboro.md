@@ -10,7 +10,7 @@ location: "Yogyakarta"
 
 PT Kereta Api Indonesia (Persero) Daerah Operasi (Daop) 6 Yogyakarta mengimbau seluruh calon penumpang kereta api (KA) untuk mengatur ulang waktu perjalanan dan datang lebih awal ke stasiun.
 
-Langkah antisipasi ini diambil guna mencegah potensi keterlambatan atau tertinggal kereta akibat kemacetan lalu lintas menjelang [aksi demo mahasiswa di kawasan Malioboro](/berita/demo-mahasiswa-jogja-rekayasa-lalu-lintas-malioboro/) pada Selasa (10/11/2026).
+Langkah antisipasi ini diambil guna mencegah potensi keterlambatan atau tertinggal kereta akibat kemacetan lalu lintas menjelang [aksi demo mahasiswa di kawasan Malioboro](/https://jogjaterkini.net/berita/demo-mahasiswa-jogja-dan-rekayasa-lalu-lintas/) pada Selasa (10/11/2026).
 
 Oleh Redaksi Jogja Terkini
 
