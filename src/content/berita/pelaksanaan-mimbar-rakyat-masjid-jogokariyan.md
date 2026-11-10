@@ -81,3 +81,5 @@ Diskusi yang berkembang di media sosial Threads terbagi ke dalam tiga kelompok s
 3. **Dinamika Perdebatan Politik:** Sebagian percakapan berkembang menjadi perdebatan mengenai batas partisipasi ruang keagamaan dalam kritik politik serta dampaknya terhadap relasi warga dengan pemerintah.
 
 Melalui forum Mimbar Rakyat ini, Masjid Jogokariyan menegaskan kembali pentingnya partisipasi aktif warga dalam mengawal jalannya demokrasi dan kebijakan pembangunan nasional demi kesejahteraan bersama.
+
+Sementara itu, tak jauh dari lokasi kericuhan, yaitu di Masjid Jogokaryan Yogyakarta, berlangsung acara [Mimbar Rakyat](https://jogjaterkini.net/berita/pelaksanaan-mimbar-rakyat-masjid-jogokariyan/), yang dihadiri oleh Prof. Zaenal Arifin Mochtar (uceng) dkk. Acara tersebut berlangsung secara tertib dan damai. Banyak juga dari peserta demo di siang hari ikut bergabung dalam acara tersebut.

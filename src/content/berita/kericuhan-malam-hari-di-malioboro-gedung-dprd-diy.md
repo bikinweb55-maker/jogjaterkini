@@ -79,3 +79,5 @@ LBH Yogyakarta bersama tim bantuan hukum bergerak mengumpulkan data warga, mahas
 * **Penting (Pemeriksaan Validitas Data):** Masyarakat diimbau untuk **tidak mencampuradukkan** data malam ini dengan narasi viral angka 116 orang luka dan 13 rawat inap. Angka 116 luka dan 13 rawat inap tersebut merupakan **data historis kericuhan 28 Oktober 2026** (peristiwa Sumpah Pemuda) yang dipublikasikan pada 30 Oktober 2026 saat kunjungan Penjabat Wali Kota Hasto Wardoyo ke RS Bethesda. Begitu pula narasi pelepasbebasan 34 orang penahanan adalah data kasus akhir Oktober lalu.
 
 Proses penanganan fasilitas jalan serta penyidikan terhadap terduga pelaku perusakan hingga saat ini masih terus dilakukan oleh aparat Polresta Yogyakarta dan Polda DIY.
+
+Sementara itu, tak jauh dari lokasi terjadinya kericuhan, yaitu di Masjid Jogokaryan, berlangsung acara [Mimbar Rakyat, yang menghadirkan Prof. Uceng dkk.] (https://jogjaterkini.net/berita/pelaksanaan-mimbar-rakyat-masjid-jogokariyan/) secara tertib dan damai.

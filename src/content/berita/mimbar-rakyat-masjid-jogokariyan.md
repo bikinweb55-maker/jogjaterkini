@@ -32,3 +32,5 @@ Bagi masyarakat yang berencana menghadiri forum diskusi ini, berikut adalah deta
 * **Narasumber:** Prof. Zainal Arifin Mochtar dan panelis ahli lainnya
 
 * **Ketentuan:** Terbuka untuk umum dan gratis (tanpa dipungut biaya pendaftaran)
+
+Baca: Pelaksanaan acara [Mimbar Rakyat Masjid Jogokaryan Yogyakarta, 10 November 2026](https://jogjaterkini.net/berita/pelaksanaan-mimbar-rakyat-masjid-jogokariyan/)
