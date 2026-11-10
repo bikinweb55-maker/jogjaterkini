@@ -54,4 +54,6 @@ Beberapa langkah teknis yang telah dan sedang berjalan antara lain:
 
 Di sisi lain, opsi penanganan permanen juga mulai digodok mengingat pertumbuhan populasi *Macaca fascicularis* di Gunungkidul yang kian tidak terkendali.
 
+Baca Juga: [Pemkab Setop Program Pakan Monyet Ekor Panjang, Karena Tidak Efektif](https://jogjaterkini.net/berita/pemkab-gunungkidul-setop-program-pakan-monyet-ekor-panjang/)
+
 "Untuk wacana pengendalian populasi juga dilakukan diskusi dan kajian mendalam mengenai translokasi (pemindahan), sterilisasi massal, hingga kuota penangkapan atau pengurangan populasi secara legal sesuai dengan aturan konservasi yang berlaku," pungkas Rismiyadi.
