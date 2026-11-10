@@ -36,7 +36,7 @@ Menyadari pentingnya kehadiran digital, banyak pelaku UMKM dan pebisnis di Jogja
 
 Saat ini, banyak pengusaha di Jogja terjebak dalam paradigma bahwa jika tidak beriklan, maka tidak akan ada pemasukan. Pola pikir ini membuat mereka terus-menerus menyuntikkan anggaran ke platform iklan setiap hari demi menjaga arus pesanan tetap masuk.
 
-Padahal, realitas pahit di lapangan menunjukkan bahwa biaya iklan digital kini semakin mahal dan tidak lagi sebanding dengan margin keuntungan:
+Padahal, realitas pahit di lapangan menunjukkan bahwa [biaya iklan digital kini semakin mahal](https://jogjaterkini.net/berita/bid-iklan-digital-jogja/) dan tidak lagi sebanding dengan margin keuntungan:
 
 * Tidak jarang, pelaku usaha lokal harus "membakar uang" hingga Rp1.000.000 di iklan hanya untuk mendatangkan nilai konversi penjualan sebesar Rp1.100.000.
 
