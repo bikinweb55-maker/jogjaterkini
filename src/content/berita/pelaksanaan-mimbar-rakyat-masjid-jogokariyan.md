@@ -1,7 +1,7 @@
 ---
 title: "Mimbar Rakyat di Masjid Jogokariyan Jadi Ruang Kritik dan Refleksi Dua Tahun Pemerintahan"
 description: "Masjid Jogokariyan gelar Mimbar Rakyat refleksi 2 tahun pemerintahan. Hadirkan Prof Uceng hingga Zulfa Sakhiyya."
-pubDate: 2026-11-10T23:00:00+07:00
+pubDate: 2026-11-11T03:00:00+07:00
 category: "peristiwa"
 tags: ["Masjid Jogokariyan", "Jogokariyan", "Mimbar Rakyat", "UGM", "Berita Jogja", "Peristiwa Jogja"]
 author: "redaksi"
@@ -14,7 +14,7 @@ Kegiatan yang berlangsung mulai pukul 19.30 WIB tersebut menjadi ruang refleksi 
 
 Oleh Redaksi Jogja Terkini
 
-10 November 2026 pukul 23.00 WIB
+11 November 2026 pukul 03.00 WIB
 
 7 menit baca
 
