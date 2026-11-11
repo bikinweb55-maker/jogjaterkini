@@ -30,7 +30,9 @@ Detail mengenai dinamika di lapangan dan kerusakan fasilitas publik dapat dibaca
 
 ## Video Viral dan Dugaan Provokator
 
-Sejumlah rekaman video kericuhan menyebar luas di platform X. Salah satunya memperlihatkan sekelompok orang melakukan pelemparan benda ke arah Gedung DPRD DIY. Rekaman tersebut memunculkan dugaan bahwa kerusuhan dipicu oleh kelompok yang berbeda dari mahasiswa yang sebelumnya mengikuti demonstrasi.
+Sejumlah rekaman video kericuhan menyebar luas di platform X. Salah satunya memperlihatkan sekelompok orang melakukan pelemparan benda ke arah Gedung DPRD DIY. 
+
+Rekaman tersebut memunculkan dugaan bahwa kerusuhan dipicu oleh kelompok yang berbeda dari mahasiswa yang sebelumnya mengikuti demonstrasi.
 
 Istilah massa bayaran, provokator, hingga orang tidak dikenal ramai diperbincangkan. Sejumlah pengguna media sosial juga mengklaim memiliki rekaman CCTV warga yang dapat membantu mengungkap identitas pelaku pelemparan. 
 
@@ -46,7 +48,9 @@ Kericuhan demo 10 November tidak hanya menjadi perhatian di lapangan, tetapi jug
 
 Sejumlah tagar seperti **#AllEyesOnJogja**, **#StopPoliceBrutality**, dan **#IndonesiaSadar** ramai digunakan mahasiswa, alumni UGM, aktivis, hingga masyarakat umum untuk menyuarakan kritik terhadap penanganan demonstrasi. Melalui tagar tersebut, pengguna media sosial membagikan video kericuhan, dugaan kekerasan aparat, penangkapan peserta aksi, hingga laporan keluarga yang kehilangan kontak dengan anggota keluarganya.
 
-Narasi yang berkembang tidak sepenuhnya seragam. Sebagian pengguna menyoroti dugaan penggunaan kekuatan berlebihan oleh aparat dan mendesak transparansi penanganan demonstrasi. Sementara itu, pihak lain membela tindakan kepolisian dengan alasan adanya pelemparan batu, petasan, dan bom molotov yang mengancam keamanan.
+Narasi yang berkembang tidak sepenuhnya seragam. Sebagian pengguna menyoroti dugaan penggunaan kekuatan berlebihan oleh aparat dan mendesak transparansi penanganan demonstrasi. 
+
+Sementara itu, pihak lain membela tindakan kepolisian dengan alasan adanya pelemparan batu, petasan, dan bom molotov yang mengancam keamanan.
 
 Video yang memperlihatkan kelompok pelempar di sekitar Gedung DPRD DIY juga menjadi bahan perdebatan. Sebagian pengguna mengaitkannya dengan dugaan provokator atau massa bayaran, meskipun tuduhan tersebut masih membutuhkan pembuktian.
 
@@ -54,7 +58,9 @@ Ramainya tagar dan penyebaran rekaman membuat peristiwa di Yogyakarta berkembang
 
 ## Pengerahan Brimob dan Gas Air Mata Dikritik
 
-Penanganan kericuhan diikuti pengerahan empat Satuan Setingkat Kompi (SSK) Brimob dan sekitar 60 personel Satuan Penindak Perusuh. Aparat juga dilengkapi kendaraan taktis dan water cannon. Pengerahan kekuatan tersebut menuai kritik setelah video barisan Brimob dan penggunaan gas air mata beredar luas di media sosial.
+Penanganan kericuhan diikuti pengerahan empat Satuan Setingkat Kompi (SSK) Brimob dan sekitar 60 personel Satuan Penindak Perusuh. Aparat juga dilengkapi kendaraan taktis dan water cannon. 
+
+Pengerahan kekuatan tersebut menuai kritik setelah video barisan Brimob dan penggunaan gas air mata beredar luas di media sosial.
 
 Sejumlah laporan menyebut warga dan mahasiswa mengalami sesak napas, mata perih, hingga membutuhkan pertolongan medis. Kritik terutama diarahkan pada proporsionalitas tindakan aparat. Sejumlah pihak menilai penanganan terhadap pelaku perusakan tidak boleh berujung pada kekerasan atau penangkapan terhadap orang-orang yang tidak terlibat.
 
@@ -93,5 +99,3 @@ Amnesty International Indonesia mendesak agar dugaan kekerasan dan penggunaan ke
 Kericuhan demo 10 November di Jogja menyisakan sejumlah pertanyaan yang belum sepenuhnya terjawab. Mulai dari identitas kelompok yang melakukan pelemparan, dugaan provokasi, hingga proporsionalitas tindakan aparat dalam mengendalikan situasi.
 
 Pengusutan pelaku perusakan tidak boleh mengesampingkan dugaan pelanggaran oleh aparat. Sebaliknya, kritik terhadap kepolisian juga tidak berarti mengabaikan tindakan kekerasan yang dilakukan pihak lain. Video yang beredar di media sosial dapat menjadi petunjuk awal, tetapi perlu diverifikasi berdasarkan waktu, lokasi, dan konteks kejadian.
-
-Pada akhirnya, publik membutuhkan keterbukaan informasi dan penyelidikan yang dapat dipertanggungjawabkan. Sebab, persoalan ini bukan hanya menyangkut kerusakan fasilitas umum dan penangkapan ratusan orang, tetapi juga perlindungan hak warga negara dalam menyampaikan pendapat serta batas penggunaan kekuatan oleh aparat.
