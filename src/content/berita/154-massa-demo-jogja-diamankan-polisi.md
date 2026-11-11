@@ -1,5 +1,5 @@
 ---
-title: "Pembaruan Kericuhan Demo Jogja: 154 Orang Diamankan, Polisi Menyita Molotov dan Senjata Tajam"
+title: "Kericuhan Demo Jogja: 154 Orang Diamankan, Polisi Menyita Molotov dan Senjata Tajam"
 description: "Polda DIY konfirmasi 154 orang diamankan pasca-demo Malioboro hingga UGM."
 pubDate: 2026-11-11T10:00:00+07:00
 category: "peristiwa"
