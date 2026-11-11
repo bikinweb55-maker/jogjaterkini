@@ -27,9 +27,9 @@ Akar masalahnya berasal dari paradigma lama yang keliru dalam memandang fungsi i
 
 ## Paradigma Keliru: Menganggap Iklan sebagai Mesin Konversi Langsung
 
-Kesalahan mendasar yang masih dipegang teguh oleh banyak pengusaha di Jogja adalah menganggap bahwa iklan sama dengan konversi langsung dan keuntungan instan. Padahal, secara prinsip pemasaran, fungsi utama iklan adalah promosi—yakni memperluas jangkauan dan mengenalkan penawaran kepada calon pembeli—bukan jaminan terjadinya transaksi seketika.
+Kesalahan mendasar yang masih dipegang teguh oleh banyak pengusaha di Jogja adalah menganggap bahwa iklan sama dengan konversi langsung dan keuntungan instan. Padahal, secara prinsip pemasaran, fungsi utama iklan adalah promosi, yakni memperluas jangkauan dan mengenalkan penawaran kepada calon pembeli, bukan mengejar transaksi seketika.
 
-Karena terlanjur meyakini bahwa "pasang iklan pasti langsung untung", para pemain lama ini cenderung panik ketika melihat iklan kompetitor berada di posisi teratas. Reaksi yang muncul adalah langsung menaikkan nilai penawaran harga iklan (*bid*) secara agresif agar kembali menduduki peringkat pertama.
+Karena terlanjur meyakini bahwa "pasang iklan pasti langsung untung", para pebisnis ini cenderung panik ketika melihat iklan kompetitor berada di posisi teratas. Reaksi yang muncul adalah langsung menaikkan nilai penawaran harga iklan (*bid*) secara agresif agar kembali menduduki peringkat pertama.
 
 Masalahnya, kompetitor yang juga sesama pemain lama di Jogja melakukan reaksi yang persis sama. Akibatnya, terjadilah perang harga klik (*bidding war*) yang tidak sehat, di mana biaya per klik (*Cost Per Click* atau CPC) melambung jauh di atas batas wajar.
 
@@ -61,7 +61,7 @@ Selain paradigma keliru dan karakter konsumen yang sensitif harga, kebocoran ang
 
 Iklan berbayar pada dasarnya adalah alat bantu promosi, bukan satu-satunya mesin pencetak laba instan. Agar tidak terus-menerus terjebak dalam perang *bid* sesama pemain lama yang menguras modal demi mengejar konsumen pragmatis, pelaku usaha di Yogyakarta perlu mulai mengalihkan sebagian anggaran pemasaran mereka untuk membangun aset organik.
 
-Memahami perubahan perilaku konsumen dan membangun otoritas merek di mesin pencari menjadi langkah krusial. Dengan menerapkan kombinasi SEO dan Local SEO, pengusaha dapat menjaring calon wisatawan dari seluruh Indonesia maupun pelanggan yang sudah berada di Jogja secara berkelanjutan tanpa harus membayar biaya setiap kali tautan bisnisnya diklik.
+Memahami perubahan perilaku konsumen dan membangun otoritas merek di mesin pencari menjadi langkah krusial. Dengan [menerapkan kombinasi SEO dan Local SEO](https://jogjaterkini.net/berita/beda-seo-umum-dan-local-seo-jogja/), pengusaha dapat menjaring calon wisatawan dari seluruh Indonesia maupun pelanggan yang sudah berada di Jogja secara berkelanjutan tanpa harus membayar biaya setiap kali tautan bisnisnya diklik.
 
 Ketika *website* dan profil bisnis sudah kuat secara organik di halaman pertama Google, kredibilitas bisnis pun meningkat di mata konsumen—sehingga peluang terjadinya transaksi berulang (*repeat order*) jauh lebih besar tanpa harus terjebak perang harga.
 

@@ -46,6 +46,8 @@ Strategi ini menyasar fase kebutuhan mendesak (*immediate intent*). Konsumen sud
 
 * **Fokus Utama Optimasi:** Kelengkapan dan keaktifan Google Business Profile (Google Maps), konsistensi alamat serta nomor telepon, jumlah dan kualitas ulasan (*review*) bintang lima dari pelanggan, serta penyebutan nama kecamatan atau titik *landmark* lokal di dalam *website*.
 
+Baca Juga: [Optimasi Google Map untuk Bisnis Lokal di Jogja](https://jogjaterkini.net/berita/optimasi-google-maps-bisnis-jogja/)
+
 ## Mengapa Bisnis di Jogja Wajib Menggabungkan Keduanya?
 
 Mengandalkan salah satu strategi saja akan membuat bisnis kehilangan separuh potensi pasarnya. Jika pengusaha hanya fokus pada Local SEO, mereka akan kalah saing dalam merebut pesanan paket wisata atau reservasi penginapan yang biasanya sudah dikunci wisatawan dari luar kota jauh sebelum hari keberangkatan.
@@ -54,6 +56,6 @@ Sebaliknya, jika hanya mengandalkan SEO Umum tanpa merawat profil Google Maps, b
 
 Memahami pembagian peran ini juga menjadi solusi paling efektif bagi pelaku usaha yang mulai lelah membakar anggaran iklan harian tanpa kepastian hasil. 
 
-Dengan memadukan kekuatan SEO Umum dan Local SEO sebagai bagian dari [strategi bisnis lokal menang di pasar digital Jogja](/berita/tren-belanja-konsumen-jogja-bisnis-digital/), pengusaha membangun dua saluran pemasukan organik sekaligus: pesanan terencana dari luar daerah dan transaksi harian dari konsumen di dalam kota.
+Dengan memadukan kekuatan SEO Umum dan Local SEO sebagai bagian dari [strategi bisnis lokal menang di pasar digital Jogja](https://jogjaterkini.net/berita/strategi-bisnis-digital-jogja/), pengusaha membangun dua saluran pemasukan organik sekaligus: pesanan terencana dari luar daerah dan transaksi harian dari konsumen di dalam kota.
 
 Ketika kedua fondasi ini berjalan beriringan, bisnis tidak lagi bergantung pada perang harga atau iklan berbayar, melainkan tumbuh stabil sebagai merek lokal yang dipercaya oleh konsumen di tingkat lokal maupun nasional.
