@@ -28,7 +28,7 @@ Oleh karena itu, Dinkes Sleman menekankan pentingnya langkah mitigasi sejak dini
 
 Berdasarkan pemantauan lapangan dan pencatatan epidemiologi Dinkes Sleman, terdapat empat jenis penyakit utama yang menjadi perhatian serius selama masa pancaroba ini:
 
-1. **Leptospirosis:** Hingga saat ini tercatat ada 112 kasus terdiagnosis secara medis dengan 2 korban jiwa, ditambah 2 kasus kematian lainnya pada status suspek. Penyakit ini memiliki risiko penularan tinggi melalui kontak luka terbuka atau kulit dengan genangan air maupun tanah lembap yang terkontaminasi urin tikus.
+1. **[Leptospirosis](https://jogjaterkini.net/berita/waspada-leptospirosis-sleman-dan-diy/):** Hingga saat ini tercatat ada 112 kasus terdiagnosis secara medis dengan 2 korban jiwa, ditambah 2 kasus kematian lainnya pada status suspek. Penyakit ini memiliki risiko penularan tinggi melalui kontak luka terbuka atau kulit dengan genangan air maupun tanah lembap yang terkontaminasi urin tikus.
 
 2. **Infeksi Saluran Pernapasan Akut (ISPA):** Angka akumulasi kasusnya telah mencapai puluhan ribu sepanjang tahun ini dan diprediksi masih akan meningkat akibat penurunan imunitas tubuh dan fluktuasi suhu udara.
 
