@@ -38,6 +38,8 @@ Dampak dari bentrokan di kawasan Malioboro mengakibatkan sejumlah kerusakan fisi
 
 * **Kerusakan Objek Vital:** Sejumlah kamera CCTV milik Polda DIY dan DPRD DIY dilaporkan rusak parah, serta 1 unit kamera CCTV milik BPD DIY hilang. Selain itu, bangunan pos sekuriti dan tenda jaga di area depan Gedung DPRD DIY hancur akibat pembakaran dan pelemparan benda keras.
 
+Baca Juga: [CCTV Malioboro Padam Saat Terjadi Kerusuhan 10 November 2026 antara Pendemo VS Aparat](https://jogjaterkini.net/berita/pemadaman-cctv-malioboro-saat-demo-dan-klarifikasi-instansi/)
+
 * **Evakuasi Wisatawan dan Pengosongan Masjid:** Akibat tembakan gas air mata dan pelemparan petasan yang merembet ke area komersial, wisatawan di sepanjang Jalan Malioboro langsung dievakuasi oleh petugas dan pengelola pertokoan. Masjid di sekitar lokasi juga sempat dikosongkan sementara demi menjamin keselamatan warga dan jamaah.
 
 ## 3. Eskalasi Larut Malam: Meluas ke Bundaran UGM dan Jalan Affandi
@@ -80,4 +82,4 @@ LBH Yogyakarta bersama tim bantuan hukum bergerak mengumpulkan data warga, mahas
 
 Proses penanganan fasilitas jalan serta penyidikan terhadap terduga pelaku perusakan hingga saat ini masih terus dilakukan oleh aparat Polresta Yogyakarta dan Polda DIY.
 
-Sementara itu, tak jauh dari lokasi terjadinya kericuhan, yaitu di Masjid Jogokaryan, berlangsung acara [Mimbar Rakyat, yang menghadirkan Prof. Uceng dkk.] (https://jogjaterkini.net/berita/pelaksanaan-mimbar-rakyat-masjid-jogokariyan/) secara tertib dan damai.
+Sementara itu, tak jauh dari lokasi terjadinya kericuhan, yaitu di Masjid Jogokaryan, berlangsung acara [Mimbar Rakyat, yang menghadirkan Prof. Uceng dkk.](https://jogjaterkini.net/berita/pelaksanaan-mimbar-rakyat-masjid-jogokariyan/) secara tertib dan damai.
