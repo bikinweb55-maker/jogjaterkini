@@ -8,6 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
+
 Layanan siaran langsung (*live streaming*) CCTV publik di sepanjang kawasan Jalan Malioboro hingga Titik Nol Kilometer Yogyakarta mengalami pemadaman akses pada Selasa, 10 November 2026.
 
 Matinya akses pemantauan visual ini terjadi bertepatan dengan berlangsungnya aksi demonstrasi memperingati Hari Pahlawan oleh Aliansi Jogja Memanggil dan elemen masyarakat sipil. Kejadian ini memicu gelombang keluhan di media sosial karena tampilan situs web pemantau hanya menampilkan gambar garis warna-warni (*color bars*) maupun notifikasi pemeliharaan sistem.
@@ -51,3 +52,5 @@ Ia mengungkapkan bahwa tidak aktifnya siaran CCTV di kawasan Malioboro berkaitan
 Ketidaksesuaian penjelasan teknis antarinstansi tersebut direspon kritis oleh publik di platform media sosial seperti Threads dan Instagram. Warganet mempertanyakan efektivitas konsep *smart city* serta muncul spekulasi bahwa pemadaman sengaja dilakukan untuk membatasi pemantauan situasi aksi di lapangan.
 
 Kejadian ini juga menambah panjang catatan aduan masyarakat terkait akses pemantauan publik saat momen unjuk rasa. Pada akhir Oktober 2026 lalu, aduan serupa mengenai matinya CCTV kawasan Malioboro saat aksi massa juga sempat masuk ke portal E-Lapor Pemda DIY karena dinilai dapat memicu bola liar spekulasi di tengah masyarakat.
+
+Baca Juga: [Kericuhan Pecah di Malioboro dan DPRD DIY Usai Aksi Hari Pahlawan, Meluas Hingga Bundaran UGM](https://jogjaterkini.net/berita/kericuhan-malam-hari-di-malioboro-gedung-dprd-diy/)
