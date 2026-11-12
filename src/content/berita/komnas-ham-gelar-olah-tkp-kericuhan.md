@@ -24,7 +24,7 @@ Tim Komnas HAM menyusuri jalur pergerakan massa dari titik awal pecahnya kericuh
 
 Kegiatan pemantauan di lapangan ini dilaksanakan berdasarkan mandat Pasal 89 ayat (3) Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia. Dalam prosesnya, tim berfokus pada dua aspek pengumpulan bukti:
 
-* **Identifikasi Dugaan Kekerasan:** Komnas HAM menggali keterangan awal mengenai perlakuan fisik dan proses penangkapan terhadap peserta aksi, terutama kalangan mahasiswa dan anak di bawah umur yang sempat diamankan dalam rangkaian [pemulangan 154 massa aksi oleh Polda DIY](/peristiwa/polda-diy-pulangkan-154-massa-demo-10-november-1-tersangka-2-bnnp).
+* **Identifikasi Dugaan Kekerasan:** Komnas HAM menggali keterangan awal mengenai perlakuan fisik dan proses penangkapan terhadap peserta aksi, terutama kalangan mahasiswa dan anak di bawah umur yang sempat diamankan dalam rangkaian [pemulangan 154 massa aksi oleh Polda DIY](https://jogjaterkini.net/berita/polda-diy-pulangkan-154-massa-demo-10-november/).
 * **Permintaan Akses CCTV:** Selain mengamati kondisi fisik lokasi kejadian, tim Komnas HAM meminta akses rekaman kamera pengawas (CCTV) di sepanjang koridor DPRD DIY, Titik Nol Kilometer, hingga Bundaran UGM untuk memverifikasi kesaksian di lapangan.
 
 ## Langkah Lanjutan Komnas HAM
