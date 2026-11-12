@@ -60,8 +60,6 @@ Bagi pencinta fotografi humanis dan penuh warna, pasar tradisional tertua di Jog
 
 ![Taman Sari Jogja](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/Taman-sari-Jogja.webp)
 
-![Tamansari jogja](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/sumur-gemuling-taman-sari-yogyakarta-tamansari_yogyakarta-e1552641749826.webp)
-
 Bekas taman air kerajaan Kesultanan Yogyakarta ini memadukan arsitektur klasik Jawa dan Eropa yang sangat memukau. Kolam pemandian yang tenang serta lorong bawah tanah Sumur Gumuling menjadi sudut paling ikonik untuk menciptakan hasil foto bernuansa magis dan romantis.
 
 * **Waktu Terbaik:** Pagi hari tepat saat loket buka (pukul 09.00–10.30 WIB) sebelum rombongan wisatawan memadati area kolam pemandian.
