@@ -104,7 +104,7 @@ Fenomena alam berupa hamparan bukit pasir luas yang menyerupai gurun Sahara ini 
 
 ## 8. Hutan Pinus Mangunan dan Pinus Pengger
 
-![Hutan Pinus Mangunan 1](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/jurang_tembelan_kanigoro.webp)
+![Hutan Pinus Mangunan 1](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/Gemini_Generated_Image_cbf5qocbf5qocbf5.jpeg)
 
 ![Hutan Pinus Mangunan 2](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/Gemini_Generated_Image_c16u5wc16u5wc16u.webp)
 
