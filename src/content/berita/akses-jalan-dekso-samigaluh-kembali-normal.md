@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-**KULON PROGO —** Akses utama Jalan Dekso–Samigaluh yang sebelumnya sempat lumpuh akibat [tanah longsor di Kalurahan Purwoharjo](/peristiwa/longsor-tutup-akses-jalan-dekso-samigaluh-kulon-progo-jalur-alternatif) kini telah teratasi dan kembali beroperasi normal.
+**KULON PROGO —** Akses utama Jalan Dekso–Samigaluh yang sebelumnya sempat lumpuh akibat [tanah longsor di Kalurahan Purwoharjo](https://jogjaterkini.net/berita/longsor-tutup-akses-jalan-dekso-samigaluh-kulon-progo/) kini telah teratasi dan kembali beroperasi normal.
 
 Material tanah, bebatuan, serta batang pohon tumbang yang menimbun badan jalan sepanjang kurang lebih 200 meter berhasil dibersihkan oleh tim gabungan pada Kamis (12/11/2026) sore, sehingga jalur provinsi penghubung wilayah Perbukitan Menoreh tersebut sudah dapat dilalui kembali oleh kendaraan roda dua maupun roda empat.
 
