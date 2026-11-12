@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-**YOGYAKARTA —** Belakangan ini, keberadaan Jaga Warga di Yogyakarta menuai sorotan tajam dan memicu kontroversi di tengah masyarakat sipil. Kelompok yang dibentuk melalui Peraturan Gubernur DIY ini dikritik keras setelah muncul dugaan keterlibatan sejumlah oknum beratribut Jaga Warga dalam [kericuhan aksi demonstrasi di Yogyakarta](/berita/ada-apa-di-balik-kericuhan-demo-jogja-10-november/).
+**YOGYAKARTA —** Belakangan ini, keberadaan Jaga Warga di Yogyakarta menuai sorotan tajam dan memicu kontroversi di tengah masyarakat sipil. Kelompok yang dibentuk melalui Peraturan Gubernur DIY ini dikritik keras setelah muncul dugaan keterlibatan sejumlah oknum beratribut Jaga Warga dalam [kericuhan aksi demonstrasi di Yogyakarta](https://jogjaterkini.net/berita/kericuhan-malam-hari-di-malioboro-gedung-dprd-diy/).
 
 Kehadiran mereka yang berhadapan langsung dengan massa aksi dinilai telah menyimpang jauh dari mandat awalnya sebagai mediator konflik sosial di tingkat kampung, serta dikhawatirkan memicu gesekan horizontal di ruang publik.
 
@@ -16,13 +16,15 @@ Kehadiran mereka yang berhadapan langsung dengan massa aksi dinilai telah menyim
 
 Sorotan tersebut berakar pada sejumlah insiden di lapangan, termasuk saat rangkaian aksi mahasiswa di Simpang Empat Gramedia (September 2026) serta kawasan Malioboro dan Gedung DPRD DIY (Oktober 2026). Dalam peristiwa itu, muncul dugaan tindak kekerasan hingga penyemprotan cairan merica terhadap demonstran oleh pihak yang mengenakan atribut bertuliskan Jaga Warga.
 
-Kalangan aktivis dan pengamat, termasuk Jogja Police Watch (JPW), menilai pelibatan elemen sipil dalam pengamanan aksi massa telah melampaui batas kewenangan legal serta berisiko membuka ruang praktik main hakim sendiri layaknya pam swakarsa. Desakan evaluasi pengamanan ini juga sempat mengemuka saat [Kapolri meninjau pengamanan demo di Jogja](/berita/kapolri-tinjau-demo-jogja-sentimen-publik/).
+Kalangan aktivis dan pengamat, termasuk Jogja Police Watch (JPW), menilai pelibatan elemen sipil dalam pengamanan aksi massa telah melampaui batas kewenangan legal serta berisiko membuka ruang praktik main hakim sendiri layaknya pam swakarsa. Desakan evaluasi pengamanan ini juga sempat mengemuka saat [Kapolri meninjau pengamanan demo di Jogja](https://jogjaterkini.net/berita/kapolri-tinjau-demo-jogja-dan-peta-sentimen-publik/).
 
 ## Desakan Pencabutan Regulasi di Kepatihan
 
 Gelombang kritik tersebut memuncak ketika massa yang tergabung dalam Aliansi Jogja Memanggil (AJM) menggelar unjuk rasa di depan Kompleks Kepatihan dan berdialog langsung dengan Gubernur DIY Sri Sultan Hamengku Buwono X pada Selasa (10/11/2026).
 
-Dalam pertemuan yang berlangsung secara lesehan tersebut, massa aksi mendesak Sultan agar segera mencabut regulasi mengenai Jaga Warga karena dinilai rawan disalahgunakan sebagai tameng premanisme dan kriminalisasi warga. Menanggapi desakan itu, Sultan menyatakan akan meninjau kembali laporan kondisi di lapangan dan tidak menutup kemungkinan untuk mengevaluasi aturan tersebut apabila terbukti menghambat ruang demokrasi di Yogyakarta.
+[Dalam pertemuan yang berlangsung secara lesehan tersebut](https://jogjaterkini.net/berita/sri-sultan-hb-x-temui-massa-aksi-di-kepatihan/), massa aksi mendesak Sultan agar segera mencabut regulasi mengenai Jaga Warga karena dinilai rawan disalahgunakan sebagai tameng premanisme dan kriminalisasi warga. 
+
+Menanggapi desakan itu, Sultan menyatakan akan meninjau kembali laporan kondisi di lapangan dan tidak menutup kemungkinan untuk mengevaluasi aturan tersebut apabila terbukti menghambat ruang demokrasi di Yogyakarta.
 
 ## Klarifikasi Pemda DIY dan Kepolisian
 
