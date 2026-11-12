@@ -46,7 +46,9 @@ Di sisi lain, Amnesty International Indonesia meminta dugaan provokasi dan keter
 
 Kericuhan demo 10 November tidak hanya menjadi perhatian di lapangan, tetapi juga memicu gelombang perbincangan di media sosial, khususnya platform X.
 
-Sejumlah tagar seperti **#AllEyesOnJogja**, **#StopPoliceBrutality**, dan **#IndonesiaSadar** ramai digunakan mahasiswa, alumni UGM, aktivis, hingga masyarakat umum untuk menyuarakan kritik terhadap penanganan demonstrasi. Melalui tagar tersebut, pengguna media sosial membagikan video kericuhan, dugaan kekerasan aparat, penangkapan peserta aksi, hingga laporan keluarga yang kehilangan kontak dengan anggota keluarganya.
+Sejumlah tagar seperti **#AllEyesOnJogja**, **#StopPoliceBrutality**, dan **#IndonesiaSadar** ramai digunakan mahasiswa, alumni UGM, aktivis, hingga masyarakat umum untuk menyuarakan kritik terhadap penanganan demonstrasi. 
+
+Melalui tagar tersebut, pengguna media sosial membagikan video kericuhan, dugaan kekerasan aparat, penangkapan peserta aksi, hingga laporan keluarga yang kehilangan kontak dengan anggota keluarganya.
 
 Narasi yang berkembang tidak sepenuhnya seragam. Sebagian pengguna menyoroti dugaan penggunaan kekuatan berlebihan oleh aparat dan mendesak transparansi penanganan demonstrasi. 
 
@@ -54,7 +56,9 @@ Sementara itu, pihak lain membela tindakan kepolisian dengan alasan adanya pelem
 
 Video yang memperlihatkan kelompok pelempar di sekitar Gedung DPRD DIY juga menjadi bahan perdebatan. Sebagian pengguna mengaitkannya dengan dugaan provokator atau massa bayaran, meskipun tuduhan tersebut masih membutuhkan pembuktian.
 
-Ramainya tagar dan penyebaran rekaman membuat peristiwa di Yogyakarta berkembang menjadi isu yang mendapat perhatian lebih luas. **#AllEyesOnJogja** menjadi salah satu simbol tuntutan publik agar penanganan kericuhan, dugaan kekerasan, dan proses penangkapan diungkap secara transparan.
+Ramainya tagar dan penyebaran rekaman membuat peristiwa di Yogyakarta berkembang menjadi isu yang mendapat perhatian lebih luas.
+
+**#AllEyesOnJogja** menjadi salah satu simbol tuntutan publik agar penanganan kericuhan, dugaan kekerasan, dan proses penangkacpan diungkap secara transparan.
 
 ## Pengerahan Brimob dan Gas Air Mata Dikritik
 
