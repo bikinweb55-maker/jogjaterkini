@@ -1,5 +1,5 @@
 ---
-title: "Truk Polisi Angkut Orang Berbaju Preman saat Demo 10 November, Ini Penjelasan Polda DIY"
+title: " Ini Penjelasan Polda DIY Tentang Truk Polisi Angkut Orang Berbaju Preman saat Demo 10 November"
 description: "Polda DIY mengklarifikasi video viral sejumlah pria berpakaian sipil yang menaiki truk dinas kepolisian saat pengamanan demo 10 November di Yogyakarta."
 pubDate: 2026-11-13T20:34:00+07:00
 category: "peristiwa"
