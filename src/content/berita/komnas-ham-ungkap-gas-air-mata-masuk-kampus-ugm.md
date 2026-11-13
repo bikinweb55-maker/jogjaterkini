@@ -24,7 +24,7 @@ Dari hasil audiensi dan pemeriksaan lokasi, tim pemantau mengantongi sejumlah pe
 
 Selain mengumpulkan bukti visual, tim Komnas HAM turut mendatangi fasilitas layanan kesehatan dan memverifikasi data warga yang sempat diamankan aparat:
 
-* **Korban di RSUP Dr. Sardjito:** Tim Komnas HAM telah menjenguk dan menggali keterangan dari 5 hingga 6 korban luka yang menjalani perawatan di RSUP Dr. Sardjito. Salah satu korban dilaporkan harus menjalani tindakan operasi akibat terkena tembakan selongsong gas air mata.
+* **Korban di RSUP Dr. Sardjito:** Tim Komnas HAM telah menggali keterangan dari 5 hingga 6 korban luka pascaaksi unjuk rasa di Yogyakarta, termasuk menjenguk pasien yang dirawat di RSUP Dr. Sardjito. Pihak RSUP Dr. Sardjito mengonfirmasi bahwa saat ini terdapat dua pasien yang menjalani rawat inap, dan salah satunya dilaporkan telah menjalani tindakan operasi akibat terkena selongsong gas air mata.
 * **Korban dan Mahasiswa UGM:** Komnas HAM juga memantau kondisi satu mahasiswa UGM yang masih dirawat di RS Panti Rapih. Di sisi lain, pihak UGM mengonfirmasi tengah memberikan pendampingan hukum ketat bagi satu mahasiswa Fakultas Hukum angkatan 2025 yang masih ditahan di Polda DIY.
 * **Status 157 Massa yang Diamankan:** Berdasarkan konfirmasi Polda DIY kepada Komnas HAM per 12 November 2026, dari total 157 orang yang sempat diamankan, sebanyak [154 orang telah dipulangkan ke keluarga](https://jogjaterkini.net/berita/polda-diy-pulangkan-154-massa-demo-10-november/), 2 orang diserahkan ke BNNP DIY karena positif mengonsumsi narkoba, dan 1 orang ditetapkan sebagai tersangka atas kepemilikan bom molotov, senjata tajam, serta petasan.
 
