@@ -2,7 +2,7 @@
 title: "Jadwal SIM Keliling Kulon Progo November 2026: SIMMADE, SIMENOR, hingga MPP"
 description: "Simak jadwal lengkap layanan SIM Keliling, SIM Masuk Desa (SIMMADE), SIM Malam Menoreh (SIMENOR), dan MPP Polres Kulon Progo periode November 2026."
 pubDate: 2026-11-15T08:40:00+07:00
-category: "peristiwa"
+category: "pemerintahan"
 tags: ["SIM Keliling Kulon Progo", "Polres Kulon Progo", "SIMMADE Kulon Progo", "SIMENOR", "MPP Kulon Progo", "Jadwal SIM DIY", "Berita Kulon Progo"]
 author: "redaksi"
 location: "Kulon Progo"

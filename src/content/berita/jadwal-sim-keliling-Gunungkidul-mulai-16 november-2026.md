@@ -2,7 +2,7 @@
 title: "Jadwal SIM Keliling Gunungkidul November 2026: SIMMADE hingga Saturday Night Service"
 description: "Simak jadwal lengkap layanan SIM Masuk Desa (SIMMADE), SIM Station, Saturday Night Service di Wonosari 16-28 November 2026."
 pubDate: 2026-11-15T08:50:00+07:00
-category: "peristiwa"
+category: "pemerintahan"
 tags: ["SIM Keliling Gunungkidul", "Polres Gunungkidul", "SIMMADE Wonosari", "SIM Station", "Saturday Night Service Argosari", "Jadwal SIM DIY", "Berita Gunungkidul"]
 author: "redaksi"
 location: "Yogyakarta"

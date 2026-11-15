@@ -2,7 +2,7 @@
 title: "Jadwal SIM Keliling Sleman November 2026: MPP, SIMMADE, hingga Sleman City Hall"
 description: "Simak jadwal lengkap layanan SIM Keliling, SIMMADE, dan Bus SIM Malam Minggu Polresta Sleman periode 16 hingga 28 November 2026."
 pubDate: 2026-11-15T08:30:00+07:00
-category: "peristiwa"
+category: "pemerintahan"
 tags: ["SIM Keliling Sleman", "Polresta Sleman", "SIMMADE Sleman", "Sleman City Hall", "MPP Sleman", "Jadwal SIM DIY", "Berita Sleman"]
 author: "redaksi"
 location: "Yogyakarta"

@@ -2,7 +2,7 @@
 title: "Jadwal Lengkap SIM Keliling DIY Pertengahan hingga Akhir November 2026, Cek Lokasi dan Syaratnya"
 description: "Panduan lengkap jadwal layanan SIM Keliling, SIMMADE, MPP, dan Saturday Night Service di seluruh wilayah DIY mulai 16 November 2026."
 pubDate: 2026-11-15T06:06:00+07:00
-category: "peristiwa"
+category: "pemerintahan"
 tags: ["SIM Keliling Jogja", "Perpanjangan SIM DIY", "SIMMADE Sleman", "Satpas Jogja", "Layanan Publik DIY", "Berita Jogja", "Info Lalu Lintas Jogja"]
 author: "redaksi"
 location: "Yogyakarta"
@@ -14,7 +14,7 @@ Berikut adalah rincian lengkap jadwal serta titik lokasi layanan perpanjangan SI
 
 ## 1. Kabupaten Sleman (Polresta Sleman)
 
-Masyarakat di wilayah Kabupaten Sleman dapat mengakses layanan perpanjangan SIM melalui beberapa titik berikut:
+[Perpanjangan SIM di wilayah Kabupaten Sleman](https://jogjaterkini.net/berita/jadwal-sim-keliling-sleman-mulai-16-november-2026/) dapat diakses melalui beberapa titik berikut:
 
 * **Mal Pelayanan Publik (MPP) Kabupaten Sleman (Pukul 08.00 – 11.00 WIB):**
   * Senin, 16 November 2026
@@ -31,18 +31,22 @@ Masyarakat di wilayah Kabupaten Sleman dapat mengakses layanan perpanjangan SIM 
 
 ## 2. Kabupaten Bantul (Polres Bantul)
 
+[Waktu dan Lokasi sim keliling di Kabupaten Bantul](https://jogjaterkini.net/berita/jadwal-sim-keliling-bantul-mulai-16-november-2026/), dapat diakses melalui beberapa titik berikut:
+
 * **SIM Keliling MPP Bantul (Pukul 08.00 – 11.00 WIB, kuota terbatas 30 pemohon):**
   * Selasa, 17 November 2026
   * Selasa, 24 November 2026
 
 ## 3. Kota Yogyakarta (Polresta Yogyakarta)
 
+[SIM Keliling kawasan Jogja Kota](), dapat diakses di lokasi berikut: 
+
 * **SIM Keliling Malam Minggu:** Beroperasi di kawasan Alun-Alun Kidul (Alkid / Sasono Hinggil) setiap hari Sabtu malam pukul 19.00 – 21.00 WIB.
 * **Layanan Reguler:** Masyarakat juga dapat mengakses gerai tetap di Satpas Polresta Yogyakarta maupun Mal Pelayanan Publik (MPP) Kota Yogyakarta pada jam kerja.
 
 ## 4. Kabupaten Kulon Progo (Polres Kulon Progo)
 
-Satlantas Polres Kulon Progo menyediakan kombinasi layanan keliling siang dan malam hari di sejumlah titik strategis:
+Satlantas Polres Kulon Progo menyediakan kombinasi [layanan SIM keliling](https://jogjaterkini.net/berita/jadwal-sim-keliling-kulonprogo-mulai-16-november-2026/) siang dan malam hari di sejumlah titik strategis:
 
 * **SIMMADE (SIM Masuk Desa) — Selasa:** Beroperasi di Pos PJR Temon pada 17 dan 24 November 2026 pukul 08.00 – 12.00 WIB.
 * **SIMMADE (SIM Masuk Desa) — Kamis:** Beroperasi di Kapanewon Nanggulan pada 19 dan 26 November 2026 pukul 08.00 – 12.00 WIB.
