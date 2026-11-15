@@ -46,6 +46,8 @@ Bagi Anda yang ingin naik angkutan KSPN, armada ini memiliki beberapa titik peng
    * Terminal Parangtritis (untuk arah kembali ke Jogja)
    * Area Parkir Pantai Baron / Drini (untuk arah kembali ke Jogja)
 
+   Baca Juga : [Tips Menggunakan KSPN untuk Berbagai Destinasi Wisata di Jogja dan Sekitarnya](https://jogjaterkini.net/berita/piknik-irit-di-jogja-tanpa-sewa-mobil-naik-bus-kspn/)
+
 ## Testimoni dan Pengalaman Pengguna
 
 Berdasarkan ulasan dan *trip report* para wisatawan yang telah merasakan langsung layanan Angkutan KSPN (dioperasikan oleh Sinar Jaya), berikut adalah beberapa pengalaman nyata yang dibagikan di internet:
