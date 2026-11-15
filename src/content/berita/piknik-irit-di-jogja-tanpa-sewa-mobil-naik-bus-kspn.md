@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-**YOGYAKARTA —** Ingin liburan ke destinasi ikonik Yogyakarta seperti Candi Borobudur, Pantai Parangtritis, hingga kawasan Kaliurang tanpa perlu keluar biaya ratusan ribu untuk sewa mobil atau pusing menyetir sendiri? Layanan bus Kawasan Strategis Pariwisata Nasional (KSPN) adalah jawabannya.
+**YOGYAKARTA —** Ingin liburan ke destinasi ikonik Yogyakarta seperti Candi Borobudur, Pantai Parangtritis, hingga Pantai Baron tanpa perlu keluar biaya ratusan ribu untuk sewa mobil atau menyetir sendiri? Layanan bus Kawasan Strategis Pariwisata Nasional (KSPN) adalah jawabannya.
 
 Dengan armada yang nyaman, ber-AC, dan tarif yang sangat ramah di kantong, bus KSPN menghubungkan titik-titik strategis di pusat Kota Jogja langsung menuju kawasan wisata utama. Agar liburanmu tetap hemat, lancar, dan bebas drama ketinggalan bus, simak panduan praktis dan tips naik bus KSPN Jogja berikut ini.
 
