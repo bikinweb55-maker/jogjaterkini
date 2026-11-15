@@ -31,6 +31,8 @@ Bagi warga Handayani yang masa berlaku SIM A atau SIM C-nya akan segera habis, b
 
 *(Catatan: Untuk jadwal layanan keliling Sabtu pagi yang bersifat insidental di kapanewon tertentu seperti Ponjong atau Rongkop, pihak kepolisian biasanya mengumumkan H-1 melalui akun Instagram resmi `@satpasresgk` atau Satlantas Polres Gunungkidul).*
 
+Baca Juga: [Jadwal Lengkap SIM Keliling DIY Pertengahan hingga Akhir November 2026, Cek Lokasi dan Syaratnya](https://jogjaterkini.net/berita/jadwal-lengkap-sim-keliling-diy-november-2026-kota-jogja-hingga-gunungkidul/)
+
 ## Persyaratan Dokumen Perpanjangan SIM
 
 Seluruh unit layanan keliling, SIMMADE, maupun SIM Station **hanya melayani perpanjangan SIM A dan SIM C** yang belum melewati masa kedaluwarsa. Sebelum mendatangi lokasi, pemohon wajib menyiapkan kelengkapan berkas berikut:

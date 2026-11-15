@@ -24,6 +24,8 @@ Bagi warga yang ingin memperpanjang masa berlaku SIM A atau SIM C, berikut adala
 * **Satpas Polresta Yogyakarta:** 
   Unit pelayanan induk yang melayani permohonan SIM baru maupun perpanjangan secara reguler sesuai jam operasional pelayanan kepolisian.
 
+  Baca Juga: [Jadwal Lengkap SIM Keliling DIY Pertengahan hingga Akhir November 2026, Cek Lokasi dan Syaratnya](https://jogjaterkini.net/berita/jadwal-lengkap-sim-keliling-diy-november-2026-kota-jogja-hingga-gunungkidul/)
+
 ## Persyaratan Dokumen Perpanjangan SIM
 
 Seluruh unit layanan keliling, gerai MPP, maupun Satpas **hanya melayani perpanjangan SIM A dan SIM C** yang belum melewati masa kedaluwarsa. Sebelum mendatangi lokasi, pemohon wajib melengkapi berkas-berkas berikut:

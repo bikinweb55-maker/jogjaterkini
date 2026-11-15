@@ -24,6 +24,8 @@ Bagi masyarakat Bumi Binangun yang masa berlaku SIM A atau SIM C-nya akan segera
 
 * **Satpas 1450 Polres Kulon Progo:** Melayani secara reguler setiap Senin hingga Kamis pukul 08.00 – 13.00 WIB serta Jumat dan Sabtu pukul 08.00 – 11.00 WIB.
 
+Baca Juga: [Jadwal Lengkap SIM Keliling DIY Pertengahan hingga Akhir November 2026, Cek Lokasi dan Syaratnya](https://jogjaterkini.net/berita/jadwal-lengkap-sim-keliling-diy-november-2026-kota-jogja-hingga-gunungkidul/)
+
 ## Persyaratan Dokumen Perpanjangan SIM
 
 Seluruh unit layanan keliling, MPP, maupun SIMMADE **hanya melayani perpanjangan SIM A dan SIM C** yang belum kedaluwarsa. Pemohon wajib menyiapkan persyaratan dokumen berikut sebelum datang ke lokasi:

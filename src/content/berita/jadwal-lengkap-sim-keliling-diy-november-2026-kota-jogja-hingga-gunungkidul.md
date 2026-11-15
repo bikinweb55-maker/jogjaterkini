@@ -39,7 +39,7 @@ Berikut adalah rincian lengkap jadwal serta titik lokasi layanan perpanjangan SI
 
 ## 3. Kota Yogyakarta (Polresta Yogyakarta)
 
-[SIM Keliling kawasan Jogja Kota](), dapat diakses di lokasi berikut: 
+[SIM Keliling kawasan Jogja Kota](https://jogjaterkini.net/berita/jadwal-sim-keliling-kota-jogja-mulai-16-november-2026/), dapat diakses di lokasi berikut: 
 
 * **SIM Keliling Malam Minggu:** Beroperasi di kawasan Alun-Alun Kidul (Alkid / Sasono Hinggil) setiap hari Sabtu malam pukul 19.00 – 21.00 WIB.
 * **Layanan Reguler:** Masyarakat juga dapat mengakses gerai tetap di Satpas Polresta Yogyakarta maupun Mal Pelayanan Publik (MPP) Kota Yogyakarta pada jam kerja.

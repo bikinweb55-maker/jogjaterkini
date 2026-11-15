@@ -19,6 +19,8 @@ Layanan bus atau gerai SIM Keliling di MPP Kabupaten Bantul beroperasi pada puku
 * **Selasa, 17 November 2026:** Pukul 08.00 – 11.00 WIB di MPP Kabupaten Bantul.
 * **Selasa, 24 November 2026:** Pukul 08.00 – 11.00 WIB di MPP Kabupaten Bantul.
 
+Baca Juga: [Jadwal Lengkap SIM Keliling DIY Pertengahan hingga Akhir November 2026, Cek Lokasi dan Syaratnya](https://jogjaterkini.net/berita/jadwal-lengkap-sim-keliling-diy-november-2026-kota-jogja-hingga-gunungkidul/)
+
 ## Layanan Satpas Induk Polres Bantul
 
 Selain melalui gerai MPP, masyarakat juga dapat mengurus perpanjangan maupun pembuatan SIM baru langsung di kantor **Satpas Induk Polres Bantul** yang beroperasi secara reguler pada hari kerja sesuai jam operasional pelayanan kepolisian.

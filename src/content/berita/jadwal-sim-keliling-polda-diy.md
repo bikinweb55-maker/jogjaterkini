@@ -67,3 +67,5 @@ Kewajiban melampirkan bukti kepesertaan JKN diatur dalam Peraturan Kepolisian No
 Biaya penerbitan perpanjangan SIM diatur dalam Peraturan Pemerintah Nomor 76 Tahun 2020 tentang Penerimaan Negara Bukan Pajak (PNBP) di lingkungan Polri. Tarifnya Rp80.000 untuk SIM A dan Rp75.000 untuk SIM C.
 
 Pemeriksaan kesehatan dan tes psikologi dibayar terpisah dari PNBP. Berdasarkan rincian yang dihimpun detikOto, pemeriksaan kesehatan sekitar Rp35.000, sedangkan tes psikologi sekitar Rp100.000 di lokasi atau Rp77.500 lewat ePPsi.
+
+Baca Juga: [Jadwal Lengkap SIM Keliling DIY Pertengahan hingga Akhir November 2026, Cek Lokasi dan Syaratnya](https://jogjaterkini.net/berita/jadwal-lengkap-sim-keliling-diy-november-2026-kota-jogja-hingga-gunungkidul/)
