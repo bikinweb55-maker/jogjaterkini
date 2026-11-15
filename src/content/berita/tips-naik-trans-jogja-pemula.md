@@ -10,7 +10,7 @@ location: "Yogyakarta"
 
 **YOGYAKARTA —** Banyak orang mengira naik bus Trans Jogja dengan tarif Rp3.500 itu rumit karena harus menghafal puluhan kode jalur (koridor) dan peta rute yang membingungkan. Padahal, cara paling mudah, murah, dan efisien agar tidak tersesat maupun salah perhitungan ongkos justru sangat sederhana: berkomunikasi aktif dengan petugas halte dan bus.
 
-Bagi pemula maupun wisatawan yang baru pertama kali berkeliling Yogyakarta tanpa menghafal [daftar lengkap rute Trans Jogja 2026](/peristiwa/daftar-lengkap-rute-trans-jogja-2026-cek-15-koridor-reguler-dan-2-jalur-bus-listrik-terbaru), petugas di lapangan adalah "GPS berjalan" yang paling akurat. Mereka tidak hanya hafal lintasan luar kepala, tetapi juga selalu memiliki informasi terkini soal pengalihan arus lalu lintas—seperti saat ada acara di kawasan Malioboro atau perbaikan jalan—yang sering kali belum terbarui di aplikasi peta digital.
+Bagi pemula maupun wisatawan yang baru pertama kali berkeliling Yogyakarta tanpa menghafal [daftar lengkap rute Trans Jogja 2026](https://jogjaterkini.net/berita/rute-trans-jogja-2026/), petugas di lapangan adalah "GPS berjalan" yang paling akurat. Mereka tidak hanya hafal lintasan luar kepala, tetapi juga selalu memiliki informasi terkini soal pengalihan arus lalu lintas—seperti saat ada acara di kawasan Malioboro atau perbaikan jalan—yang sering kali belum terbarui di aplikasi peta digital.
 
 Agar perjalananmu hemat dan bebas bingung, terapkan empat panduan komunikasi dengan petugas Trans Jogja berikut ini.
 

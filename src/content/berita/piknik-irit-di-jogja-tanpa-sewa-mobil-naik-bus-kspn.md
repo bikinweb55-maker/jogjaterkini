@@ -24,7 +24,7 @@ Beberapa rute populer yang paling sering digunakan wisatawan antara lain:
 
 * **Malioboro – Pantai Baron:** Alternatif wisata pantai di pesisir Gunungkidul yang juga terhubung langsung dengan layanan bus pariwisata ini. Penjelasannya tersedia lengkap di [ulasan rute KSPN Malioboro ke Pantai Baron](https://jogjaterkini.net/berita/kspn_malioboro_pantai_baron/).
 
-* **Malioboro – Kaliurang / Tebing Breksi / Candi Prambanan:** Menghubungkan pusat kota dengan wisata alam di lereng Merapi maupun kawasan candi di sisi timur, yang juga terintegrasi dengan jaringan [daftar lengkap rute Trans Jogja 2026](/peristiwa/daftar-lengkap-rute-trans-jogja-2026-cek-15-koridor-reguler-dan-2-jalur-bus-listrik-terbaru).
+* **Malioboro – Kaliurang / Tebing Breksi / Candi Prambanan:** Menghubungkan pusat kota dengan wisata alam di lereng Merapi maupun kawasan candi di sisi timur, yang juga terintegrasi dengan jaringan [daftar lengkap rute Trans Jogja 2026](/peristiwa/https://jogjaterkini.net/berita/rute-trans-jogja-2026/).
 
 *(Catatan: Rute dan operator pelaksana seperti DAMRI atau Sinar Jaya dapat mengalami penyesuaian jadwal sewaktu-waktu, jadi selalu pastikan titik tunggu sebelum berangkat).*
 
@@ -48,7 +48,7 @@ Sistem pembayaran bus KSPN tergolong fleksibel, namun memiliki aturan yang sedik
 
 Jika penginapan atau titik awal perjalananmu berada jauh dari kawasan Malioboro maupun Terminal Giwangan, manfaatkan moda transportasi pengumpan (*feeder*) yang murah:
 
-* Gunakan layanan [Trans Jogja dengan tarif Rp3.500](/wisata/cara-paling-mudah-naik-trans-jogja-murah-dan-efisien-cukup-komunikasi-dengan-petugas-halte) terlebih dahulu untuk menuju halte terdekat dari titik keberangkatan KSPN, misalnya turun di Halte Malioboro 3 atau Titik Nol Kilometer.
+* Gunakan layanan [Trans Jogja dengan tarif Rp3.500](https://jogjaterkini.net/berita/tips-naik-trans-jogja-pemula/) terlebih dahulu untuk menuju halte terdekat dari titik keberangkatan KSPN, misalnya turun di Halte Malioboro 3 atau Titik Nol Kilometer.
 
 * Kombinasi Trans Jogja dan KSPN adalah trik paling ampuh untuk menekan biaya transportasi wisata seharian penuh agar tetap di bawah Rp50.000 untuk perjalanan pulang-pergi.
 

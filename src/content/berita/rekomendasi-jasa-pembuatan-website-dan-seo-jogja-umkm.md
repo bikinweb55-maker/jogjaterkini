@@ -68,7 +68,7 @@ Melalui riset mendalam, strategi kata kunci diarahkan langsung pada *query* kome
 
 ## 8. BikinWebJogja
 
-BikinWebJogja menawarkan paket [SEO murah berkualitas di Jogja](https://bikinwebjogja.id/), dan pembangunan *website* yang telah dioptimasi dengan fondasi SEO sejak tahap awal pembuatan (*SEO-ready*). 
+BikinWebJogja menawarkan paket [SEO murah berkualitas di Jogja](https://bikinwebjogja.id/jasa-seo-jogja), dan pembangunan *website* yang telah dioptimasi dengan fondasi SEO sejak tahap awal pembuatan (*SEO-ready*). 
 
 UMKM dapat memilih paket pembuatan *website* mulai dari kelas *Starter* hingga *Enterprise* pada rentang harga Rp1,9 juta–Rp4,9 juta. Setiap paket sudah dilengkapi elemen dasar seperti meta tag, *schema markup*, *sitemap*, integrasi Google Search Console, domain .com, hosting, SSL, serta garansi pemeliharaan (*maintenance*).
 
