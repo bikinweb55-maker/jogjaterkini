@@ -1,8 +1,8 @@
 ---
-title: "Jadwal KRL Jogja–Solo Pekan Ini (16–22 November 2026): Rute Lengkap, Tarif, dan Tips Perjalanan"
-description: "Simak jadwal operasional KRL Commuter Line Yogyakarta–Solo periode 16 hingga 22 November 2026."
-pubDate: 2026-11-16T05:14:00+07:00
-category: "peristiwa"
+title: "Jadwal KRL Jogja–Solo Pekan Ini (16–22 November 2026): Rute Lengkap, Tarif, dan Panduan Stasiun"
+description: "Simak jadwal lengkap keberangkatan KRL Commuter Line Yogyakarta–Solo periode 16 hingga 22 November 2026."
+pubDate: 2026-11-16T08:35:00+07:00
+category: "wisata"
 tags: ["Jadwal KRL Jogja Solo", "KRL Commuter Line", "Stasiun Tugu", "Stasiun Lempuyangan", "Transportasi Jogja", "KAI Commuter", "Berita Jogja"]
 author: "redaksi"
 location: "Yogyakarta"
@@ -10,35 +10,61 @@ location: "Yogyakarta"
 
 **YOGYAKARTA —** Layanan kereta rel listrik (KRL) Commuter Line relasi Yogyakarta–Solo maupun arah sebaliknya beroperasi secara normal pada pekan ini, mulai Senin hingga Minggu, **16–22 November 2026**. Total terdapat 15 jadwal perjalanan dari arah Yogyakarta menuju Stasiun Palur serta 12 perjalanan untuk rute sebaliknya setiap harinya.
 
-Bagi masyarakat maupun wisatawan yang berencana bepergian lintas Yogyakarta, Klaten, hingga Solo Raya, berikut adalah rincian jam operasional, daftar stasiun, tarif, serta tips perjalanan pekan ini.
+Perjalanan KRL Commuter Line dari Stasiun Tugu Yogyakarta menuju wilayah Solo memakan waktu sekitar **1 jam 10 menit hingga 1 jam 25 menit**, bergantung pada stasiun tujuan akhir penumpang di Kota Solo (Purwosari, Solo Balapan, Solo Jebres, atau Palur).
 
-## 1. Rincian Jadwal Keberangkatan Utama (16–22 November 2026)
+## 1. Tabel Jam Keberangkatan dan Tiba Rute Yogyakarta – Palur (WIB)
 
-### Rute Yogyakarta (Tugu) menuju Palur (Solo)
-* **Jam Operasional:** Keberangkatan pertama dimulai pukul **05.05 WIB** hingga kereta terakhir pukul **22.35 WIB** dari Stasiun Yogyakarta (Tugu). Kereta dijadwalkan tiba di stasiun akhir Palur mulai pukul **06.26 WIB** hingga **00.00 WIB**.
-* **Catatan Jadwal Fakultatif:** Terdapat satu perjalanan fakultatif (**KA 730F**) pada pukul **06.00 WIB** dari Stasiun Tugu yang hanya beroperasi pada hari kerja dan **tidak beroperasi** pada hari Sabtu, Minggu, maupun hari libur nasional. Penumpang yang naik dari stasiun penyangga seperti Lempuyangan, Maguwo, Klaten, maupun Solo Balapan dapat menyesuaikan waktu tunggu sekitar 5 hingga 45 menit setelah jadwal keberangkatan awal.
+Berikut adalah rincian 15 jadwal keberangkatan KRL dari Stasiun Yogyakarta (Tugu) hingga tiba di stasiun pemberhentian akhir Stasiun Palur:
 
-### Rute Palur (Solo) menuju Yogyakarta (Tugu)
-* **Jam Operasional:** Keberangkatan dari Stasiun Palur dimulai lebih pagi pada pukul **05.00 WIB** hingga keberangkatan terakhir pukul **20.42 WIB**. Kereta dijadwalkan tiba di stasiun akhir Yogyakarta (Tugu) mulai pukul **06.23 WIB** hingga **22.01 WIB**, setelah melintasi Stasiun Solo Balapan, Purwosari, Klaten, dan Maguwo.
+| Berangkat Stasiun Yogyakarta (Tugu) | Tiba Stasiun Akhir (Palur) | Keterangan |
+| :--- | :--- | :--- |
+| **05.05 WIB** | **06.26 WIB** | Reguler (Setiap Hari) |
+| **06.00 WIB*** | **07.20 WIB** | Fakultatif (KA 730F)* |
+| **07.05 WIB** | **08.26 WIB** | Reguler (Setiap Hari) |
+| **07.54 WIB** | **09.17 WIB** | Reguler (Setiap Hari) |
+| **08.49 WIB** | **10.11 WIB** | Reguler (Setiap Hari) |
+| **10.56 WIB** | **12.17 WIB** | Reguler (Setiap Hari) |
+| **12.07 WIB** | **13.28 WIB** | Reguler (Setiap Hari) |
+| **13.57 WIB** | **15.18 WIB** | Reguler (Setiap Hari) |
+| **15.01 WIB** | **16.22 WIB** | Reguler (Setiap Hari) |
+| **16.10 WIB** | **17.32 WIB** | Reguler (Setiap Hari) |
+| **17.35 WIB** | **18.57 WIB** | Reguler (Setiap Hari) |
+| **18.08 WIB** | **19.28 WIB** | Reguler (Setiap Hari) |
+| **20.15 WIB** | **21.40 WIB** | Reguler (Setiap Hari) |
+| **21.20 WIB** | **22.43 WIB** | Reguler (Setiap Hari) |
+| **22.35 WIB** | **00.00 WIB** | Reguler (Setiap Hari) |
 
-## 2. Rute Lengkap dan Estimasi Waktu Tempuh
+*\*Catatan: Perjalanan pukul 06.00 WIB (KA 730F) merupakan jadwal fakultatif yang umumnya **tidak beroperasi** pada hari Sabtu, Minggu, serta hari libur nasional.*
 
-KRL Commuter Line Yogyakarta–Solo melayani total **13 stasiun pemberhentian** dengan estimasi durasi perjalanan sekitar **1 jam hingga 1 jam 20 menit** dari ujung ke ujung:
+Sementara itu, untuk rute sebaliknya dari arah **Stasiun Palur (Solo) menuju Stasiun Yogyakarta (Tugu)**, keberangkatan dimulai lebih pagi pada pukul **05.00 WIB** hingga keberangkatan terakhir pukul **20.42 WIB**, dengan waktu kedatangan akhir di Stasiun Tugu antara pukul **06.23 WIB hingga 22.01 WIB**.
+
+## 2. Panduan Memilih Stasiun Tujuan di Solo
+
+Agar perjalanan lebih efisien menuju destinasi wisata maupun pusat aktivitas di Kota Surakarta, penumpang dapat menyesuaikan titik turun pada empat stasiun utama berikut:
+
+* **Stasiun Purwosari:** Paling dekat dengan koridor Jalan Slamet Riyadi bagian barat, pusat perbelanjaan Solo Square, serta kawasan wisata budaya Kampung Batik Laweyan.
+* **Stasiun Solo Balapan:** Stasiun utama di pusat kota yang terintegrasi langsung dengan Terminal Bus Tirtonadi, layanan kereta api jarak jauh, serta kereta bandara menuju Bandara Internasional Adi Soemarmo.
+* **Stasiun Solo Jebres:** Pilihan terdekat untuk menjangkau kawasan Kampus Universitas Sebelas Maret (UNS), Pasar Gede Hardjonagoro, serta kawasan bersejarah Benteng Vastenburg.
+* **Stasiun Palur:** Stasiun pemberhentian terakhir yang berlokasi strategis di perbatasan timur Kota Solo dan Kabupaten Karanganyar.
+
+## 3. Daftar 13 Stasiun Perlintasan KRL
+
+Secara keseluruhan, KRL Commuter Line Yogyakarta–Solo melintasi dan berhenti di **13 stasiun**:
 
 * **Wilayah DIY:** Stasiun Yogyakarta (Tugu), Stasiun Lempuyangan, dan Stasiun Maguwo.
 * **Wilayah Klaten:** Stasiun Brambanan, Stasiun Srowot, Stasiun Klaten, Stasiun Ceper, dan Stasiun Delanggu.
 * **Wilayah Sukoharjo, Solo, & Karanganyar:** Stasiun Gawok, Stasiun Purwosari, Stasiun Solo Balapan, Stasiun Solo Jebres, dan Stasiun Palur.
 
-## 3. Tarif dan Metode Pembayaran Non-Tunai
+## 4. Tarif dan Metode Pembayaran Non-Tunai
 
-* **Tarif Datar (*Flat*):** Sebesar **Rp8.000** untuk satu kali perjalanan, berlaku sama baik untuk jarak dekat (antarstasiun dalam kota) maupun jarak jauh (Yogyakarta–Palur).
-* **Metode Pembayaran:** Pembelian tiket kertas di loket sudah ditiadakan sepenuhnya. Penumpang wajib menggunakan transaksi non-tunai melalui salah satu opsi berikut:
-  * **Kartu Multi Trip (KMT):** Kartu resmi terbitan KAI Commuter yang dapat dibeli di loket stasiun mulai harga Rp30.000 (sudah termasuk saldo awal).
-  * **Kartu Uang Elektronik Bank:** Mandiri *e-Money*, BCA *Flazz*, BNI *TapCash*, dan BRI *BRIZZI* dengan saldo mencukupi.
-  * **Tiket Digital (*QR Code*):** Pembelian langsung melalui fitur *GoTransit* pada aplikasi Gojek, *Access by KAI*, maupun *C-Access*.
+* **Tarif Datar (*Flat*):** Sebesar **Rp8.000** per satu kali perjalanan, berlaku sama baik untuk jarak dekat maupun jarak jauh.
+* **Metode Pembayaran:** Pembelian tiket kertas sudah ditiadakan sepenuhnya. Penumpang dapat menggunakan transaksi non-tunai melalui:
+  * **Kartu Multi Trip (KMT):** Kartu resmi terbitan KAI Commuter (tersedia di loket stasiun mulai harga Rp30.000 termasuk saldo awal).
+  * **Kartu Uang Elektronik Bank:** Mandiri *e-Money*, BCA *Flazz*, BNI *TapCash*, dan BRI *BRIZZI*.
+  * **Tiket Digital (*QR Code*):** Pembelian langsung melalui fitur *GoTransit* di aplikasi Gojek, *Access by KAI*, maupun *C-Access*.
 
-## 4. Tips Perjalanan Pekan Ini
+## 5. Tips Perjalanan Pekan Ini
 
 * **Hindari Jam Sibuk Komuter:** Kepadatan penumpang umumnya memuncak pada jam berangkat kerja dan sekolah di pagi hari (**06.00 – 08.00 WIB**) serta jam kepulangan di sore hingga petang hari (**16.00 – 18.30 WIB**).
-* **Tiba Lebih Awal di Stasiun:** Disarankan tiba sekurang-kurangnya **15 menit** sebelum jadwal keberangkatan kereta untuk mengantisipasi antrean di gerbang *tap-in* elektronik.
-* **Pantau Jadwal Secara *Real-Time*:** Selalu periksa potensi penyesuaian jadwal harian atau posisi kereta secara langsung melalui aplikasi *Access by KAI* maupun *C-Access* sebelum berangkat menuju stasiun.
+* **Tiba Lebih Awal di Stasiun:** Dianjurkan tiba sekurang-kurangnya **15 menit** sebelum jadwal keberangkatan kereta untuk mengantisipasi antrean di gerbang *tap-in*.
+* **Pantau Jadwal Secara *Real-Time*:** Untuk memantau posisi kereta secara *real-time* maupun jadwal per menit di tiap stasiun perhentian (seperti Lempuyangan, Maguwo, atau Klaten), penumpang dapat mengakses fitur *Commuter Line* di aplikasi **Access by KAI**, **C-Access**, atau situs resmi KAI Commuter.
