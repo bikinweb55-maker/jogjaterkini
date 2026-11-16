@@ -56,8 +56,7 @@ Jarak Tlogo Putri dari pusat Kota Yogyakarta sekitar **27 kilometer** dengan wak
 
 ## Harga Tiket Masuk & Jam Operasional
 
-![Telaga Putri]https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/125356115_189906529418220_3542461351152903885_n-746x420-1.jpg
-()
+![Telaga Putri](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/125356115_189906529418220_3542461351152903885_n-746x420-1.jpg)
 
 Untuk berkunjung ke Tlogo Putri, pengunjung akan dikenakan dua kali pembayaran retribusi, yakni di gerbang utama [kawasan Kaliurang](https://jogjaterkini.net/berita/7-objek-wisata-populer-di-kaliurang-jogja/) dan di loket masuk area Tlogo Putri:
 

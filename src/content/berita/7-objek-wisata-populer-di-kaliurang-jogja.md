@@ -63,7 +63,9 @@ Bagi pencari ketenangan, lembah hijau yang dibelah aliran sungai jernih dari mat
 
 ![Tlogo Putri Kaliurang](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/tlogo-putri2.webp)
 
-Tlogo Putri merupakan kawasan rekreasi keluarga yang berdekatan dengan pintu masuk Taman Nasional Gunung Merapi. Daya tarik utamanya meliputi danau buatan dengan wahana kano dan bebek air, jalur jalan kaki di bawah kanopi hutan pinus, serta panggung kesenian tradisional (seperti jathilan atau campursari) yang kerap digelar pada akhir pekan.
+[Tlogo Putri, atau juga bisa disebut Telaga Putri,](https://jogjaterkini.net/berita/tlogo-putri-kaliurang-wisata-keluarga-di-kaki-merapi/) merupakan kawasan rekreasi keluarga yang berdekatan dengan pintu masuk Taman Nasional Gunung Merapi. 
+
+Daya tarik utamanya meliputi danau buatan dengan wahana kano dan bebek air, jalur jalan kaki di bawah kanopi hutan pinus, serta panggung kesenian tradisional (seperti jathilan atau campursari) yang kerap digelar pada akhir pekan.
 
 * **Lokasi:** Jl. Tlogo Putri, Hargobinangun
 * **Harga Tiket Masuk:** Rp6.000 – Rp10.000 per orang *(di luar retribusi gerbang utama Kaliurang)*; wahana kano/bebek air mulai Rp15.000 – Rp20.000
