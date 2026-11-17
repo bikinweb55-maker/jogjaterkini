@@ -42,7 +42,8 @@ Hingga berita ini diturunkan, jajaran Polresta Sleman masih melakukan penanganan
 
 Keterangan resmi terkait identitas pengemudi, motif pelarian, serta jumlah pasti korban luka-luka masih menunggu hasil pemeriksaan medis dan penyidikan lebih lanjut dari pihak berwenang.
 
-Baca Juga:[Polresta Sleman Intensifkan Penanganan Kasus Tabrak Lari di Sleman] (https://jogjaterkini.net/berita/polresta-sleman-intensifkan-penanganan-kasus-tabrak-lari-beruntun-sopir-sigra/)
+Baca Juga: [Polresta Sleman Intensifkan Penanganan Kasus Tabrak Lari di Sleman] (https://jogjaterkini.net/berita/polresta-sleman-intensifkan-penanganan-kasus-tabrak-lari-beruntun-sopir-sigra/)
+
 
 ## Progress Informasi
 
