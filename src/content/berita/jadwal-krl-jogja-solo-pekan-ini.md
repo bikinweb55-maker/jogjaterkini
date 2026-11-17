@@ -1,5 +1,5 @@
 ---
-title: "Jadwal KRL Jogja–Solo Pekan Ini (16–22 November 2026)"
+title: "Jadwal KRL Jogja–Solo Pekan Ini: 17,18,19 November 2026"
 description: "Simak jadwal lengkap keberangkatan KRL Commuter Line Yogyakarta–Solo periode 17,18,19,20,21,dan 22 November 2026."
 pubDate: 2026-11-16T08:35:00+07:00
 category: "wisata"
