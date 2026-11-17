@@ -1,6 +1,6 @@
 ---
 title: "Jadwal KRL Jogja–Solo Pekan Ini (16–22 November 2026)"
-description: "Simak jadwal lengkap keberangkatan KRL Commuter Line Yogyakarta–Solo periode 16 hingga 22 November 2026."
+description: "Simak jadwal lengkap keberangkatan KRL Commuter Line Yogyakarta–Solo periode 17,18,19,20,21,dan 22 November 2026."
 pubDate: 2026-11-16T08:35:00+07:00
 category: "wisata"
 tags: ["Jadwal KRL Jogja Solo", "KRL Commuter Line", "Stasiun Tugu", "Stasiun Lempuyangan", "Transportasi Jogja", "KAI Commuter", "Berita Jogja"]
@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-**YOGYAKARTA —** Layanan kereta rel listrik (KRL) Commuter Line relasi Yogyakarta–Solo maupun arah sebaliknya beroperasi secara normal pada pekan ini, mulai Senin hingga Minggu, **16–22 November 2026**. Total terdapat 15 jadwal perjalanan dari arah Yogyakarta menuju Stasiun Palur serta 12 perjalanan untuk rute sebaliknya setiap harinya.
+**YOGYAKARTA —** Layanan kereta rel listrik (KRL) Commuter Line relasi Yogyakarta–Solo maupun arah sebaliknya beroperasi secara normal pada pekan ini, mulai Senin hingga Minggu, **16, 17, 18, 19, 20, 21, dan 22 November 2026**. Total terdapat 15 jadwal perjalanan dari arah Yogyakarta menuju Stasiun Palur serta 12 perjalanan untuk rute sebaliknya setiap harinya.
 
 Perjalanan KRL Commuter Line dari Stasiun Tugu Yogyakarta menuju wilayah Solo memakan waktu sekitar **1 jam 10 menit hingga 1 jam 25 menit**, bergantung pada stasiun tujuan akhir penumpang di Kota Solo (Purwosari, Solo Balapan, Solo Jebres, atau Palur).
 
