@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-**SLEMAN —** Terletak di kawasan sejuk Kaliurang, Kabupaten Sleman, Daerah Istimewa Yogyakarta, Agrowisata Bhumi Merapi hadir sebagai salah satu destinasi wisata keluarga paling lengkap di lereng selatan Gunung Merapi. 
+**SLEMAN —** Bhumi Merapi merupakan [destinasi wisata yang terletak di kawasan sejuk Kaliurang](https://jogjaterkini.net/berita/7-objek-wisata-populer-di-kaliurang-jogja/), Kabupaten Sleman, Daerah Istimewa Yogyakarta, Agrowisata Bhumi Merapi hadir sebagai salah satu destinasi wisata keluarga paling lengkap di lereng selatan Gunung Merapi. 
 
 ![Bhumi Merapi](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/bhumimerapi18.webp)
 
@@ -109,7 +109,7 @@ Akses menuju Agrowisata Bhumi Merapi terbilang mulus dan mudah dijangkau dari pu
 
 ## Ide Kombinasi Rute Wisata Searah
 
-Karena posisinya berada di jalur utama wisata Kaliurang, kunjungan ke Agrowisata Bhumi Merapi sangat pas dirangkai dengan beberapa destinasi terdekat dalam satu hari perjalanan:
+Karena posisinya berada di jalur utama [wisata Kaliurang](https://jogjaterkini.net/berita/7-objek-wisata-populer-di-kaliurang-jogja/), kunjungan ke Agrowisata Bhumi Merapi sangat pas dirangkai dengan beberapa destinasi terdekat dalam satu hari perjalanan:
 
 * **Museum Ullen Sentalu:** Cocok dipadukan bagi wisatawan yang ingin mengimbangi rekreasi keluarga dengan wisata sejarah serta seni budaya Jawa dalam tur berpemandu di tengah hutan yang asri (buka Selasa–Minggu, tutup hari Senin).
 * **The World Landmarks Merapi Park:** Pilihan pelengkap di jalur yang sama bagi pengunjung yang menyukai taman bertema replika ikon dunia dan area bermain air anak (buka setiap hari pukul 09.00–17.00 WIB).

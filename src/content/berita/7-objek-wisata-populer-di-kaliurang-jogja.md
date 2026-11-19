@@ -77,7 +77,9 @@ Daya tarik utamanya meliputi danau buatan dengan wahana kano dan bebek air, jalu
 
 ![Spot Foto Langlang Buana Bhumi Merapi](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/bhumi-merapi2.webp)
 
-Mengusung konsep wisata edukasi peternakan dan perkebunan, Bhumi Merapi sangat cocok untuk wisata keluarga bersama anak-anak. Pengunjung bisa berinteraksi langsung dengan kelinci, kambing etawa, hingga reptil, serta melihat proses pengolahan kopi luwak. Di area belakang, tersedia kawasan Langlang Buana yang menampilkan deretan bangunan bergaya Eropa seperti Santorini dan desa Alpen untuk berfoto.
+Mengusung konsep wisata edukasi peternakan dan perkebunan, Agrowisata [Bhumi Merapi](https://jogjaterkini.net/berita/menjelajahi-agrowisata-bhumi-merapi/) sangat cocok untuk wisata keluarga bersama anak-anak. Pengunjung bisa berinteraksi langsung dengan kelinci, kambing etawa, hingga reptil, serta melihat proses pengolahan kopi luwak. 
+
+Di area belakang, tersedia kawasan Langlang Buana yang menampilkan deretan bangunan bergaya Eropa seperti Santorini dan desa Alpen untuk berfoto.
 
 * **Lokasi:** Jl. Kaliurang KM 20, Sawungan
 * **Harga Tiket Masuk:** Rp30.000 – Rp35.000 per orang *(sudah termasuk akses ke seluruh area spot foto)*
