@@ -82,10 +82,15 @@ Berikut adalah rincian informasi praktis untuk merencanakan kunjungan Anda ke Ag
 
 ## Apa Kata Pengunjung? (Ringkasan Ulasan Google Review)
 
+![Bhumi Merapi](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/bhumimerapi3-1.webp)
+
 Untuk memberikan gambaran nyata sebelum berkunjung, berikut rangkuman pengalaman dari para wisatawan yang telah datang ke Agrowisata Bhumi Merapi:
 
 ### Apresiasi Pengunjung
 * *"Tempat wisata yang cukup edukatif dan cocok untuk liburan keluarga... Fasilitasnya lumayan lengkap, ada kolam renang, mini zoo, dan banyak spot foto yang instagramable."*
+
+![Bhumi Merapi](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/bhumimerapi7-1.webp)
+
 * *"Untuk penggemar reptil, aviary, dan paruh bengkok ada juga, sampai marmoset pun ada... Dengan harga masuk Rp30.000 sangat worth it untuk destinasi menuju Merapi, banyak wahana yang kalau seharian dikunjungi belum tentu selesai."*
 * *"Berkunjung pada hari kerja membuat tempat wisata tidak begitu ramai... Sudah termasuk foto-foto dengan berbagai satwa di dalam. Tempatnya bagus dan bersih, hewan-hewan di dalamnya juga cukup terawat."*
 
