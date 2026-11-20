@@ -12,6 +12,8 @@ location: "Yogyakarta"
 
 Berdasarkan informasi awal yang dihimpun dari laporan warga serta unggahan informasi di media sosial setempat, insiden tersebut terjadi sekitar pukul 07.45 hingga 07.58 WIB, tepat saat aktivitas lalu lintas pagi hari mulai ramai.
 
+Bac Kabar Terbaru: [Kabar Terkini Keributan dan Dugaan Pembacokan di Babarsari, CCTV dan Enam Saksi Diperiksa](https://jogjaterkini.net/berita/polresta-sleman-selidiki-keributan-di-babarsari/)
+
 ## Kronologi Kejadian dan Kerusakan di Lokasi
 
 Sejumlah saksi mata di lokasi kejadian menyebutkan bahwa keributan bermula ketika seseorang terlihat mengamuk dan membuat onar di pinggir jalan. Aksi tersebut berujung pada perusakan bagian dalam warung kelontong serta menyebabkan sejumlah barang dagangan berantakan.
