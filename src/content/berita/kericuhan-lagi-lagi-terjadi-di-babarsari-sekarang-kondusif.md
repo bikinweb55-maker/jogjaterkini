@@ -23,3 +23,7 @@ Berdasarkan laporan warga di lokasi serta pemantauan situasi pengamanan di lapan
 ## Patroli Pengawasan Lanjutan
 
 Meskipun massa telah berhasil dibubarkan dan aktivitas lalu lintas di koridor Jalan Babarsari kembali normal, personel gabungan kepolisian masih tetap disiagakan di sejumlah titik strategis. Aparat terus melakukan patroli pengawasan secara intensif di sepanjang kawasan Babarsari dan sekitarnya guna mengantisipasi potensi kembalinya kerumunan massa serta memastikan keamanan warga tetap terjaga.
+
+Baca juga : 
+* [Kericuhan Pecah di Babarsari Sleman, Sebuah Warung Madura Dirusak pada Kamis Pagi](https://jogjaterkini.net/berita/kericuhan-pecah-di-babarsari-sleman-sebuah-warung-madura-dirusak/)
+* [Kabar Terkini Keributan dan Dugaan Pembacokan di Babarsari, CCTV dan Enam Saksi Diperiksa](https://jogjaterkini.net/berita/polresta-sleman-selidiki-keributan-di-babarsari/)

@@ -27,3 +27,5 @@ Personel kepolisian dari Polsek Depok Barat di bawah jajaran Polresta Sleman seg
 Hingga berita ini diturunkan, pihak kepolisian masih melakukan penyelidikan mendalam serta olah TKP. Polisi belum mengeluarkan keterangan resmi mengenai pemicu pasti keributan, identitas pelaku maupun korban, serta kronologi lengkap—termasuk ada tidaknya upaya pembelaan diri dari penjaga warung saat kejadian berlangsung.
 
 Arus lalu lintas di sekitar Babarsari sempat tersendat akibat warga dan pengendara yang memperlambat laju kendaraan untuk melihat situasi. Masyarakat dan pengguna jalan yang melintas di kawasan tersebut diimbau untuk tetap berhati-hati serta menunggu informasi resmi dari kepolisian guna menghindari kabar simpang siur.
+
+Baca juga: [Aksi Lanjutan di Babarsari: Kericuhan Lagi-Lagi Terjadi](https://jogjaterkini.net/berita/kericuhan-lagi-lagi-terjadi-di-babarsari-sekarang-kondusif/)
