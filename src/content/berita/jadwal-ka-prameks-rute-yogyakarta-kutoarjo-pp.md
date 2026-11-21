@@ -1,5 +1,5 @@
 ---
-title: "Jadwal KA Prameks Rute Yogyakarta–Kutoarjo PP Terbaru dan Rencana Perpanjangan hingga Kebumen"
+title: "Jadwal KRL Jogja–Kutoarjo PP Terbaru dan Rencana Perpanjangan hingga Kebumen"
 description: "Simak jadwal terbaru KA Prameks rute Yogyakarta–Kutoarjo PP dengan tarif Rp8.000."
 pubDate: 2026-11-21T17:21:00+07:00
 category: "wisata"
