@@ -12,6 +12,8 @@ location: "Yogyakarta"
 
 Penetapan tersebut dituangkan melalui Keputusan Gubernur DIY Nomor 392 dan Nomor 393 Tahun 2026, mengacu pada Undang-Undang Pelindungan Ketenagakerjaan serta mempertimbangkan rekomendasi Dewan Pengupahan DIY.
 
+Baca Juga: [Jelang Batas Akhir 21 November 2026, Penetapan UMP DIY 2027 Masuki Tahap Finalisasi: Ini Simulasi Kenaikannya](https://jogjaterkini.net/berita/penetapan-ump-diy-2027-masuki-tahap-finalisasi/)
+
 ## Picu Kontroversi di Media Sosial, Warganet Bandingkan dengan Jakarta
 
 Kendati mengalami kenaikan persentase yang cukup tinggi dibanding tahun sebelumnya, penetapan UMP DIY 2027 sebesar Rp2,72 juta ini langsung memicu kontroversi dan perdebatan ramai di berbagai platform media sosial, seperti **X** maupun **Threads**.
