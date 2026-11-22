@@ -26,7 +26,6 @@ Sebagai salah satu objek wisata keluarga favorit di Yogyakarta bagian utara, Sur
 
 ![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0007.webp)
 
-![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0014.webp)
 
 * **Koleksi Satwa Beragam & Zona Akuarium:** Meski ukurannya tergolong kebun binatang mini, koleksi satwanya cukup variatif—mulai dari kapibara, binturong, berang-berang, meerkat, kelinci, beragam burung di dalam *aviary*, hingga area reptil, serangga di lantai atas, serta zona akuatik (akuarium) yang kerap menjadi spot favorit anak-anak maupun lokasi swafoto.
 
