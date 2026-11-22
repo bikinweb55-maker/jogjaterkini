@@ -8,9 +8,9 @@ author: "redaksi"
 location: "Sleman"
 ---
 
-**SLEMAN —** Kalau sedang merencanakan liburan akhir pekan bersama keluarga di kawasan Kaliurang, Sleman, **Suraloka Interactive Zoo** layak masuk ke dalam daftar kunjungan. 
+**SLEMAN —** Kalau sedang merencanakan [liburan akhir pekan bersama keluarga di kawasan Kaliurang](https://jogjaterkini.net/berita/7-objek-wisata-populer-di-kaliurang-jogja/), Sleman, **Suraloka Interactive Zoo** layak masuk ke dalam daftar kunjungan. 
 
-[Suraloka MiniZoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-31.webp)
+![Suraloka MiniZoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-31.webp)
 
 Berada di jalur sejuk lereng Merapi—tepatnya di Jl. Boyong No. 97, Kaliurang, Hargobinangun, Kapanewon Pakem—destinasi ini menawarkan konsep kebun binatang mini (*mini zoo*) sekaligus taman rekreasi edukatif yang ramah bagi anak-anak.
 
@@ -22,27 +22,27 @@ Sebagai salah satu objek wisata keluarga favorit di Yogyakarta bagian utara, Sur
 
 * **Pengalaman Interaktif, *Feeding* Satwa, dan *Animal Show*:** Sesuai namanya, daya tarik utama tempat ini ada pada aktivitas interaktifnya. Pengunjung bisa memberi makan satwa langsung (seperti domba, burung unta/*ostrich*, rusa, kura-kura sulcata, burung sunconur, jalak, alpaka, hingga meerkat), berfoto bersama burung di area *aviary*, hingga menyaksikan pertunjukan satwa (*animal show*) dan edukasi hewan yang dijadwalkan beberapa kali dalam sehari (antara lain sekitar pukul 11.00 WIB serta pukul 13.00–14.00 WIB).
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0002.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0002.webp)
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0007.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0007.webp)
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0014.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0014.webp)
 
 * **Koleksi Satwa Beragam & Zona Akuarium:** Meski ukurannya tergolong kebun binatang mini, koleksi satwanya cukup variatif—mulai dari kapibara, binturong, berang-berang, meerkat, kelinci, beragam burung di dalam *aviary*, hingga area reptil, serangga di lantai atas, serta zona akuatik (akuarium) yang kerap menjadi spot favorit anak-anak maupun lokasi swafoto.
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0001.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0001.webp)
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0003.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0003.webp)
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0004.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0004.webp)
 
 * **Fasilitas Pendukung Keluarga:** Di dalam kawasan tersedia area bermain anak (*playground*), beberapa wahana berbayar tambahan, stan jajanan ringan (seperti sosis bakar, kentang goreng, hingga es krim), toko suvenir, toilet, serta musala di area luar pintu masuk.
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-38.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-38.webp)
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-46.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-46.webp)
 
-[Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0015.webp)
+![Suraloka Minizoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/0015.webp)
 
 ## Informasi Lokasi, Tiket, dan Harga Pakan Satwa
 
@@ -86,3 +86,5 @@ Karena lokasinya strategis di jalur wisata utama, kunjungan ke Suraloka Interact
 * **Pagi (09.30–11.45 WIB):** Menjelajah satwa, mencoba *feeding* hewan, masuk ke zona akuatik, dan menonton *animal show* sesi pagi di Suraloka Interactive Zoo.
 * **Siang (12.00–13.30 WIB):** Makan siang dan mencicipi kuliner khas Kaliurang seperti jadah tempe atau olahan sate kelinci di sekitar Pakem–Kaliurang.
 * **Sore (14.00–16.30 WIB):** Bersantai menikmati udara sejuk hutan pinus di Tlogo Putri Kaliurang atau singgah di salah satu kafe bernuansa alam di sepanjang Jalan Kaliurang sebelum kembali ke pusat kota.
+
+Baca Juga: [Menjelajahi Agrowisata Bhumi Merapi: Perpaduan Edukasi Alam dan Spot Foto Ala Eropa di Kaki Gunung Merapi](https://jogjaterkini.net/berita/menjelajahi-agrowisata-bhumi-merapi/)
