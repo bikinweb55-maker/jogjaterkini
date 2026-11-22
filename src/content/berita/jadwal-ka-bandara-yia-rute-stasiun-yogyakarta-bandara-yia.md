@@ -37,4 +37,4 @@ Dalam operasionalnya, perjalanan menuju Bandara YIA terdiri atas dua pilihan jen
 
 Untuk mengecek rincian kategori layanan pada masing-masing jam keberangkatan sekaligus membeli tiket secara daring, calon penumpang dapat mengakses situs maupun aplikasi resmi **KAI Bandara (Railink)**, aplikasi **Access by KAI**, atau melalui platform mitra perjalanan seperti **Traveloka**. Penumpang disarankan memilih jadwal kereta yang tiba di Bandara YIA setidaknya 1,5 hingga 2 jam sebelum waktu keberangkatan pesawat agar proses *check-in* dan pemeriksaan keamanan berjalan lancar.
 
-Baca Juga: [Jadwal Bus Damri YIA-Jogja-Sleman](/panduan-jadwal-rute-dan-tarif-bus-damri-yia-jogja-sleman/)
+Baca Juga: [Jadwal Bus Damri YIA-Jogja-Sleman](https://jogjaterkini.net/berita/panduan-jadwal-rute-dan-tarif-bus-damri-yia-jogja-sleman/)
