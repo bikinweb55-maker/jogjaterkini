@@ -89,7 +89,7 @@ Di area belakang, tersedia kawasan Langlang Buana yang menampilkan deretan bangu
 
 ![Suraloka Interactive Zoo Kaliurang](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/suroloyo-interactive-zoo.png)
 
-Kebun binatang mini berkonsep modern ini dirancang ramah anak dengan tata ruang bersih dan rapi. Selain melihat berbagai koleksi satwa seperti burung eksotis, iguana, dan mamalia kecil, anak-anak dapat mengikuti sesi interaksi memberi makan satwa, menunggang kuda poni, hingga bermain di wahana *high rope* dan *flying fox*.
+[Suraloka Interactive Zoo Kaliurang](https://jogjaterkini.net/berita/suraloka-interactive-zoo-kaliurang/) adalah kebun binatang mini berkonsep modern , yang dirancang ramah anak, dengan tata ruang bersih dan rapi. Selain melihat berbagai koleksi satwa seperti burung eksotis, iguana, dan mamalia kecil, anak-anak dapat mengikuti sesi interaksi memberi makan satwa, menunggang kuda poni, hingga bermain di wahana *high rope* dan *flying fox*.
 
 * **Lokasi:** Jl. Boyong No. 97, Kaliurang
 * **Harga Tiket Masuk:** Rp30.000 (hari biasa) | Rp40.000 – Rp50.000 (akhir pekan/libur nasional); wahana tambahan & pakan satwa mulai Rp10.000 – Rp35.000
