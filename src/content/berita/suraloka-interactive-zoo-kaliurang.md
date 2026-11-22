@@ -10,7 +10,7 @@ location: "Sleman"
 
 **SLEMAN —** Kalau sedang merencanakan [liburan akhir pekan bersama keluarga di kawasan Kaliurang](https://jogjaterkini.net/berita/7-objek-wisata-populer-di-kaliurang-jogja/), Sleman, **Suraloka Interactive Zoo** layak masuk ke dalam daftar kunjungan. 
 
-![Suraloka MiniZoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/unnamed-31.webp)
+![Suraloka MiniZoo](https://bikinwebportfolio.my.id/wp-content/uploads/2026/11/Gemini_Generated_Image_irl34tirl34tirl3-1.jpeg)
 
 Berada di jalur sejuk lereng Merapi—tepatnya di Jl. Boyong No. 97, Kaliurang, Hargobinangun, Kapanewon Pakem—destinasi ini menawarkan konsep kebun binatang mini (*mini zoo*) sekaligus taman rekreasi edukatif yang ramah bagi anak-anak.
 
