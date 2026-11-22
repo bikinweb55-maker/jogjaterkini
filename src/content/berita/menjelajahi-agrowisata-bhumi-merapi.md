@@ -112,7 +112,7 @@ Akses menuju Agrowisata Bhumi Merapi terbilang mulus dan mudah dijangkau dari pu
 Karena posisinya berada di jalur utama [wisata Kaliurang](https://jogjaterkini.net/berita/7-objek-wisata-populer-di-kaliurang-jogja/), kunjungan ke Agrowisata Bhumi Merapi sangat pas dirangkai dengan beberapa destinasi terdekat dalam satu hari perjalanan:
 
 * **Museum Ullen Sentalu:** Cocok dipadukan bagi wisatawan yang ingin mengimbangi rekreasi keluarga dengan wisata sejarah serta seni budaya Jawa dalam tur berpemandu di tengah hutan yang asri (buka Selasa–Minggu, tutup hari Senin).
-* **The World Landmarks Merapi Park:** Pilihan pelengkap di jalur yang sama bagi pengunjung yang menyukai taman bertema replika ikon dunia dan area bermain air anak (buka setiap hari pukul 09.00–17.00 WIB).
+* [**Suraloka Interactive Zoo:**](https://jogjaterkini.net/berita/suraloka-interactive-zoo-kaliurang/) Menawarkan konsep kebun binatang mini (mini zoo) sekaligus taman rekreasi edukatif yang ramah bagi anak-anak. (buka setiap hari pukul 09.00–17.00 WIB).
 * **HeHa Forest:** Menjadi penutup agenda sore hari yang pas dengan suasana hutan pinus yang sejuk, jalur jalan santai, dan ragam sudut foto terbuka (buka pukul 10.00–19.00 WIB).
 
 ## Tips Berkunjung agar Liburan Maksimal
