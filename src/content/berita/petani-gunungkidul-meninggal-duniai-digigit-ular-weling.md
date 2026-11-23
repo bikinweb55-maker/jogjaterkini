@@ -8,7 +8,7 @@ author: "redaksi"
 location: "Yogyakarta"
 ---
 
-**GUNUNGKIDUL —** Harlyah (46), seorang petani asal Padukuhan Karangsari, Kalurahan Pengkol, Kapanewon Nglipar, Kabupaten Gunungkidul, meninggal dunia di RSUD Wonosari pada Minggu (22/11/2026) sekitar pukul 05.30 WIB. Korban mengembuskan napas terakhir setelah digigit ular weling (*Bungarus fasciatus*) di dalam rumahnya pada malam sebelumnya.
+**GUNUNGKIDUL —** Harlyah (46), seorang petani asal Padukuhan Karangsari, Kalurahan Pengkol, Kapanewon Nglipar, Kabupaten Gunungkidul, meninggal dunia di RSUD Wonosari pada Minggu (22/11/2026) sekitar pukul 05.30 WIB. Korban mengembuskan napas terakhir setelah digigit ular weling (*Bungarus candidus*) di dalam rumahnya pada malam sebelumnya.
 
 Kapolsek Nglipar, **AKP Paryadi**, mengonfirmasi bahwa insiden nahas tersebut terjadi sekitar pukul 22.00 WIB pada Sabtu (21/11/2026), saat korban bersiap untuk tidur di ruang televisi keluarganya.
 
