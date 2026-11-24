@@ -10,6 +10,8 @@ location: "Gunungkidul"
 
 **GUNUNGKIDUL —** Meninggalnya Harliyah (46), warga Padukuhan Karangsari, Kalurahan Pengkol, Kapanewon Nglipar, Kabupaten Gunungkidul, setelah digigit ular weling (*Bungarus candidus*) membuka diskusi penting mengenai ketersediaan serum antibisa spesifik di fasilitas kesehatan daerah.
 
+Baca Juga: [Petani di Gunungkidul Meninggal Dunia Usai Digigit Ular Weling di Dalam Rumah](https://jogjaterkini.net/berita/petani-gunungkidul-meninggal-duniai-digigit-ular-weling/)
+
 Kepala Dinas Kesehatan Kabupaten Gunungkidul, **Ismono**, menjelaskan bahwa keterbatasan stok serum antibisa spesifik ular weling di fasilitas kesehatan tingkat pertama dipicu oleh sejumlah faktor teknis, mulai dari mekanisme pengadaan impor khusus oleh Kementerian Kesehatan, harga yang relatif mahal, hingga masa kedaluwarsa yang singkat.
 
 ## Kronologi Kejadian di Nglipar

@@ -31,3 +31,5 @@ Masyarakat diimbau untuk menerapkan langkah-langkah pencegahan dan penanganan aw
 * **Periksa tempat tidur dan alas kaki:** Selalu kibaskan selimut, kasur, lipatan pakaian, serta periksa bagian dalam sepatu sebelum digunakan.
 * **Segera menuju rumah sakit penyedia antibisa:** Bisa ular weling bersifat neurotoksik (menyerang sistem saraf) sehingga penanganan medis yang cepat di fasilitas kesehatan dengan ketersediaan serum antibisa sangat menentukan keselamatan korban.
 * **Hindari penanganan tradisional yang berisiko:** Jangan menyayat luka gigitan, mengisap bisa dengan mulut, memijat area yang tergigit, maupun mengikat bagian tubuh terlalu kencang (*tourniquet*) karena tindakan tersebut dapat memperparah kerusakan jaringan dan mempercepat penyebaran komplikasi.
+
+Baca Juga: [Keterbatasan Serum Antibisa Spesifik Ular Weling Disorot Usai Warga Nglipar Gunungkidul Meninggal Dunia](https://jogjaterkini.net/berita/keterbatasan-serum-antibisa-spesifik-ular-weling-disorot/)
