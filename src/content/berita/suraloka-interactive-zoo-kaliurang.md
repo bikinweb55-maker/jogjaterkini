@@ -1,6 +1,6 @@
 ---
 title: "Suraloka Interactive Zoo: Pilihan Liburan Keluarga Seru di Kawasan Kaliurang"
-description: "Simak panduan wisata Suraloka Interactive Zoo di Kaliurang, Sleman, lengkap dengan info tiket, harga pakan satwa, animal show, tips berkunjung, dan ide rute harian."
+description: "Pingin lihat capybara, burung merak, praire dog, dan merkat secara langsung? Atau kasi makan alpaca, kelinci dan kura-kura? Ke sini aja..!!! "
 pubDate: 2026-11-22T10:46:00+07:00
 category: "wisata"
 tags: ["Berita Jogja", "Wisata Jogja", "Suraloka Interactive Zoo", "Kaliurang", "Sleman", "Wisata Keluarga"]
