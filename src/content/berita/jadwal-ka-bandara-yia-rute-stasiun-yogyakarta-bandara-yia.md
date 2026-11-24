@@ -1,6 +1,6 @@
 ---
-title: "Jadwal KA Bandara YIA Rute Stasiun Yogyakarta–Bandara YIA Hari Ini, Minggu 22 November 2026"
-description: "Simak jadwal lengkap 12 keberangkatan KA Bandara YIA rute Stasiun Yogyakarta (Tugu)–Bandara YIA pada Minggu, 22 November 2026 dengan waktu tempuh hanya 39 menit."
+title: "Jadwal KA Bandara YIA Rute Stasiun Yogyakarta–Bandara YIA Hari Ini"
+description: "Simak jadwal lengkap 12 keberangkatan KA Bandara YIA rute Stasiun Yogyakarta (Tugu)–Bandara YIA."
 pubDate: 2026-11-22T09:36:00+07:00
 category: "wisata"
 tags: ["Berita Jogja", "KA Bandara YIA", "Stasiun Tugu", "Bandara YIA", "Railink", "Transportasi Jogja"]
