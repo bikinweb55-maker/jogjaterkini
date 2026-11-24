@@ -27,6 +27,8 @@ Merujuk daftar kereta yang disebutkan oleh `@kai121_` untuk rute Yogyakarta–So
 
 *(Catatan: Jam keberangkatan mengacu pada estimasi pola jadwal perjalanan dan dapat berubah sesuai grafik perjalanan serta ketersediaan layanan kelas masing-masing KA.)*
 
+Baca Juga: [Jadwal KRL Jogja–Solo Pekan Ini](https://jogjaterkini.net/berita/jadwal-krl-jogja-solo-pekan-ini/)
+
 ## Mengapa Tarif Khusus Jadi Alternatif KRL Jogja–Solo?
 
 Sebagai alternatif KRL Jogja–Solo, kereta antarkota bertarif khusus memiliki beberapa keunggulan bagi penumpang yang berangkat dini hari maupun pagi hari:
@@ -44,3 +46,7 @@ Untuk mendapatkan tarif khusus rute Yogyakarta–Solo Balapan, calon penumpang p
 3. **Ketersediaan Kursi:** Tarif khusus berlaku selama alokasi kursi pada kereta terkait masih tersedia saat waktu pemesanan dibuka.
 
 Bagi penumpang yang mencari alternatif KRL Jogja–Solo untuk mengejar agenda pagi di Solo, mengecek ketersediaan kursi di aplikasi Access by KAI tepat dua jam sebelum jadwal kereta menjadi langkah paling praktis sebelum berangkat ke stasiun.
+
+Baca Juga:
+* [Jadwal KA Bandara YIA Rute Stasiun Yogyakarta–Bandara YIA Hari Ini, Minggu 22 November 2026](https://jogjaterkini.net/berita/jadwal-ka-bandara-yia-rute-stasiun-yogyakarta-bandara-yia/)
+* [Jadwal KRL Jogja–Kutoarjo PP Terbaru dan Rencana Perpanjangan hingga Kebumen](https://jogjaterkini.net/berita/jadwal-ka-prameks-rute-yogyakarta-kutoarjo-pp/)
