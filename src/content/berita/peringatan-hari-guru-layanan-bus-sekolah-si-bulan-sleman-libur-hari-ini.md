@@ -2,7 +2,7 @@
 title: 'Peringatan Hari Guru, Layanan Bus Sekolah Gratis "Si Bulan" Sleman Libur Sementara Hari Ini'
 description: "Dishub Sleman menghentikan sementara operasional layanan bus sekolah gratis Si Bulan pada peringatan Hari Guru Nasional, Rabu 25 November 2026."
 pubDate: 2026-11-25T07:25:00+07:00
-category: "transportasi"
+category: "pendidikan"
 tags: ["Berita Sleman", "Dishub Sleman", "Bus Sekolah Si Bulan", "Hari Guru Nasional", "Transportasi Jogja", "Pelajar Sleman"]
 author: "redaksi"
 location: "Sleman"
