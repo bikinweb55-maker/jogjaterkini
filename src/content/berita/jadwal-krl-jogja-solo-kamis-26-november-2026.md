@@ -1,10 +1,12 @@
-## title: "Jadwal KRL Jogja–Solo Kamis 26 November 2026: Rute Palur ke Tugu Yogyakarta dan Sebaliknya"
+---
+title: "Jadwal KRL Jogja–Solo Kamis 26 November 2026: Rute Palur ke Tugu Yogyakarta dan Sebaliknya"
 description: "Cek jadwal lengkap KRL Commuter Line Jogja–Solo hari ini, Kamis 26 November 2026 relasi Palur–Tugu Yogyakarta pulang-pergi beserta tarif flat Rp8.000."
 pubDate: 2026-11-26T08:44:00+07:00
-category: "transportasi"
-tags: \["Berita Jogja", "KRL Jogja Solo", "Commuter Line", "Jadwal KRL", "Stasiun Tugu", "Transportasi Jogja"\]
+category: "wisata"
+tags: ["Berita Jogja", "KRL Jogja Solo", "Commuter Line", "Jadwal KRL", "Stasiun Tugu", "Transportasi Jogja"]
 author: "redaksi"
-location: "Kota Yogyakarta"
+location: "Yogyakarta"
+---
 
 **YOGYAKARTA —** Layanan **KRL Commuter Line** relasi **Palur–Solo Balapan–Tugu Yogyakarta** pada hari ini, **Kamis, 26 November 2026**, beroperasi penuh mulai pagi hari hingga tiba di stasiun akhir menjelang tengah malam dengan tarif flat sebesar **Rp8.000** untuk sekali perjalanan.
 
