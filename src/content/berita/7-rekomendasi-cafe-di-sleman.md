@@ -148,3 +148,5 @@ Berada di tengah kawasan persawahan Ngaglik, Oppio Coffee & Milk menawarkan area
 Kafe ini juga dikenal ramah hewan peliharaan (*pet-friendly*) dengan halaman rumput luas serta ramah keluarga berkat adanya *playground*, kelinci, dan *board game*. Menu yang banyak direkomendasikan meliputi Mix Platter, Saikoro Skewer, Sop Buntut, Roasted Chicken, kopi susu/Baileys coffee, dan Crème Brûlée.
 
 > **Catatan Pengunjung:** Harga menunya tergolong cukup tinggi untuk ukuran kafe di Yogyakarta dan beberapa ulasan menilai rasa hidangannya cenderung standar dibandingkan harganya. Selain itu, akses jalannya agak masuk ke area pedesaan, serta area *indoor* bisa terasa cukup gerah pada siang hari yang terik.
+
+Baca Juga: [Tempat Nongkrong Paling Hits di Jogja 2026: Pilihan Terbaik di Kota, Sleman, hingga Bantul](https://jogjaterkini.net/berita/tempat-nongkrong-jogja-hits-2026/)

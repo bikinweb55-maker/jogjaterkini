@@ -42,6 +42,8 @@ Kawasan utara Jogja (Sleman dan sekitarnya) menjadi pusat berkumpulnya kafe berk
   * **Lokasi:** Condongcatur, Sleman.
   * **Keunggulan:** Mengusung konsep minimalis Zen yang tenang. Menyediakan *silent room* dan fasilitas colokan listrik di setiap meja, menjadikannya surga bagi pelaku WFC (*Work From Cafe*) hingga tengah malam (bahkan hingga pukul 03.00 WIB saat akhir pekan).
 
+  Baca Juga: [7 Rekomendasi Cafe di Sleman Utara: Jalan Palagan, Jalan Damai, Jalan Kaliurang](https://jogjaterkini.net/berita/7-rekomendasi-cafe-di-sleman/)
+
 ## 2. KOTA JOGJA — Ikon Klasik dan Pusat Kuliner Malam
 
 Bagi yang mencari akses mudah di tengah kota dengan sajian menu lengkap, kawasan pusat kota selalu menjadi rujukan utama.
@@ -72,3 +74,6 @@ Jika Anda merencanakan waktu berkunjung dalam satu hari penuh, berikut adalah be
 
 1. **Rute Senja & Malam Modern:** Menikmati sore di Puncak Sosok menikmati pemandangan *city light*, dilanjutkan nongkrong malam di kawasan utara (Epic Coffee atau Milk n Matcha).
 2. **Rute Santai & Nugas 24 Jam:** Memilih kafe-kafe ramah WFC seperti Rubah Coffee atau mampir ke kawasan Kotabaru seperti Silol Kopi & Eatery.
+
+Baca Juga: 
+* [Rekomendasi Tempat Nongkrong Hits Sekitar Malioboro 2026: Dari Balkon Hingga Rel](https://jogjaterkini.net/berita/rekomendasi_cafe_malioboro_2026/)
