@@ -27,3 +27,5 @@ Selain menyasar aset properti yang berada di Kabupaten Bantul, penyidik BNN juga
 Secara keseluruhan, daftar barang bukti yang diamankan dari perkara TPPU jaringan narkotika tersangka AA ini meliputi **11 unit mobil**, sepeda motor, perhiasan dan logam mulia berupa emas, sejumlah uang tunai, serta berbagai aset properti lain yang diduga kuat bersumber dari hasil tindak pidana narkotika.
 
 Saat ini, penyidik BNN masih terus mendalami aliran transaksi keuangan serta mendata seluruh aset yang terafiliasi dengan tersangka AA guna proses pembuktian di persidangan sesuai ketentuan Undang-Undang Pemberantasan Tindak Pidana Pencucian Uang dan Undang-Undang Narkotika.
+
+Baca Juga: [Perangkat Wilayah Tamantirto Bantah Terima Laporan Terkait Kabar Penggeledahan di Tegal Wangi](https://jogjaterkini.net/berita/perangkat-wilayah-tamantirto-bantah-terima-laporan-terkait-kabar-penggeledahan-di-tegal-wangi/)
