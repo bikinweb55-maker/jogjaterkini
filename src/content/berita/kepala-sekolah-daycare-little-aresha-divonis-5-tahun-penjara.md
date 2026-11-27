@@ -35,3 +35,5 @@ Vonis yang dijatuhkan majelis hakim lebih ringan dibandingkan tuntutan jaksa pen
 Perkara ini berawal pada April 2026 ketika kepolisian menggerebek Daycare Little Aresha di kawasan Sorosutan, Umbulharjo, Yogyakarta. Penggerebekan dilakukan setelah adanya laporan dari mantan karyawan mengenai dugaan perlakuan buruk terhadap 83 anak balita.
 
 Sebelumnya, pada Rabu (28/10/2026), 11 pengasuh di tempat penitipan anak tersebut juga telah dijatuhi vonis dengan hukuman 2 hingga 3 tahun penjara serta denda masing-masing Rp60 juta subsider 52 hari kurungan. Adapun berkas perkara pemilik sekaligus Ketua Yayasan Aresha Indonesia Center, Diyah Kusumastuti, ditangani secara terpisah.
+
+Baca Juga: [Pemilik Daycare Little Aresha Divonis 9 Tahun Penjara dan Wajib Bayar Restitusi Rp200,9 Juta di PN Yogyakarta](https://jogjaterkini.net/berita/pemilik-daycare-little-aresha-divonis-9-tahun-penjara-dan-wajib-bayar-restitusi-rp200-9-juta-di-pn-yogyakarta/)

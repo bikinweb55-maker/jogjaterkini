@@ -14,6 +14,8 @@ Dalam sidang putusan yang dipimpin oleh Ketua Majelis Hakim **Sunaryanto** terse
 
 Putusan 9 tahun penjara yang dijatuhkan majelis hakim ini tercatat lebih ringan satu tahun dibandingkan tuntutan Jaksa Penuntut Umum (JPU) yang sebelumnya menuntut terdakwa dengan pidana 10 tahun penjara.
 
+Baca Juga: [Kepala Sekolah Daycare Little Aresha Divonis 5 Tahun Penjara](https://jogjaterkini.net/berita/kepala-sekolah-daycare-little-aresha-divonis-5-tahun-penjara/)
+
 ## Ringkasan Amar Putusan Majelis Hakim PN Yogyakarta
 
 | Jenis Sanksi | Ketentuan Putusan | Sanksi Pengganti (Subsider) |
